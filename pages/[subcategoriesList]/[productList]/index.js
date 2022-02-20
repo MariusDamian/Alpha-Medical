@@ -7,6 +7,7 @@ import categories from "../../components/JSON/categories.json";
 import { useRouter } from "next/router";
 import Navbar from "../../components/Navbar/Navbar";
 import Footer from "../../components/Footer/Footer";
+import Head from "next/head";
 
 function ProductList() {
      const router = useRouter();
@@ -16,6 +17,12 @@ function ProductList() {
      let currentSubCategory = subcategories.filter((subCategory) => subCategory.subCatName.replace(/ /g, "-").toLocaleLowerCase() === productList);
      return (
           <>
+               <Head>
+                    <title>
+                         Produse {currentSubCategory[0]?.subCatName} | {currentCategory[0]?.catName} | Alpha Medical
+                    </title>
+                    <meta name="description" content="Aparatura si echipamente medicale" />
+               </Head>
                <Navbar />
                <div className="bg-fixed min-h-screen bg-cover pt-5 lg:pt-28">
                     <div className="flex flex-row items-center justify-center text-2xl max-w-7xl mx-auto relative">
