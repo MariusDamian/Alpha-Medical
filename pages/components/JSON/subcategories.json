@@ -1,0 +1,116 @@
+[
+     {
+          "subCatPar": "ATI",
+          "subCatName": "Ventilatie mecanica",
+          "subCatDescription": "Medical equipment for hospitals",
+          "subCatImage": "subcategorie-ventilatie-mecanica.png"
+     },
+     {
+          "subCatPar": "ATI",
+          "subCatName": "Ecografe POC",
+          "subCatDescription": "Medical equipment for hospitals",
+          "subCatImage": "subcategorie-conectori-si-capacele.png"
+     },
+     {
+          "subCatPar": "ATI",
+          "subCatName": "Eliminarea secretiilor",
+          "subCatDescription": "Medical equipment for hospitals",
+          "subCatImage": "subcategorie-acces-vascular.png"
+     },
+     {
+          "subCatPar": "ATI",
+          "subCatName": "Sisteme de incalzire",
+          "subCatDescription": "Medical equipment for hospitals",
+          "subCatImage": "subcategorie-ecografe.png"
+     },
+     {
+          "subCatPar": "ATI",
+          "subCatName": "Monitorizare functii vitale",
+          "subCatDescription": "Medical equipment for hospitals",
+          "subCatImage": "subcategorie-eliminarea-secretiilor.png"
+     },
+     {
+          "subCatPar": "ATI",
+          "subCatName": "Pompe pentru seringa si perfuzie",
+          "subCatDescription": "Medical equipment for hospitals",
+          "subCatImage": "subcategorie-management-respiratorii.png"
+     },
+     {
+          "subCatPar": "ATI",
+          "subCatName": "Acces vascular",
+          "subCatDescription": "Medical equipment for hospitals",
+          "subCatImage": "subcategorie-monitorizare-functii-vitale.png"
+     },
+     {
+          "subCatPar": "ATI",
+          "subCatName": "Managmentul cailor respiratorii",
+          "subCatDescription": "Medical equipment for hospitals",
+          "subCatImage": "subcategorie-pompe-perfuzie.png"
+     },
+     {
+          "subCatPar": "Protectie-impotriva-infectiilor",
+          "subCatName": "Conectori si capacele",
+          "subCatDescription": "Medical equipment for hospitals",
+          "subCatImage": "subcategorie-sisteme-incalzire.png"
+     },
+     {
+          "subCatPar": "Protectie-impotriva-infectiilor",
+          "subCatName": "Pansamente CHG",
+          "subCatDescription": "Medical equipment for hospitals",
+          "subCatImage": "subcategorie-protectie-impotriva-infectiilor.png"
+     },
+     {
+          "subCatPar": "Protectie-impotriva-infectiilor",
+          "subCatName": "Masti de protectie",
+          "subCatDescription": "Medical equipment for hospitals",
+          "subCatImage": "subcategorie-conectori-si-capacele.png"
+     },
+     {
+          "subCatPar": "Oncologie",
+          "subCatName": "Linii extensie",
+          "subCatDescription": "Medical equipment for hospitals",
+          "subCatImage": "subcategorie-acces-vascular.png"
+     },
+     {
+          "subCatPar": "Oncologie",
+          "subCatName": "Conectori",
+          "subCatDescription": "Medical equipment for hospitals",
+          "subCatImage": "subcategorie-ecografe.png"
+     },
+     {
+          "subCatPar": "Oncologie",
+          "subCatName": "Aparatura",
+          "subCatDescription": "Medical equipment for hospitals",
+          "subCatImage": "subcategorie-eliminarea-secretiilor.png"
+     },
+     {
+          "subCatPar": "Ingrijirea ranilor si a plagilor",
+          "subCatName": "Pansamente",
+          "subCatDescription": "Medical equipment for hospitals",
+          "subCatImage": "subcategorie-management-respiratorii.png"
+     },
+     {
+          "subCatPar": "Ingrijirea ranilor si a plagilor",
+          "subCatName": "Creme",
+          "subCatDescription": "Medical equipment for hospitals",
+          "subCatImage": "subcategorie-monitorizare-functii-vitale.png"
+     },
+     {
+          "subCatPar": "Sterilizare",
+          "subCatName": "Aparatura",
+          "subCatDescription": "Medical equipment for hospitals",
+          "subCatImage": "subcategorie-pompe-perfuzie.png"
+     },
+     {
+          "subCatPar": "Sterilizare",
+          "subCatName": "Consumabile",
+          "subCatDescription": "Medical equipment for hospitals",
+          "subCatImage": "subcategorie-sisteme-incalzire.png"
+     },
+     {
+          "subCatPar": "Urologie",
+          "subCatName": "Catetere urinare",
+          "subCatDescription": "Medical equipment for hospitals",
+          "subCatImage": "subcategorie-protectie-impotriva-infectiilor.png"
+     }
+]

@@ -1,0 +1,42 @@
+﻿[
+     {
+          "catName": "ATI",
+          "catDescription": "Medical equipment for hospitals",
+          "catImage": "1.png"
+     },
+     {
+          "catName": "Chirurgie",
+          "catDescription": "Medical equipment for hospitals",
+          "catImage": "2.png"
+     },
+     {
+          "catName": "Ingrijirea ranilor si a plagilor",
+          "catDescription": "Medical equipment for hospitals",
+          "catImage": "3.png"
+     },
+     {
+          "catName": "Protectie impotriva infectiilor",
+          "catDescription": "Medical equipment for hospitals",
+          "catImage": "4.png"
+     },
+     {
+          "catName": "Oncologie",
+          "catDescription": "Medical equipment for hospitals",
+          "catImage": "5.png"
+     },
+     {
+          "catName": "Urologie",
+          "catDescription": "Medical equipment for hospitals",
+          "catImage": "6.png"
+     },
+     {
+          "catName": "Sterilizare",
+          "catDescription": "Medical equipment for hospitals",
+          "catImage": "7.png"
+     },
+     {
+          "catName": "Radiologie interventionala",
+          "catDescription": "Medical equipment for hospitals",
+          "catImage": "8.png"
+     }
+]
