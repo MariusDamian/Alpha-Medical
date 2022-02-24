@@ -37,7 +37,7 @@ function SubcategoriesSelect() {
                <Navbar />
                <div className="h-20 pb-20 w-full"></div>
                <div className="pb-40 bg-[url('/images/svgbg.svg')]">
-                    <div className={scrolled ? "w-full  backdrop-blur-md h-12 z-50 flex flex-row items-center justify-center fixed transition-all duration-500  bg-[#00001a]/80" : "w-full h-40 absolute flex flex-row items-center justify-center transition-all duration-500  bg-[url('/images/svgbg.svg')]"}>
+                    <div className={scrolled ? "w-full  backdrop-blur-md h-12 z-50 flex flex-row items-center justify-center fixed   bg-[#00001a]/80" : "w-full h-40 absolute flex flex-row items-center justify-center   bg-[url('/images/svgbg.svg')]"}>
                          <div className="flex flex-row items-center justify-center text-2xl max-w-7xl w-full mx-auto relative">
                               <div className="absolute left-0 hover:text-blue-400">
                                    <Link href={"/#produse"}>
