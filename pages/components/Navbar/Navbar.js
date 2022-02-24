@@ -3,13 +3,13 @@ import SearchBar from "./SearchBar";
 import Link from "next/link";
 
 function Navbar() {
-     const [navbar, setNavbar] = useState(false);
+     const [scrolled, setScrolled] = useState(false);
 
      const changeBackground = () => {
           if (window.scrollY >= 100) {
-               setNavbar(true);
+               setScrolled(true);
           } else {
-               setNavbar(false);
+               setScrolled(false);
           }
      };
 
@@ -18,7 +18,7 @@ function Navbar() {
      }, []);
 
      return (
-          <div className={navbar ? "hidden fixed w-full lg:flex items-center justify-center z-10 h-20  bg-[#00001a]/80 transition-all duration-500 backdrop-blur-md" : "hidden transition-all duration-700 fixed w-full lg:flex items-center justify-center z-10 h-20  border-gray-500/0 hover:bg-[#00001a]/80 hover:backdrop-blur-md transform backdrop-blur-none"}>
+          <div className={scrolled ? "fixed w-full lg:flex items-center justify-center z-10 h-20  bg-[#00001a]/80 transition-all duration-500 backdrop-blur-md" : "transition-all duration-700 fixed w-full lg:flex items-center justify-center z-10 h-20  border-gray-500/0 hover:bg-[#00001a]/80 hover:backdrop-blur-md transform backdrop-blur-none"}>
                <div className="max-w-7xl mx-auto h-full w-full bg-opacity-30 flex flex-row">
                     <div className="flex items-center flex-row h-full w-1/2">
                          <a href="https://alphamedical.netlify.app/">

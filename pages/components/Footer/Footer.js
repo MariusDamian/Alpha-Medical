@@ -4,7 +4,7 @@ import Link from "next/link";
 function Footer() {
      let currentYear = new Date().getFullYear();
      return (
-          <div className="w-full flex-col items-center justify-center z-10 h-96 bg-black/70 bottom-0 text-gray-200 mt-60">
+          <div className="w-full flex-col items-center justify-center z-10 h-96 bg-black/70 bottom-0 text-gray-200">
                <div className="h-4/5 max-w-7xl mx-auto flex flex-row items-center py-16">
                     <div className="w-1/4 flex flex-col items-start justify-start h-full space-y-2">
                          <p className="text-xl mb-3 underline-offset-4 underline decoration-1">Despre</p>
