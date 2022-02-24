@@ -3,7 +3,7 @@ import Document, { Html, Head, Main, NextScript } from "next/document";
 class MyDocument extends Document {
      render() {
           return (
-               <Html className="bg-[#00001a] font-[poppins] text-gray-200 font-normal" style={{ scrollBehavior: "smooth" }}>
+               <Html className="bg-[#00001a] font-[poppins] text-gray-200 font-normal">
                     {/* style={{ scrollBehavior: "smooth" }} */}
                     <Head>
                          <meta charSet="utf-8" />

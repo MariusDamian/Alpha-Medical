@@ -6,7 +6,7 @@ import categories from "../JSON/categories.json";
 function CategoriesSection() {
      return (
           <div className="pt-24 w-full mx-auto min-h-screen" id="produse">
-               <Fade bottom>
+               <Fade>
                     <h1 className="lg:text-4xl text-2xl text-center font-medium text-gray-200">Categorii Produse</h1>
                     <div className="max-w-7xl flex flex-row mx-auto flex-wrap">
                          {categories.map((categorie, index) => (

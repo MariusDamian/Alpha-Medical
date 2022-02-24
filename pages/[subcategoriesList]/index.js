@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import { FcUndo } from "react-icons/fc";
+import { BsFillArrowLeftSquareFill } from "react-icons/bs";
 import { useRouter } from "next/router";
 import categories from "../components/JSON/categories.json";
 import subcategories from "../components/JSON/subcategories.json";
@@ -20,18 +20,23 @@ function SubcategoriesSelect() {
                     <meta name="description" content="Aparatura si echipamente medicale" />
                </Head>
                <Navbar />
-               <div className="bg-fixed min-h-screen bg-cover pt-5 lg:pt-28">
-                    <div className="flex flex-row items-center justify-center text-2xl max-w-7xl mx-auto relative">
-                         <div className="absolute left-0">
+               <div className="w-full h-40 mt-20 absolute flex flex-row items-center justify-center" style={{ backgroundImage: "url('/images/svgbg.svg')" }}>
+                    <div className="flex flex-row items-center justify-center text-2xl max-w-7xl w-full mx-auto relative">
+                         <div className="absolute left-0 hover:text-blue-400">
                               <Link href={"/#produse"}>
-                                   <button className="text-xl">
-                                        <FcUndo className="inline-block mr-3" />
-                                        Inapoi la <em className="text-[#3B82F6] not-italic">categorii</em>
+                                   <button className="text-base">
+                                        <BsFillArrowLeftSquareFill className="inline-block mr-3" />
+                                        Categorii
                                    </button>
                               </Link>
                          </div>
-                         <h1 className="lg:text-3xl text-2xl text-center font-medium text-gray-200">Subcategorii {currentCategory[0]?.catName}</h1>
+                         <div>
+                              <h1 className="lg:text-3xl text-2xl text-center font-medium text-gray-200">Subcategorii {currentCategory[0]?.catName}</h1>
+                              <h2 className="lg:text-lg text-center text-gray-200 max-w-xl mt-2">{currentCategory[0]?.catDescription}</h2>
+                         </div>
                     </div>
+               </div>
+               <div className="bg-fixed min-h-screen bg-cover pt-52">
                     <div className="max-w-7xl flex flex-row mx-auto flex-wrap">
                          {subcategories
                               .filter((subCat) => subCat.subCatPar.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList)

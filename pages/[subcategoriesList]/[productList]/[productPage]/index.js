@@ -1,6 +1,6 @@
 import React from "react";
 import Link from "next/link";
-import { FcUndo } from "react-icons/fc";
+import { BsFillArrowLeftSquareFill } from "react-icons/bs";
 import products from "../../../components/JSON/products.json";
 import subcategories from "../../../components/JSON/subcategories.json";
 import categories from "../../../components/JSON/categories.json";
@@ -18,24 +18,27 @@ function ProductPage() {
      return (
           <>
                <Head>
-                    <title>
-                          {currentProduct[0]?.name} | Alpha Medical
-                    </title>
+                    <title>{currentProduct[0]?.name} | Alpha Medical</title>
                     <meta name="description" content="Aparatura si echipamente medicale" />
                </Head>
                <Navbar />
-               <div className="bg-fixed min-h-screen bg-cover pt-5 lg:pt-28">
-                    <div className="flex flex-row items-start justify-start text-2xl max-w-7xl mx-auto relative mb-10">
-                         <div className="">
+               <div className="w-full h-40 mt-20 absolute flex flex-row items-center justify-center" style={{ backgroundImage: "url('/images/svgbg.svg')" }}>
+                    <div className="flex flex-row items-center justify-center text-2xl max-w-7xl w-full mx-auto relative">
+                         <div className="absolute left-0 hover:text-blue-400">
                               <Link href={`/${subcategoriesList}/${productList}`}>
-                                   <button className="text-xl">
-                                        <FcUndo className="inline-block mr-3" />
-                                        Inapoi la produse <em className="text-[#3B82F6] not-italic">{currentCategory[0]?.catName}</em>
+                                   <button className="text-base">
+                                        <BsFillArrowLeftSquareFill className="inline-block mr-3" />
+                                        Produse {currentSubCategory[0]?.subCatName}
                                    </button>
                               </Link>
                          </div>
-                         {/* <h1 className="lg:text-3xl text-2xl text-center font-medium text-gray-200 pb-10">{currentProduct[0].name}</h1> */}
+                         <div>
+                              <h1 className="lg:text-3xl text-2xl text-center font-medium text-gray-200">{currentProduct[0]?.name}</h1>
+                              <h2 className="lg:text-lg text-center text-gray-200 max-w-xl mt-2">{currentProduct[0]?.smallDescription}</h2>
+                         </div>
                     </div>
+               </div>
+               <div className="bg-fixed min-h-screen bg-cover pt-60">
                     <div className="h-auto flex flex-col items-center justify-center">
                          <div className="flex flex-col lg:flex-row items-center justify-center">
                               {products
@@ -47,7 +50,7 @@ function ProductPage() {
                                                   <img src={`/images/productImage/logoPic/${produs.logoPic}`} alt="" className="lg:w-[50%] px-10" />
                                                   <div className="lg:w-[50%]  px-2 lg:px-0">
                                                        <p className="text-3xl mb-5 font-bold">{produs.name}</p>
-                                                       <p style={{ whiteSpace: "pre-line" }} className="text-xl leading-8 text-gray-200">
+                                                       <p style={{ whiteSpace: "pre-line" }} className="text-lg font-medium tracking-tight leading-8 text-gray-200">
                                                             {produs.fullDescription}
                                                        </p>
                                                        <br />
