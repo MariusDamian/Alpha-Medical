@@ -3,8 +3,7 @@ import Document, { Html, Head, Main, NextScript } from "next/document";
 class MyDocument extends Document {
      render() {
           return (
-               <Html className="bg-[#00001a] font-[poppins] text-gray-200 font-normal scroll-smooth">
-                    {/* style={{ scrollBehavior: "smooth" }} */}
+               <Html className="bg-[#00001a] font-[poppins] text-gray-200 font-normal">
                     <Head>
                          <meta charSet="utf-8" />
                          <link rel="preconnect" href="https://fonts.googleapis.com" />
