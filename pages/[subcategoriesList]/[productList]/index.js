@@ -7,10 +7,13 @@ import { useRouter } from "next/router";
 import Navbar from "../../components/Navbar/Navbar";
 import Footer from "../../components/Footer/Footer";
 import Head from "next/head";
-import ProductsHeader from "../../../Util/ProductsHeader";
+import { useContext } from "react";
+import { BsFillArrowLeftSquareFill } from "react-icons/bs";
+import { dataContext } from "../../../Util/ContextData";
 
 
 function ProductList() {
+    const { scrolled } = useContext(dataContext);
   const router = useRouter();
   const { subcategoriesList, productList } = router.query;
   let currentCategory = categories.filter((category) => category.catName.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList);
@@ -26,7 +29,22 @@ function ProductList() {
       <Navbar />
       <div className='h-20 pb-20 w-full'></div>
       <div className="pb-40 bg-[url('/images/svgbg.svg')]">
-        <ProductsHeader backText={`Subcategorii ${currentCategory[0]?.catName}`} backLink={`/${subcategoriesList}`} h1Title={`Produse ${currentCategory[0]?.catName} | ${currentSubCategory[0]?.subCatName}`} pSubtitle={currentSubCategory[0]?.subCatDescription} />
+        <div className={scrolled ? "w-full  backdrop-blur-md h-16 z-50 flex flex-row items-center justify-center fixed   bg-[#00001a]/80" : "w-full h-40 absolute flex flex-row items-center justify-center  bg-[url('/images/svgbg.svg')]"}>
+          <div className='flex flex-row items-center justify-center text-2xl max-w-7xl w-full mx-auto relative'>
+            <div className='absolute left-0 hover:text-blue-400 w-full'>
+              <Link href={`/${subcategoriesList}`}>
+                <button className='text-base'>
+                  <BsFillArrowLeftSquareFill className='inline-block mr-3' />
+                  {`Subcategorii ${currentCategory[0]?.catName}`}
+                </button>
+              </Link>
+            </div>
+            <div>
+              <h1 className='lg:text-3xl text-2xl text-center text-gray-200 font-medium'>{`Produse ${currentCategory[0]?.catName} | ${currentSubCategory[0]?.subCatName}`}</h1>
+              {!scrolled ? <h2 className='lg:text-lg text-center text-gray-200 max-w-xl mt-2'>{currentSubCategory[0]?.subCatDescription}</h2> : null}
+            </div>
+          </div>
+        </div>
         <div className='bg-fixed min-h-screen bg-cover pt-52'>
           <div className='max-w-7xl flex flex-row mx-auto flex-wrap lg:mt-10'>
             {products
