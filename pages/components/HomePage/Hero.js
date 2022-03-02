@@ -12,7 +12,7 @@ function Hero() {
                     <div className="h-screen  bg-gradient-to-r from-black/90 via-black/80 to-black/10">
                          <div className="w-full h-full items-center justify-start flex">
                               <Fade big>
-                                   <div className="items-center justify-center flex flex-col w-1/2 mt-16 rounded-2xl ml-16">
+                                   <div className="items-center justify-center flex flex-col lg:w-1/2 mt-16 rounded-2xl ml-16">
                                         <h4 className="font-medium text-5xl lg:text-8xl text-gray-200">Alpha Medical</h4>
                                         <h1 className="text-xl lg:text-3xl text-gray-300 text-center py-7">
                                              Distribuitor autorizat de

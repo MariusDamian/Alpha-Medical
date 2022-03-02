@@ -6,7 +6,6 @@ import { useRouter } from 'next/router';
 import Navbar from '../../../components/Navbar/Navbar';
 import Footer from '../../../components/Footer/Footer';
 import Head from 'next/head';
-
 import ProductsHeader from '../../../../Util/ProductsHeader';
 
 function ProductPage() {

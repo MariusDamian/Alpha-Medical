@@ -1,20 +1,20 @@
-import { React } from 'react';
-import Link from 'next/link';
-import products from '../../components/JSON/products.json';
-import subcategories from '../../components/JSON/subcategories.json';
-import categories from '../../components/JSON/categories.json';
-import { useRouter } from 'next/router';
-import Navbar from '../../components/Navbar/Navbar';
-import Footer from '../../components/Footer/Footer';
-import Head from 'next/head';
-import ProductsHeader from '../../../Util/ProductsHeader';
+import { React } from "react";
+import Link from "next/link";
+import products from "../../components/JSON/products.json";
+import subcategories from "../../components/JSON/subcategories.json";
+import categories from "../../components/JSON/categories.json";
+import { useRouter } from "next/router";
+import Navbar from "../../components/Navbar/Navbar";
+import Footer from "../../components/Footer/Footer";
+import Head from "next/head";
+import ProductsHeader from "../../../Util/ProductsHeader";
+
 
 function ProductList() {
   const router = useRouter();
   const { subcategoriesList, productList } = router.query;
-  console.log(subcategoriesList);
-  let currentCategory = categories.filter((category) => category.catName.replace(/ /g, '-').toLocaleLowerCase() === subcategoriesList);
-  let currentSubCategory = subcategories.filter((subCategory) => subCategory.subCatName.replace(/ /g, '-').toLocaleLowerCase() === productList);
+  let currentCategory = categories.filter((category) => category.catName.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList);
+  let currentSubCategory = subcategories.filter((subCategory) => subCategory.subCatName.replace(/ /g, "-").toLocaleLowerCase() === productList);
   return (
     <>
       <Head>
@@ -30,11 +30,11 @@ function ProductList() {
         <div className='bg-fixed min-h-screen bg-cover pt-52'>
           <div className='max-w-7xl flex flex-row mx-auto flex-wrap lg:mt-10'>
             {products
-              .filter((produs) => produs.category.replace(/ /g, '-').toLocaleLowerCase() === subcategoriesList)
-              .filter((produs) => produs.subcategory.replace(/ /g, '-').toLocaleLowerCase() === productList)
+              .filter((produs) => produs.category.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList)
+              .filter((produs) => produs.subcategory.replace(/ /g, "-").toLocaleLowerCase() === productList)
               .map((produs, index) => (
                 <div key={index} className='lg:w-1/4 flex items-start justify-center my-4'>
-                  <Link href={`/${subcategoriesList}/${productList}/${produs.name.replace(/ /g, '-').toLocaleLowerCase()}`}>
+                  <Link href={`/${subcategoriesList}/${productList}/${produs.name.replace(/ /g, "-").toLocaleLowerCase()}`}>
                     <a href=''>
                       <div className='group hover:-translate-y-1 transform transition-all duration-500 text-center'>
                         <div className='lg:h-64 overflow-hidden rounded-lg'>
