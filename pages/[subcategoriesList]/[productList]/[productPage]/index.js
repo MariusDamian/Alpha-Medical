@@ -39,7 +39,7 @@ function ProductPage() {
               </Link>
             </div>
             <div>
-              <h1 className='lg:text-3xl text-2xl text-center text-gray-200 font-medium'>{currentProduct[0]?.name}</h1>
+              <h1 className='lg:text-3xl text-2xl text-center text-gray-200 font-medium max-w-lg'>{currentProduct[0]?.name}</h1>
               {!scrolled ? <h2 className='lg:text-lg text-center text-gray-200 max-w-xl mt-2'>{currentProduct[0]?.smallDescription}</h2> : null}
             </div>
           </div>

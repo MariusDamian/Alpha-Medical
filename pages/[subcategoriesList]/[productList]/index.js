@@ -11,9 +11,8 @@ import { useContext } from "react";
 import { BsFillArrowLeftSquareFill } from "react-icons/bs";
 import { dataContext } from "../../../Util/ContextData";
 
-
 function ProductList() {
-    const { scrolled } = useContext(dataContext);
+  const { scrolled } = useContext(dataContext);
   const router = useRouter();
   const { subcategoriesList, productList } = router.query;
   let currentCategory = categories.filter((category) => category.catName.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList);
@@ -33,14 +32,14 @@ function ProductList() {
           <div className='flex flex-row items-center justify-center text-2xl max-w-7xl w-full mx-auto relative'>
             <div className='absolute left-0 hover:text-blue-400 w-full'>
               <Link href={`/${subcategoriesList}`}>
-                <button className='text-base'>
+                <button className='text-base max-w-xs'>
                   <BsFillArrowLeftSquareFill className='inline-block mr-3' />
                   {`Subcategorii ${currentCategory[0]?.catName}`}
                 </button>
               </Link>
             </div>
             <div>
-              <h1 className='lg:text-3xl text-2xl text-center text-gray-200 font-medium'>{`Produse ${currentCategory[0]?.catName} | ${currentSubCategory[0]?.subCatName}`}</h1>
+              <h1 className='lg:text-3xl text-2xl text-center text-gray-200 font-medium max-w-lg'>{`Produse ${currentCategory[0]?.catName} | ${currentSubCategory[0]?.subCatName}`}</h1>
               {!scrolled ? <h2 className='lg:text-lg text-center text-gray-200 max-w-xl mt-2'>{currentSubCategory[0]?.subCatDescription}</h2> : null}
             </div>
           </div>
