@@ -1,6 +1,6 @@
 import "../styles/globals.css";
 import { dataContext } from "../Util/ContextData";
-import { useState, useEffect, useContext } from "react";
+import { useState, useEffect } from "react";
 
 function MyApp({ Component, pageProps }) {
   const [scrolled, setScrolled] = useState(false);

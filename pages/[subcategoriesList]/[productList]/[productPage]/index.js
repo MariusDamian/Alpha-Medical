@@ -54,14 +54,14 @@ function ProductPage() {
                     <img src={`/images/productImage/heroPic/${produs.heroPic}`} alt='' className='' />
                     <div className='max-w-7xl h-auto flex flex-col lg:flex-row items-center justify-center'>
                       <img src={`/images/productImage/logoPic/${produs.logoPic}`} alt='' className='lg:w-[50%] px-10' />
-                      <div className='lg:w-[50%]  px-2 lg:px-0'>
-                        <p style={{ whiteSpace: "pre-line" }} className='text-justify tracking-tight leading-8 text-lg text-gray-200'>
+                      <div className='lg:w-[50%] px-2 lg:px-10 h-[600px] overflow-hidden overflow-y-auto'>
+                        <p style={{ whiteSpace: "pre-line" }} className='text-justify tracking-tight leading-8 text-base text-gray-200'>
                           {produs.fullDescription}
                         </p>
                         <br />
                         <div className='w-56'>
                           <a href={produs.extLink} target='_blank' rel='noreferrer'>
-                            <img src={`/images/partnerLogo/${produs.Producator}.png`} className='w-56' alt='' />
+                            <img src={`/images/partnerLogo/${produs.Producator.replace(/ /g, "-").toLocaleLowerCase()}.webp`} className='w-56' alt='' />
                           </a>
                         </div>
                       </div>

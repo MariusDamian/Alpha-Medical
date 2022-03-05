@@ -18,7 +18,7 @@ function CategoriesSection() {
                     <img className='hover:scale-105 transform transition-all duration-500 rounded' src={`./images/categoryImage/${categorie.catImage}`} alt='' />
                   </div>
                   <p className='text-xl pt-2 group-hover:text-blue-500 transform transition-all duration-300'>{categorie.catName}</p>
-                  <p className='text-base text-gray-400'>{categorie.catDescription}</p>
+                  <p className='text-sm text-gray-400'>{categorie.catDescription}</p>
                 </a>
               </Link>
             </div>

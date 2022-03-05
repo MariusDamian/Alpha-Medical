@@ -1,94 +1,103 @@
 [
-     {
-          "partnerName": "3M",
-          "partnerLink": "https://www.3m.com.ro/3M/ro_RO/compania-3m-ro/"
-     },
-     {
-          "partnerName": "Advancis",
-          "partnerLink": "https://uk.advancismedical.com/"
-     },
-     {
-          "partnerName": "Fujifilm Sonosite",
-          "partnerLink": "https://www.sonosite.com/"
-     },
-     {
-          "partnerName": "Hamilton Medical",
-          "partnerLink": "https://www.hamilton-medical.com/en/"
-     },
-     {
-          "partnerName": "Icu Medical",
-          "partnerLink": "https://www.icumed.com/"
-     },
-     {
-          "partnerName": "Interrad Medical",
-          "partnerLink": "https://securacath.com/about-interrad/"
-     },
-     {
-          "partnerName": "LMA",
-          "partnerLink": "https://www.teleflex.com/usa/en/product-areas/anesthesia/airway-management/lma-airways/"
-     },
-     {
-          "partnerName": "Medin",
-          "partnerLink": "https://www.medin-medical.com/en/"
-     },
-     {
-          "partnerName": "MedXL",
-          "partnerLink": "https://www.medxl.com/"
-     },
-     {
-          "partnerName": "Orbus Neich",
-          "partnerLink": "https://orbusneich.com/"
-     },
-     {
-          "partnerName": "Pilling Weck",
-          "partnerLink": "https://www.teleflexsurgicalcatalog.com/pilling"
-     },
-     {
-          "partnerName": "Rüsch",
-          "partnerLink": "https://www.teleflex.com/emea/en/product-areas/anaesthesia/index.html"
-     },
-     {
-          "partnerName": "Sentec",
-          "partnerLink": "https://www.sentec.com/"
-     },
-     {
-          "partnerName": "Spacelabs",
-          "partnerLink": "https://www.spacelabshealthcare.com/"
-     },
-     {
-          "partnerName": "Steris",
-          "partnerLink": "https://www.steris.com/"
-     },
-     {
-          "partnerName": "Teleflex",
-          "partnerLink": "https://www.teleflex.com/emea/en/index.html"
-     },
-     {
-          "partnerName": "Terumo",
-          "partnerLink": "https://www.terumo-europe.com/en-emea"
-     },
-     {
-          "partnerName": "Tidi",
-          "partnerLink": "https://www.tidiproducts.com/"
-     },
-     {
-          "partnerName": "Vascular Solutions",
-          "partnerLink": "https://www.teleflexvascular.com/t/arterial"
-     },
-     {
-          "partnerName": "Wipak",
-          "partnerLink": "https://www.wipak.com/"
-     },
-     {
-          "partnerName": "Bactiguard",
-          "partnerLink": "https://www.bactiguard.com/"
-     },
-     {
-          "partnerName": "Salter Labs",
-          "partnerLink": "https://www.sun-med.com/"
-     },
-     {
-          "partnerName": "Arrow",
-          "partnerLink": "https://www.teleflex.com/emea/en/product-areas/vascular-access/arterial-access/"
-     }
+  {
+    "partnerName": "3M",
+    "partnerLink": "https://www.3m.com.ro/3M/ro_RO/compania-3m-ro/"
+  },
+  {
+    "partnerName": "Advancis Medical",
+    "partnerLink": "https://uk.advancismedical.com/"
+  },
+  {
+    "partnerName": "Fujifilm Sonosite",
+    "partnerLink": "https://www.sonosite.com/"
+  },
+  {
+    "partnerName": "Hamilton Medical",
+    "partnerLink": "https://www.hamilton-medical.com/en/"
+  },
+  {
+    "partnerName": "Icu Medical",
+    "partnerLink": "https://www.icumed.com/",
+    "undefined": "Asigura-te ca numele pozei va fi identic cu numele partenerului"
+  },
+  {
+    "partnerName": "Interrad Medical",
+    "partnerLink": "https://securacath.com/about-interrad/"
+  },
+  {
+    "partnerName": "LMA",
+    "partnerLink": "https://www.teleflex.com/usa/en/product-areas/anesthesia/airway-management/lma-airways/"
+  },
+  {
+    "partnerName": "Medin",
+    "partnerLink": "https://www.medin-medical.com/en/"
+  },
+  {
+    "partnerName": "MedXL",
+    "partnerLink": "https://www.medxl.com/"
+  },
+  {
+    "partnerName": "Orbus Neich",
+    "partnerLink": "https://orbusneich.com/"
+  },
+  {
+    "partnerName": "Pilling Weck",
+    "partnerLink": "https://www.teleflexsurgicalcatalog.com/pilling"
+  },
+  {
+    "partnerName": "Rüsch",
+    "partnerLink": "https://www.teleflex.com/emea/en/product-areas/anaesthesia/index.html"
+  },
+  {
+    "partnerName": "Sentec",
+    "partnerLink": "https://www.sentec.com/"
+  },
+  {
+    "partnerName": "Spacelabs",
+    "partnerLink": "https://www.spacelabshealthcare.com/"
+  },
+  {
+    "partnerName": "Steris",
+    "partnerLink": "https://www.steris.com/"
+  },
+  {
+    "partnerName": "Teleflex",
+    "partnerLink": "https://www.teleflex.com/emea/en/index.html"
+  },
+  {
+    "partnerName": "Terumo",
+    "partnerLink": "https://www.terumo-europe.com/en-emea"
+  },
+  {
+    "partnerName": "Tidi",
+    "partnerLink": "https://www.tidiproducts.com/"
+  },
+  {
+    "partnerName": "Vascular Solutions",
+    "partnerLink": "https://www.teleflexvascular.com/t/arterial"
+  },
+  {
+    "partnerName": "Wipak",
+    "partnerLink": "https://www.wipak.com/"
+  },
+  {
+    "partnerName": "Bactiguard",
+    "partnerLink": "https://www.bactiguard.com/"
+  },
+  {
+    "partnerName": "Salter Labs",
+    "partnerLink": "https://www.sun-med.com/"
+  },
+  {
+    "partnerName": "Arrow",
+    "partnerLink": "https://www.teleflex.com/emea/en/product-areas/vascular-access/arterial-access/"
+  },
+  {
+    "partnerName": "Bioster",
+    "partnerLink": "https://www.bioster.eu/"
+  },
+  {
+    "partnerName": "Cardionovum",
+    "partnerLink": "https://cardionovum.de/"
+  }
 ]

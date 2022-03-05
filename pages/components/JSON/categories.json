@@ -1,42 +1,42 @@
 ﻿[
-     {
-          "catName": "ATI",
-          "catDescription": "Medical equipment for hospitals",
-          "catImage": "categorie-ati.webp"
-     },
-     {
-          "catName": "Chirurgie",
-          "catDescription": "Medical equipment for hospitals",
-          "catImage": "categorie-chirurgie.webp"
-     },
-     {
-          "catName": "Ingrijirea ranilor si a plagilor",
-          "catDescription": "Medical equipment for hospitals",
-          "catImage": "categorie-ingrijirea-plagilor-ranilor.webp"
-     },
-     {
-          "catName": "Protectie impotriva infectiilor",
-          "catDescription": "Medical equipment for hospitals",
-          "catImage": "categorie-protectie-imporiva-infectiilor.webp"
-     },
-     {
-          "catName": "Oncologie",
-          "catDescription": "Medical equipment for hospitals",
-          "catImage": "categorie-oncologie.webp"
-     },
-     {
-          "catName": "Urologie",
-          "catDescription": "Medical equipment for hospitals",
-          "catImage": "categorie-urologie.webp"
-     },
-     {
-          "catName": "Sterilizare",
-          "catDescription": "Medical equipment for hospitals",
-          "catImage": "categorie-sterilizare.webp"
-     },
-     {
-          "catName": "Radiologie interventionala",
-          "catDescription": "Medical equipment for hospitals",
-          "catImage": "categorie-radiologie-interventionala.webp"
-     }
+  {
+    "catName": "ATI",
+    "catDescription": "Dispozitive medicale necesare sectiei de Anestezie si Terapie Intensiva",
+    "catImage": "categorie-ati.webp"
+  },
+  {
+    "catName": "Chirurgie",
+    "catDescription": "Clipuri si dispozitive speciale utilizate in Chirurgie",
+    "catImage": "categorie-chirurgie.webp"
+  },
+  {
+    "catName": "Ingrijirea ranilor si a plagilor",
+    "catDescription": "Pansamente speciale si creme",
+    "catImage": "categorie-ingrijirea-plagilor-ranilor.webp"
+  },
+  {
+    "catName": "Protectie impotriva infectiilor",
+    "catDescription": "Dispozitive necesare pentru a preveni infectarea",
+    "catImage": "categorie-protectie-imporiva-infectiilor.webp"
+  },
+  {
+    "catName": "Oncologie",
+    "catDescription": "Consumabile pentru administrarea medicamentelor in siguranta",
+    "catImage": "categorie-oncologie.webp"
+  },
+  {
+    "catName": "Urologie",
+    "catDescription": "Sonde urinare si dispozitive special concepute pentru cazuri complexe",
+    "catImage": "categorie-urologie.webp"
+  },
+  {
+    "catName": "Sterilizare",
+    "catDescription": "Pungi, role si sisteme pentru sterilizare",
+    "catImage": "categorie-sterilizare.webp"
+  },
+  {
+    "catName": "Radiologie interventionala",
+    "catDescription": "Sisteme IABP si microcatetere",
+    "catImage": "categorie-radiologie-interventionala.webp"
+  }
 ]

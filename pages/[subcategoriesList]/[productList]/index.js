@@ -58,7 +58,7 @@ function ProductList() {
                           <img src={`../images/productImage/thumbnail/${produs.Thumbnail}`} alt='' className='hover:scale-110 transform transition-all duration-700 rounded-lg scale-75 lg:scale-100' />
                         </div>
                         <p className='text-2xl group-hover:text-blue-500 transform transition-all duration-300 font-medium text-gray-200'>{produs.name}</p>
-                        <p className='text-base text-gray-400 px-6 font-medium'>{produs.smallDescription}</p>
+                        <p className='text-sm text-gray-400 px-6 font-medium'>{produs.smallDescription}</p>
                       </div>
                     </a>
                   </Link>

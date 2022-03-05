@@ -1,20 +1,20 @@
-import React from 'react';
-import Link from 'next/link';
-import { useRouter } from 'next/router';
-import categories from '../components/JSON/categories.json';
-import subcategories from '../components/JSON/subcategories.json';
-import Navbar from '../components/Navbar/Navbar';
-import Footer from '../components/Footer/Footer';
-import Head from 'next/head';
+import React from "react";
+import Link from "next/link";
+import { useRouter } from "next/router";
+import categories from "../components/JSON/categories.json";
+import subcategories from "../components/JSON/subcategories.json";
+import Navbar from "../components/Navbar/Navbar";
+import Footer from "../components/Footer/Footer";
+import Head from "next/head";
 import { useContext } from "react";
 import { BsFillArrowLeftSquareFill } from "react-icons/bs";
-import { dataContext } from '../../Util/ContextData';
+import { dataContext } from "../../Util/ContextData";
 
 function SubcategoriesSelect() {
-    const { scrolled } = useContext(dataContext);
+  const { scrolled } = useContext(dataContext);
   const router = useRouter();
   const { subcategoriesList } = router.query;
-  let currentCategory = categories.filter((category) => category.catName.replace(/ /g, '-').toLocaleLowerCase() === subcategoriesList);
+  let currentCategory = categories.filter((category) => category.catName.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList);
 
   return (
     <>
@@ -53,6 +53,7 @@ function SubcategoriesSelect() {
                         <img className='hover:scale-105 transform transition-all duration-500 rounded' src={`./images/categoryImage/${subCat.subCatImage}`} alt='' />
                       </div>
                       <p className='text-xl pt-2 group-hover:text-blue-500 transform transition-all duration-300'>{subCat.subCatName}</p>
+                      <p className='text-sm text-gray-400'>{subCat.subCatDescription}</p>
                     </a>
                   </Link>
                 </div>
