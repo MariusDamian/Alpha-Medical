@@ -61,7 +61,7 @@ function ProductPage() {
                         <br />
                         <div className='w-56'>
                           <a href={produs.extLink} target='_blank' rel='noreferrer'>
-                            <img src={`/images/partnerLogo/${produs.Producator.replace(/ /g, "-").toLocaleLowerCase()}.webp`} className='w-56' alt='' />
+                            <img src={`/images/partnerLogo/${produs.Producator}.svg`} className='w-56' alt='' />
                           </a>
                         </div>
                       </div>
