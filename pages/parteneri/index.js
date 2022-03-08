@@ -18,8 +18,8 @@ function Parteneri() {
       <div className='min-h-screen flex flex-col items-start max-w-7xl mx-auto justify-start pt-40'>
         <h1>Parteneri Alpha Medical</h1>
         <div className='font-medium space-y-1'>
-          {partners.map((partner) => (
-            <Link href={`/parteneri/${partner.partnerName.replace(/ /g, "-").toLowerCase()}`}>
+          {partners.map((partner, index) => (
+            <Link key={index} href={`/parteneri/${partner.partnerName.replace(/ /g, "-").toLowerCase()}`}>
               <p>{partner.partnerName}</p>
             </Link>
           ))}
