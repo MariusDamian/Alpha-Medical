@@ -11,7 +11,7 @@ import partners from "../../components/JSON/partners.json";
 function Partner() {
   const router = useRouter();
   const { partener } = router.query;
-  let currentPartner = partners.filter((current) => current.partnerName.replace(/ /g, "-").toLocaleLowerCase() === partener);
+  let currentPartner = partners.filter((current) => current?.partnerName?.replace(/ /g, "-").toLocaleLowerCase() === partener);
 
   return (
     <>
@@ -24,8 +24,8 @@ function Partner() {
         <Link href={"/parteneri"}>
           <h1 className='mb-10'>Parteneri Alpha Medical</h1>
         </Link>
-        <p>{currentPartner[0].partnerName}</p>
-        <img src={`/images/partnerLogo/${currentPartner[0].partnerName}.svg`} className='bg-white p-10' alt='' />
+        <p>{currentPartner[0]?.partnerName}</p>
+        <img src={`/images/partnerLogo/${currentPartner[0]?.partnerName}.svg`} className='bg-white p-10' alt='' />
       </div>
       <Footer />
     </>
