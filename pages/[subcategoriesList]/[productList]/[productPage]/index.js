@@ -81,15 +81,20 @@ function ProductPage() {
 
 export default ProductPage;
 
-// export async function getStaticProps(context) {
-//   return {
-//     props: { produse: products }, // will be passed to the page component as props
-//   };
-// }
+export async function getStaticPaths() {
+  let data = products;
 
-// export async function getStaticPaths() {
-//   return {
-//     paths: [{ params: { subcategoriesList: subcategoriesList } }],
-//     fallback: false,
-//   };
-// }
+  // Get the paths we want to pre-render based on posts
+  const paths = data.map((link) => ({
+    params: { productPage: link.name.replace(/ /g, "-").toLocaleLowerCase() },
+  }));
+
+  // We'll pre-render only these paths at build time.
+  return { paths, fallback: false };
+}
+
+export async function getStaticProps(context) {
+  return {
+    props: { subcategoriesProps: subcategories, categoriesProps: categories }, // will be passed to the page component as props
+  };
+}

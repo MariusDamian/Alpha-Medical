@@ -12,11 +12,11 @@ import { dataContext } from "../../Util/ContextData";
 
 // Subcategory Select
 
-function SubcategoriesSelect({ subCategoriaActuala, categoriaActuala }) {
+function SubcategoriesSelect({ subcategoriesProps, categoriesProps }) {
   const { scrolled } = useContext(dataContext);
   const router = useRouter();
   const { subcategoriesList } = router.query;
-  let currentCategory = categoriaActuala?.filter((category) => category.catName.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList);
+  let currentCategory = categoriesProps?.filter((category) => category.catName.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList);
 
   return (
     <>
@@ -45,7 +45,7 @@ function SubcategoriesSelect({ subCategoriaActuala, categoriaActuala }) {
         </div>
         <div className='bg-fixed min-h-screen bg-cover pt-40'>
           <div className='max-w-7xl flex flex-row mx-auto flex-wrap'>
-            {subCategoriaActuala
+            {subcategoriesProps
               ?.filter((subCat) => subCat.subCatPar.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList)
               .map((subCat, index) => (
                 <div key={index} className='lg:w-1/4 w-1/2 p-3 lg:mt-10 group hover:-translate-y-1 transform transition-all duration-500'>
@@ -74,8 +74,8 @@ export async function getStaticPaths() {
   let data = categories;
 
   // Get the paths we want to pre-render based on posts
-  const paths = data.map((post) => ({
-    params: { subcategoriesList: post.catName.replace(/ /g, "-").toLocaleLowerCase() },
+  const paths = data.map((link) => ({
+    params: { subcategoriesList: link.catName.replace(/ /g, "-").toLocaleLowerCase() },
   }));
 
   // We'll pre-render only these paths at build time.
@@ -84,6 +84,6 @@ export async function getStaticPaths() {
 
 export async function getStaticProps(context) {
   return {
-    props: { subCategoriaActuala: subcategories, categoriaActuala: categories }, // will be passed to the page component as props
+    props: { subcategoriesProps: subcategories, categoriesProps: categories }, // will be passed to the page component as props
   };
 }
