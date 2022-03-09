@@ -13,13 +13,13 @@ import Link from "next/link";
 
 // Product Page
 
-function ProductPage() {
+function ProductPage({ subcategoriesProps, categoriesProps, productsProps }) {
   const { scrolled } = useContext(dataContext);
   const router = useRouter();
   const { subcategoriesList, productList, productPage } = router.query;
-  let currentCategory = categories.filter((category) => category.catName.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList);
-  let currentSubCategory = subcategories.filter((subCategory) => subCategory.subCatName.replace(/ /g, "-").toLocaleLowerCase() === productList);
-  let currentProduct = products.filter((produs) => produs.name.replace(/ /g, "-").toLowerCase() === productPage);
+  let currentCategory = categoriesProps?.filter((category) => category.catName.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList);
+  let currentSubCategory = subcategoriesProps?.filter((subCategory) => subCategory.subCatName.replace(/ /g, "-").toLocaleLowerCase() === productList);
+  let currentProduct = productsProps?.filter((produs) => produs.name.replace(/ /g, "-").toLowerCase() === productPage);
 
   return (
     <>
@@ -49,27 +49,23 @@ function ProductPage() {
         <div className='bg-fixed min-h-screen bg-cover pt-40'>
           <div className='h-auto flex flex-col items-center justify-center'>
             <div className='flex flex-col lg:flex-row items-center justify-center'>
-              {products
-                .filter((produs) => produs.name.replace(/ /g, "-").toLowerCase() === productPage)
-                .map((produs, index) => (
-                  <div key={index} className='flex flex-col items-center justify-center'>
-                    <img src={`/images/productImage/heroPic/${produs.heroPic}`} alt='' className='' />
-                    <div className='max-w-7xl h-auto flex flex-col lg:flex-row items-center justify-center'>
-                      <img src={`/images/productImage/logoPic/${produs.logoPic}`} alt='' className='lg:w-[50%] px-10' />
-                      <div className='lg:w-[50%] px-2 lg:px-10 h-[600px] overflow-hidden overflow-y-auto'>
-                        <p style={{ whiteSpace: "pre-line" }} className='text-justify tracking-tight leading-8 text-base text-gray-200'>
-                          {produs.fullDescription}
-                        </p>
-                        <br />
-                        <div className='w-56'>
-                          <a href={produs.extLink} target='_blank' rel='noreferrer'>
-                            <img src={`/images/partnerLogo/${produs.Producator}.svg`} className='w-56' alt='' />
-                          </a>
-                        </div>
-                      </div>
+              <div className='flex flex-col items-center justify-center'>
+                <img src={`/images/productImage/heroPic/${currentProduct[0].heroPic}`} alt='' className='' />
+                <div className='max-w-7xl h-auto flex flex-col lg:flex-row items-center justify-center'>
+                  <img src={`/images/productImage/logoPic/${currentProduct[0].logoPic}`} alt='' className='lg:w-[50%] px-10' />
+                  <div className='lg:w-[50%] px-2 lg:px-10 h-[600px] overflow-hidden overflow-y-auto'>
+                    <p style={{ whiteSpace: "pre-line" }} className='text-justify tracking-tight leading-8 text-base text-gray-200'>
+                      {currentProduct[0].fullDescription}
+                    </p>
+                    <br />
+                    <div className='w-56'>
+                      <a href={currentProduct[0].extLink} target='_blank' rel='noreferrer'>
+                        <img src={`/images/partnerLogo/${currentProduct[0].Producator}.svg`} className='w-56' alt='' />
+                      </a>
                     </div>
                   </div>
-                ))}
+                </div>
+              </div>
             </div>
           </div>
         </div>
@@ -86,7 +82,7 @@ export async function getStaticPaths() {
 
   // Get the paths we want to pre-render based on posts
   const paths = data.map((link) => ({
-    params: { productPage: link.name.replace(/ /g, "-").toLocaleLowerCase() },
+    params: { subcategoriesList: link.category.replace(/ /g, "-").toLocaleLowerCase(), productList: link.subcategory.replace(/ /g, "-").toLocaleLowerCase(), productPage: link.name.replace(/ /g, "-").toLocaleLowerCase() },
   }));
 
   // We'll pre-render only these paths at build time.
@@ -95,6 +91,6 @@ export async function getStaticPaths() {
 
 export async function getStaticProps(context) {
   return {
-    props: { subcategoriesProps: subcategories, categoriesProps: categories }, // will be passed to the page component as props
+    props: { subcategoriesProps: subcategories, categoriesProps: categories, productsProps: products },
   };
 }

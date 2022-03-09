@@ -13,12 +13,12 @@ import { dataContext } from "../../../Util/ContextData";
 
 // Product Selection Page
 
-function ProductList() {
+function ProductList({ subcategoriesProps, categoriesProps, productsProps }) {
   const { scrolled } = useContext(dataContext);
   const router = useRouter();
   const { subcategoriesList, productList } = router.query;
-  let currentCategory = categories.filter((category) => category.catName.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList);
-  let currentSubCategory = subcategories.filter((subCategory) => subCategory.subCatName.replace(/ /g, "-").toLocaleLowerCase() === productList);
+  let currentCategory = categoriesProps?.filter((category) => category.catName.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList);
+  let currentSubCategory = subcategoriesProps?.filter((subCategory) => subCategory.subCatName.replace(/ /g, "-").toLocaleLowerCase() === productList);
   return (
     <>
       <Head>
@@ -48,8 +48,8 @@ function ProductList() {
         </div>
         <div className='bg-fixed min-h-screen bg-cover pt-40'>
           <div className='max-w-7xl flex flex-row mx-auto flex-wrap lg:mt-10'>
-            {products
-              .filter((produs) => produs.category.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList)
+            {productsProps
+              ?.filter((produs) => produs.category.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList)
               .filter((produs) => produs.subcategory.replace(/ /g, "-").toLocaleLowerCase() === productList)
               .map((produs, index) => (
                 <div key={index} className='lg:w-[23%] flex items-start justify-center m-3'>
@@ -81,7 +81,7 @@ export async function getStaticPaths() {
 
   // Get the paths we want to pre-render based on posts
   const paths = data.map((link) => ({
-    params: { productList: link.subCatName.replace(/ /g, "-").toLocaleLowerCase() },
+    params: { subcategoriesList: link.subCatPar.replace(/ /g, "-").toLocaleLowerCase(), productList: link.subCatName.replace(/ /g, "-").toLocaleLowerCase() },
   }));
 
   // We'll pre-render only these paths at build time.
@@ -90,6 +90,6 @@ export async function getStaticPaths() {
 
 export async function getStaticProps(context) {
   return {
-    props: { subcategoriesProps: subcategories, categoriesProps: categories }, // will be passed to the page component as props
+    props: { subcategoriesProps: subcategories, categoriesProps: categories, productsProps: products },
   };
 }
