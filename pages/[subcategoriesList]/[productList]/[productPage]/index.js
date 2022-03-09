@@ -80,3 +80,16 @@ function ProductPage() {
 }
 
 export default ProductPage;
+
+// export async function getStaticProps(context) {
+//   return {
+//     props: { produse: products }, // will be passed to the page component as props
+//   };
+// }
+
+// export async function getStaticPaths() {
+//   return {
+//     paths: [{ params: { subcategoriesList: subcategoriesList } }],
+//     fallback: false,
+//   };
+// }

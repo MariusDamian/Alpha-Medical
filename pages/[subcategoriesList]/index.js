@@ -12,11 +12,11 @@ import { dataContext } from "../../Util/ContextData";
 
 // Subcategory Select
 
-function SubcategoriesSelect() {
+function SubcategoriesSelect({ subCategoriaActuala, categoriaActuala }) {
   const { scrolled } = useContext(dataContext);
   const router = useRouter();
   const { subcategoriesList } = router.query;
-  let currentCategory = categories.filter((category) => category.catName.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList);
+  let currentCategory = categoriaActuala?.filter((category) => category.catName.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList);
 
   return (
     <>
@@ -45,8 +45,8 @@ function SubcategoriesSelect() {
         </div>
         <div className='bg-fixed min-h-screen bg-cover pt-40'>
           <div className='max-w-7xl flex flex-row mx-auto flex-wrap'>
-            {subcategories
-              .filter((subCat) => subCat.subCatPar.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList)
+            {subCategoriaActuala
+              ?.filter((subCat) => subCat.subCatPar.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList)
               .map((subCat, index) => (
                 <div key={index} className='lg:w-1/4 w-1/2 p-3 lg:mt-10 group hover:-translate-y-1 transform transition-all duration-500'>
                   <Link href={`${subcategoriesList}/${subCat.subCatName.replace(/ /g, "-").toLocaleLowerCase()}`}>
@@ -69,3 +69,21 @@ function SubcategoriesSelect() {
 }
 
 export default SubcategoriesSelect;
+
+export async function getStaticPaths() {
+  let data = categories;
+
+  // Get the paths we want to pre-render based on posts
+  const paths = data.map((post) => ({
+    params: { subcategoriesList: post.catName.replace(/ /g, "-").toLocaleLowerCase() },
+  }));
+
+  // We'll pre-render only these paths at build time.
+  return { paths, fallback: false };
+}
+
+export async function getStaticProps(context) {
+  return {
+    props: { subCategoriaActuala: subcategories, categoriaActuala: categories }, // will be passed to the page component as props
+  };
+}
