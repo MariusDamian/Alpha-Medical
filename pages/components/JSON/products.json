@@ -9,7 +9,9 @@
     "extLink": "https://www.hamilton-medical.com/en/Products/Mechanical-ventilators/HAMILTON-C1.html",
     "heroPic": "b-HAMILTON-C1.webp",
     "logoPic": "p-HAMILTON-C1.webp",
-    "Thumbnail": "HAMILTON-C1.webp"
+    "Thumbnail": "HAMILTON-C1.webp",
+    "seoKeywords": "ventilatie mecanica, ventilatoare, ventilatie medicala, Hamilton, Hamilton Medical, ventilatie neonatala, terapie oxigen, ventilatie neinvaziva",
+    "seoDescription": "Hamilton C1 aparat ventilatie mecanica de la Hamilton Medical acopera cerintele sectiei de terapie intensiva. Terapie cu oxigen neonatali, pediatrici si adulti."
   },
   {
     "name": "HAMILTON-C6",
@@ -21,7 +23,9 @@
     "extLink": "https://www.hamilton-medical.com/en/Products/Mechanical-ventilators/HAMILTON-C6.html",
     "heroPic": "b-HAMILTON-C6.webp",
     "logoPic": "p-HAMILTON-C6.webp",
-    "Thumbnail": "HAMILTON-C6.webp"
+    "Thumbnail": "HAMILTON-C6.webp",
+    "seoKeywords": "ventilator medical, Hamilton, sectie ATI, ventilatie pediatrica, CPAP, ventilator mecanic, ventilatie controlata",
+    "seoDescription": "Hamilton C6 de la Hamilton Medical este un ventilator cu moduri de ventilatie adaptive cu protectie pulmonara si control integrat al presiunii. Umidificator incorporat."
   },
   {
     "name": "HAMILTON-T1",
@@ -33,7 +37,9 @@
     "extLink": "https://www.hamilton-medical.com/en/Products/Mechanical-ventilators/HAMILTON-T1.html",
     "heroPic": "b-HAMILTON-T1.webp",
     "logoPic": "p-HAMILTON-T1.webp",
-    "Thumbnail": "HAMILTON-T1.webp"
+    "Thumbnail": "HAMILTON-T1.webp",
+    "seoKeywords": "ventilator transport, ventilator mobil, ventilator transport aerian, ventilator salvare, ventilatoare urgenta, Hamilton Medical",
+    "seoDescription": "Hamilton T1 optim pentru transportul de urgenta a pacientilor aerian, maritim sau cu salvarea."
   },
   {
     "name": "HAMILTON-MR1",
@@ -45,7 +51,9 @@
     "extLink": "https://www.hamilton-medical.com/en/Products/Mechanical-ventilators/HAMILTON-MR1.html",
     "heroPic": "b-HAMILTON-MR1.webp",
     "logoPic": "p-HAMILTON-MR1.webp",
-    "Thumbnail": "HAMILTON-MR1.webp"
+    "Thumbnail": "HAMILTON-MR1.webp",
+    "seoKeywords": "oxigenare pacient, ventilatie mecanica, ventilator RMN, Rezonanta Magnetica Nucleara, Hamilton Medical",
+    "seoDescription": "Ventilatorul Hamilton MR1 este ideal pentru RMN, cu o varientate de circuite respiratorii."
   },
   {
     "name": "HAMILTON-C3",
@@ -57,7 +65,9 @@
     "extLink": "https://www.hamilton-medical.com/en/Products/Mechanical-ventilators/HAMILTON-C3.html",
     "heroPic": "b-HAMILTON-C3.webp",
     "logoPic": "p-HAMILTON-C3.webp",
-    "Thumbnail": "HAMILTON-C3.webp"
+    "Thumbnail": "HAMILTON-C3.webp",
+    "seoKeywords": "stimulare respiratie, ventilator mecanic, Hamilton Medical, adaptive support ventilation, ventilator compact",
+    "seoDescription": "Ventilatorul Hamilton C3 cu ASV pentru oxigenarea optima a pacientului."
   },
   {
     "name": "medinCNO mini",
@@ -69,7 +79,9 @@
     "extLink": "https://www.medin-medical.com/en/Products/nCPAP-devices-and-blender/medinCNOmini.html",
     "heroPic": "b-medinCNOmini.webp",
     "logoPic": "p-medinCNOmini.webp",
-    "Thumbnail": "medin-CNOmini.webp"
+    "Thumbnail": "medin-CNOmini.webp",
+    "seoKeywords": "ApneaCPAP, nCPAP, ventilatie nou nascuti, ventilatie neonatali, ventilatie mecanica, ventilatoare Medin, respiratie spontana",
+    "seoDescription": "Vantilator mecanic medin CNO pentru nou-nascuti si pediatrici cu toate modurile de ventilatie."
   },
   {
     "name": "medinCNO",
@@ -77,11 +89,13 @@
     "category": "ATI",
     "subcategory": "Ventilatie mecanica",
     "smallDescription": "HFNC si nCPAP intr-un singur dispozitiv",
-    "fullDescription": "medinCNO este un dispozitiv versatil nCPAP care este utilizat pentru a oferi suport respirator sugarilor prematuri si nou-nascutiilor. In combinatie cu Medijet, dispozitivul compact este un sistem autonom si indeplineste toate cerintele pentru terapia nCPAP neinvaziva.\r\nCu cinci module (CPAP, ApneaCPAP, NIPPV, SNIPPV, oscilatie), medinCNO ofera suport complet neinvaziv in neonatalogie si este singurul dispozitiv nCPAP cu nHFV.",
+    "fullDescription": "medinCNO este un dispozitiv versatil nCPAP care este utilizat pentru a oferi suport respirator bebelusi prematuri si nou-nascutiilor. In combinatie cu Medijet, dispozitivul compact este un sistem autonom si indeplineste toate cerintele pentru terapia nCPAP neinvaziva.\r\nCu cinci module (CPAP, ApneaCPAP, NIPPV, SNIPPV, oscilatie), medinCNO ofera suport complet neinvaziv in neonatalogie si este singurul dispozitiv nCPAP cu nHFV.",
     "extLink": "https://www.medin-medical.com/en/Products/nCPAP-devices-and-blender/medinCNO.html",
     "heroPic": "b-medinCNO.webp",
     "logoPic": "p-medinCNO.webp",
-    "Thumbnail": "medinCNO.webp"
+    "Thumbnail": "medinCNO.webp",
+    "seoKeywords": "medin CNO, suport respirator, neonatalogie, medijet, ventilatie copii, ventilator Medin",
+    "seoDescription": "Ventilator bebelusi prematuri si nou nascuti cu nCPAP si nHFV. Ventilatie complet neinvaziva."
   },
   {
     "name": "medin-NC3",
@@ -89,11 +103,12 @@
     "category": "ATI",
     "subcategory": "Ventilatie mecanica",
     "smallDescription": "Noua generatie de suport respirator neinvaziv",
-    "fullDescription": "medin-NC3 este primul dispozitiv CPAP cu turbina pentru suportul respirator neinvaziv pentru sugari prematuri si nou-nascuti. Turbina de inalta performanta face dispozitivul independent de o sursa fixa de aer comprimat.\r\nTehnologia dovedita MediTRIG este utilizata in modul ApneaCPAP. Compensarea puternica a pierderilor ajuta pentru asigurarea unei terapii stabile si eficienta.",
+    "fullDescription": "medin-NC3 este primul dispozitiv CPAP cu turbina pentru suportul respirator neinvaziv pentru bebelusi prematuri si nou-nascuti. Turbina de inalta performanta face dispozitivul independent de o sursa fixa de aer comprimat.\r\nTehnologia dovedita MediTRIG este utilizata in modul ApneaCPAP. Compensarea puternica a pierderilor ajuta pentru asigurarea unei terapii stabile si eficienta.",
     "extLink": "https://www.medin-medical.com/en/Products/nCPAP-devices-and-blender/medin-NC3.html",
     "heroPic": "b-medin-NC3.webp",
     "logoPic": "p-medin-NC3.webp",
-    "Thumbnail": "medin-NC3.webp"
+    "Thumbnail": "medin-NC3.webp",
+    "seoKeywords": "medin NC3, ventilatie neinvaziva, ventilator mecanic bebelusi, ApneaCPAP"
   },
   {
     "name": "Nuvo Lite 5L",
@@ -734,7 +749,7 @@
     "category": "Protectie impotriva infectiilor",
     "subcategory": "Conectori si capacele",
     "smallDescription": "Extensii",
-    "fullDescription": "Set extensie bidifuza Smallbore - cu 2 porturi preperforate, 2 cleme glisante si conector rotativ luer.\r\nSet extensie Minibore LifeCare PCA - cu adaptror “mama”, valva cu verificare pe spate, 2 cleme glisante si adaptor securizat pentru blocare “tata”.\r\nSet extensie Macrobore Plum - adaptor “mama” luer lock cu aripioare, caseta cu port secundar, clema glisanta si adaptor “tata” Option-Lok.\r\nSet extensie Macrobore - cu adaptor “mama”, clema glisanta si adaptor securizat pentru blocare “tata”\r\nSet extensie Macrobore - cu adaptor “mama” luer lock cu aripioare, clema glisanta si conector in T pentru blocarea rotatiei MicroClave\r\nSet extensie Macrobore - cu adaptor “mama”, clema glisanta, colier de blocare a rotatiei, conector in T cu locul de injectare preperforat si adaptor “tata”.\r\nSet extensie - cu adaptor “mama”, clema glisare, conector in T MicroClave si conector rotativ luer.\r\nSet extensie Macrobore - cu conector Clave, clema glisanta si conector in T cu locul de injectare resigilabil preperforat si adaptor “tata”.\r\nSet extensie Macrobore - cu conector detasabil MicroClave Clear, clema glisanta si adaptor rotativ “tata” luer lock.\r\nSet extensie Macrobore - cu conector MicroClave, clema glisanta, tub anti-regurgitare si conector rotativ “tata” luer lock.\r\nDiferite configuratii sunt disponibile.",
+    "fullDescription": "Set extensie bidifuza Smallbore - cu 2 porturi preperforate, 2 cleme glisante si conector rotativ luer.\r\nSet extensie Minibore LifeCare PCA - cu adaptror “mama”, valva cu verificare pe spate, 2 cleme glisante si adaptor securizat pentru blocare “tata”.\r\nSet extensie Macrobore Plum - adaptor “mama” luer lock cu aripioare, caseta cu port secundar, clema glisanta si adaptor “tata” Option-Lok.\r\nSet extensie Macrobore - cu adaptor “mama”, clema glisanta si adaptor securizat pentru blocare “tata”\r\nSet extensie Macrobore - cu adaptor “mama” luer lock cu aripioare, clema glisanta si conector in T pentru blocarea rotatiei MicroClave\r\nSet extensie Macrobore - cu adaptor “mama”, clema glisanta, colier de blocare a rotatiei, conector in T cu locul de injectare preperforat si adaptor “tata”.\r\nSet extensie - cu adaptor “mama”, clema glisare, conector in T MicroClave si conector rotativ luer.\r\nSet extensie Macrobore - cu conector Clave, clema glisanta si conector in T cu locul de injectare resigilabil preperforat si adaptor “tata”.\r\nSet extensie Macrobore - cu conector detasabil MicroClave Clear, clema glisanta si adaptor rotativ “tata” luer lock.\r\nSet extensie Macrobore - cu conector MicroClave, clema glisanta, tub anti-regurgitare si conector rotativ “tata” luer lock.\r\n\r\nDiferite configuratii sunt disponibile.",
     "extLink": "https://www.icumed.com/search?q=extension&facet___contentType=*&facet___productTypeValue=IV+Sets&page=1",
     "logoPic": "p-set-extensie-icu-medical.webp",
     "Thumbnail": "set-extensie-icu-medical.webp"
@@ -900,7 +915,7 @@
     "category": "Ingrijirea ranilor si a plagilor",
     "subcategory": "Creme",
     "smallDescription": "100% Miere medicinala de Manuka",
-    "fullDescription": "Tubul Activon contine 100% miere de Manuka fara aditivi din Noua Zeelanda. Mierea de Manuka este filtrata si sterilizata, ceea ce o face potrivita pentru aplicarea pe rani. Mierea de Manuka va curata si va elimina mirosurile oferind un mediu umed de vindecare a ranilor. \r\n\r\nTubul Activon este ideal pentru curatarea tesutului necrotic sau pentru acoperirea pansamentelor in care mierea a fost spalata prin exudat. Excelenta pentru utilizarea in cavitati, clateste inainte cu solutie salina. \r\n\r\nIndicatii: ulceratii de presiune, ulceratii ale picioarelor, ulceratii diabetice, rani chirurgicale, arsuri\r\ngrafari, rani infectate, cavitatea ranilor\r\n\r\nCR3830 - Tub 25g ",
+    "fullDescription": "Tubul Activon contine 100% miere de Manuka fara aditivi din Noua Zeelanda. Mierea de Manuka este filtrata si sterilizata, ceea ce o face potrivita pentru aplicarea pe rani. Mierea de Manuka va curata si va elimina mirosurile oferind un mediu umed de vindecare a ranilor. \r\n\r\nTubul Activon este ideal pentru curatarea tesutului necrotic sau pentru acoperirea pansamentelor in care mierea a fost spalata prin exudat. Excelenta pentru utilizarea in cavitati, clateste inainte cu solutie salina. \r\n\r\nIndicatii: ulceratii de presiune, ulceratii ale picioarelor, ulceratii diabetice, rani chirurgicale, arsuri, grafari, rani infectate, cavitatea ranilor\r\n\r\nCR3830 - Tub 25g ",
     "extLink": "https://uk.advancismedical.com/products/activon-manuka-honey/activon-tube",
     "logoPic": "p-activon-tub.webp",
     "Thumbnail": "activon-tub.webp"
@@ -1556,7 +1571,7 @@
   {
     "name": "Clip Horizon",
     "Producator": "Teleflex",
-    "category": "Chirurgie",
+    "category": "Chirurgie si laparoscopie",
     "subcategory": "Clipuri",
     "smallDescription": "Clipuri din Titan",
     "fullDescription": "Functionabilitate excelenta\r\nForma de galon a clipului Horizon asigura o inchidere sigura a tesutului margine-la-margine. \r\nForma de inima a conturului este destinata sa asigure o prindere ferma a clipului pe vase. \r\nSanturile transversale impiedica alunecarea clipului de-a lungul vasului. \r\nSanturile interne ale clipului Horizon clip sunt dimensionate astfel incat sa reduca forfecarea clipului. \r\nSectiunea triangulara a picioruselor clipului Horizon maximizeaza contactul suprafata-la-suprafata a clipului cu falcile aplicatorului, practice impiedicand caderea clipului din aplicator.\r\nClipurile sunt disponibile in cartuse de 6 si 24.\r\n\r\nDimensiuni disponibile: Microclip, S, M, ML si L",
@@ -1567,7 +1582,7 @@
   {
     "name": "Clip Hemoclip",
     "Producator": "Teleflex",
-    "category": "Chirurgie",
+    "category": "Chirurgie si laparoscopie",
     "subcategory": "Clipuri",
     "smallDescription": " Clip metal traditional de ligare",
     "fullDescription": "Ligaturarea clasica cu clip metalic pe care chirurgii se bazeaza de ani de zile\r\n\r\nSistem de incarcare prin friction fit\r\nDisponibile din titan si tantal\r\nBaza cartusului faciliteaza incarcarea\r\n\r\nDimensiuni disponibile: S, M, ML si L ",
@@ -1578,7 +1593,7 @@
   {
     "name": "Clip Hem-o-lok",
     "Producator": "Teleflex",
-    "category": "Chirurgie",
+    "category": "Chirurgie si laparoscopie",
     "subcategory": "Clipuri",
     "smallDescription": "Clipuri din Polimer",
     "fullDescription": "Sistemul de ligaturare din polimer Weck Hem-o-lok ofera o siguranta neegalata a ligaturii in comparatie cu produsele concurentei, cu clipuri de ligaturare din polimer Weck Hem-o-lok integrate, crestate, si mecanismul distal de blocare, patentat.\r\n\r\nPolimerul neabsorbant din care este fabricat clipul Hem-o\u0002lok si balamaua flexibila permit trecerea printr-un orificiu de intrare mai mic si ofera o deschidere distala mai mare decat clipurile comparabile din metal. Astfel, clipurile Hem-o-lok pot ligatura structuri de pana la 10 mm printr-un orificiu de intrare de 5 mm, si structuri de pana la 16 mm printr-un orificiu de intrare de 10 mm.\r\n\r\nClipurile Hem-o-lok sunt disponibile in dimensiunile indicate pentru ligaturarea structurilor de la 2 mm pana la 16 mm.\r\nDimensiuni disponibile: M, ML, L si XL",
@@ -1589,7 +1604,7 @@
   {
     "name": "Staple tesut Visistat",
     "Producator": "Teleflex",
-    "category": "Chirurgie",
+    "category": "Chirurgie si laparoscopie",
     "subcategory": "Clipuri",
     "smallDescription": "Dispozitiv de sutura pentru clipuri",
     "fullDescription": "Dispozitivele de ligaturare de la Teleflex Weck Visistat indeplinesc atat nevoile chirurgului de a avea un instrument sigur si usor de manevrat, cat si pe cele ale pacientului pentru o recuperare rapida. Fiecare dispozitiv de ligaturare, de unica folosinta de la Visistat este echipat cu suturator de 35 sau mai mult de 35 de clipuri din otel inoxidabil pentru uz medical care pot fi utilizate intr-o gama larga de proceduri chirurgicale. \r\n\r\nAcest dispozitiv de precizie inglobeaza o fereastra pentru o mai buna vizibilitate si un mecanism de alimentare cu clipuri, patentat, pentru o eliberare rapida a acestora si pentru reducerea blocarii acestora. Datorita suturatoarelor mai ascutite, penetrarea tesutului este mult mai facila si mai putin traumatizanta. Drept urmare, chiar si scoaterea clipurilor se dovedeste a fi o procedura mai putin dureroasa datorita inaltimii clipurilor. ",
@@ -1600,7 +1615,7 @@
   {
     "name": "MemoBag",
     "Producator": "Teleflex",
-    "category": "Chirurgie",
+    "category": "Chirurgie si laparoscopie",
     "subcategory": "Dispozitive diverse",
     "smallDescription": "Sistem de extragere probe",
     "fullDescription": "Dispozitivul MemoBag este o punga cu auto deschidere. Aceasta este livrat steril. Este un produs de unica folosinta.\r\nMemoBag proiectat pentru a fi introdus printr-un trocar standard cu diametrul de 10 mm. Imediat dupa introducerea pungii preincarcate prin trocar, un fir de nitinol care este intertesut prin deschiderea pungii, il deschide pe aceasta (datorita efectului de memorie) in interiorul corpului pacientului. Teaca introductorului cu canula impingatoare sunt apoi indepartate, lasand lumenul trocarului liber pentru alte instrumente. \r\nTesutul este pus in punga. Atunci cand procedura este incheiata, punga se inchide simplu doar prin tragerea buclei de sarma si se indeparteaza continutul acesteia printr-o incizie efectuata pacientului.\r\n\r\nMemoBag consta din mai multe componente: \r\nIntroductor cu teaca si punga de extractie preincarcata\r\nCanulă impingatoare \r\nAnsamblu fir nitinol\r\n\r\nDisponibila in volume de 200 ml, 800 ml si 1200 ml",
@@ -1609,20 +1624,9 @@
     "Thumbnail": "memobag.webp"
   },
   {
-    "name": "Pleur-evac",
-    "Producator": "Teleflex",
-    "category": "Chirurgie",
-    "subcategory": "Dispozitive diverse",
-    "smallDescription": "Cea mai buna solutie de drenaj toracic",
-    "fullDescription": "Sistemul de drenaj toracic Pleur-evac - cea mai buna solutie de drenaj toracic pentru ingrijiri toracice, cardiovasculare, traumatisme si critice - utilizeaza cea mai avansata tehnologie de gestionare a fluidelor . Cei de la Teleflex, sunt dedicati sa ofere clientilor instruire pe produs si asistenta.\r\n\r\nPleur-evac are capacitate mare - 2500 ml in camera de colectare - pentru unitatile pediatrice / adulti\r\nPermite modificarea cu usurinta a nivelului de aspiratie\r\nLichid albastru in camera de aspirare si in camera de etanseizare pentru o mai buna vizualizare\r\nUsor, compact, portabil - cu maner, usor de asezat pe podea - suport baza\r\nTuburi si conectoare, palnie de umplere cu apa a camerelor - toate aceste accesorii sunt preambalate cu sistemul de drenaj",
-    "extLink": "https://www.teleflex.com/usa/en/product-areas/surgical/educational-portal/pleur-evac/",
-    "logoPic": "p-pleur-evac.webp",
-    "Thumbnail": "pleur-evac.webp"
-  },
-  {
     "name": "Traumastem",
     "Producator": "Bioster",
-    "category": "Chirurgie",
+    "category": "Chirurgie si laparoscopie",
     "subcategory": "Dispozitive diverse",
     "smallDescription": "Hemostatic resorbabil",
     "fullDescription": "Traumastem este un reticul hemostatic resorbabil cu greutate si absorbtie mai mari. Este potrivit pentru o gama larga de operatii chirurgicale, in special pentru operatii ale organelor parenchimatice in chirurgia abdominala si toracica, proceduri endoscopice si chirurgia robotica. Traumastem este conceput pentru a opri sangerarile capilare difuze masive si sangerarile venoase mici. Traumastem are activitate antibacteriana semnificativa, contribuie la accelerarea proceselor biochimice si sporeste procesul de vindecare.\r\n\r\nIndicatii: Traumastem TAF este potrivit pentru utilizarea in chirurgie generala si digestiva, chirurgie plastica, chirurgie vasculara si toracica, neurochirurgie, ortopedie, ginecologie, urologie, stomatochirurgie si alte domenii.",
@@ -1633,7 +1637,7 @@
   {
     "name": "Hemosep",
     "Producator": "Advancis Medical",
-    "category": "Chirurgie",
+    "category": "Chirurgie si laparoscopie",
     "subcategory": "Dispozitive diverse",
     "smallDescription": "Dispozitiv recuperare sange",
     "fullDescription": "Hemosep este creat pentru recuperarea sangelui pierdut in timpul operatiilor chirurgicale pe cord deschis si pentru traume majore si pentru concentrarea celulelor sanguine pentru transfuzie inapoi la pacient. Procesul reduce volumul de sange necesar de la un donator si problemele asociate cu reactia la transfuzie.\r\n\r\nDispozitivul consta intr-o punga de sange care foloseste tehnologia chimica a unui burete si un aparat de recuperare sange pentru a concentra sangele aspirat de la locul operatiei chirurgicale sau drenat din stimulatorul cardiopulmonar dupa operatia chirurgicala. Celulele separate sunt apoi returnate la pacient prin transfuzie intravenoasa. \r\n\r\nDispozitivul Hemosep este creat pentru a concentra sangele rezidual din timpul si dupa procedura operativa. Acest sange este foarte hemodiluat si, daca este retransmis pacientului in starea sa bruta, poate duce la sangerare excesiva si hemodiluarea pacientului in faza critica de recuperare post-chirurgicala. Concentrarea acestui produs sanguin la concentratii ale celuleor aproape normale (nivelul PCV 33-45%) il face potrivit pentru retransfuzie si reduce riscul de sangerare al sangelui neprocesat. Transfuzia sangelui autolog procesat reduce nevoia produselor sanguine de la donatori si reactiile asociate la transfuzie. Sub conditii clinice normale, dispozitivul Hemosep este menit sa concentreze sangele rezidual din PCV scazut (20% sau mai putin) la niveluri aproape normale (cel putin 33%) fara a fi nevoie de o tehnologie centrifuga.",
@@ -1644,7 +1648,7 @@
   {
     "name": "AutoCat 2",
     "Producator": "Arrow",
-    "category": "Radiologie interventionala",
+    "category": "Radiologie interventionala si contrapulsatie",
     "subcategory": "Contrapulsatie",
     "smallDescription": "Sistem IABP",
     "fullDescription": "Seria Arrow AutoCat 2 are doua modele, AutoCat 2 si AutoCat 2 WAVE. Fiecare model efectueaza aceleasi operatii si au aceleasi functii, cu exceptia uneia. Pompa AutoCat 2 WAVE poate accepta un senzor de presiune arteriala FiberOptix de la cateterele Arrow IAB cu aceasta caracteristica. Senzorul FiberOptix ofera un semnal PA de inalta fidelitate, practic in timp real, ce permite disponibilitatea unui algoritm de sincronizare fiziologic unic. Algoritmul WAVE monitorizeaza formele de unda ECG si PA, sau doar undele PA, doar ca sa determine setarile temporizarii inflatie, in timp real. Acest algoritm monitorizeaza semnalul PA a pacientilor pe baza ritmului si ajusteaza temporizarea inflatie specific acelei ritm.\r\nCand semnalul FiberOptix este disponibil, acesta este selectat si algoritmul de timp WAVE este utilizat automat. Toate celelalte functii ale pompelor sunt la fel pentru ambele modele.\r\n\r\nSistemul IABP din seria AutoCat 2 utilizeaza o tehnologie computerizata avansata pentru a selecta si mentine timpul si declansarea precisa a inflatiei si deflatiei IAB pe baza datelor fiziologice actuale ale pacientului. Sistemul ofera doua moduri de functionare, modul AutoPilot, unde majoritatea functiilor sunt selectate si controlate automat de IABP, si modul Operator, unde utilizatorul are control asupra majoritatii setarilor si selectiilor.\r\n\r\nSistemul este format din doua componente: modulul de comanda/afisare a pompei si modulul cu actionare pneumatica cu roti atasate, pentru transport usor. Un cablu de comunicatie de 3,6 m conecteaza modulul de comanda al pompei la modulul cu actionare pneumatica. Exteriorul seriei AutoCat 2 este conceput din spuma structurala pentru o greutate redusa si o durabilitate ridicata in timpul transportului. Pentru a va permite sa maximizati spatiul de lucru in timpul functionarii, modulul de control/afisare a pompei poate fi indepartat pentru confortul optim.\r\n\r\nAceasta serie de IABP reprezinta un sistem avansat bazat pe microprocesor conceput pentru aplicatii intraspitalicesti si in timpul transportului. Este compact, usor si poate functiona cu o capacitate operationala completa de minim 90/180 minute cu un acumulator.\r\n\r\nAvantaje\r\nSincronizarea contrapulsatiei IAB cu ritmul cardiac\r\nModuri de functionare automat sau manual\r\nRealizarea neintrerupta a contrapulsatiei, indiferent de cauzele dificile intampinate de pompa\r\nContrapulsatie continua pe parcursul schimbarii modului de lucru automat-manual, buteliei de Heliu, sursei de semnal a pacientului, triggerului contrapulsatiei, ratei de contrapulsatie\r\nMecanism de inflatie a balonului in volum, cu o admisie de gaz Heliu controlata volumetric precis\r\nControl al volumului de gaz heliu transmis balonului intra-aortic cu posibilitate de incrementare/decrementare 0,5cc\r\nLipsa nevoii de existenta a unui program/grafic de mentenanta privind inlocuirea oricarei piese de schimb sau consumabile\r\nDurata de viata nelimitata pentru componentele functionale principale ale consolei de contrapulsatie",
@@ -1655,7 +1659,7 @@
   {
     "name": "AutoCat 2 WAVE",
     "Producator": "Arrow",
-    "category": "Radiologie interventionala",
+    "category": "Radiologie interventionala si contrapulsatie",
     "subcategory": "Contrapulsatie",
     "smallDescription": "Sistem IABP",
     "fullDescription": "Seria Arrow AutoCat 2 are doua modele, AutoCat 2 si AutoCat 2 WAVE. Fiecare model efectueaza aceleasi operatii si au aceleasi functii, cu exceptia uneia. Pompa AutoCat 2 WAVE poate accepta un senzor de presiune arteriala FiberOptix de la cateterele Arrow IAB cu aceasta caracteristica. Senzorul FiberOptix ofera un semnal PA de inalta fidelitate, practic in timp real, ce permite disponibilitatea unui algoritm de sincronizare fiziologic unic. Algoritmul WAVE monitorizeaza formele de unda ECG si PA, sau doar undele PA, doar ca sa determine setarile temporizarii inflatie, in timp real. Acest algoritm monitorizeaza semnalul PA a pacientilor pe baza ritmului si ajusteaza temporizarea inflatie specific acelei ritm.\r\nCand semnalul FiberOptix este disponibil, acesta este selectat si algoritmul de timp WAVE este utilizat automat. Toate celelalte functii ale pompelor sunt la fel pentru ambele modele.\r\n\r\nSistemul IABP din seria AutoCat 2 utilizeaza o tehnologie computerizata avansata pentru a selecta si mentine timpul si declansarea precisa a inflatiei si deflatiei IAB pe baza datelor fiziologice actuale ale pacientului. Sistemul ofera doua moduri de functionare, modul AutoPilot, unde majoritatea functiilor sunt selectate si controlate automat de IABP, si modul Operator, unde utilizatorul are control asupra majoritatii setarilor si selectiilor.\r\n\r\nSistemul este format din doua componente: modulul de comanda/afisare a pompei si modulul cu actionare pneumatica cu roti atasate, pentru transport usor. Un cablu de comunicatie de 3,6 m conecteaza modulul de comanda al pompei la modulul cu actionare pneumatica. Exteriorul seriei AutoCat 2 este conceput din spuma structurala pentru o greutate redusa si o durabilitate ridicata in timpul transportului. Pentru a va permite sa maximizati spatiul de lucru in timpul functionarii, modulul de control/afisare a pompei poate fi indepartat pentru confortul optim.\r\n\r\nAceasta serie de IABP reprezinta un sistem avansat bazat pe microprocesor conceput pentru aplicatii intraspitalicesti si in timpul transportului. Este compact, usor si poate functiona cu o capacitate operationala completa de minim 90/180 minute cu un acumulator.\r\n\r\nAvantaje in plus fata de AutoCat 2\r\nProcesul de sincronizare tip Windkessel Aortic Valve Equation\r\nSincronizarea contrapulsatiei IAB cu fluxul aortic\r\nPort de conectare cu cateter ce transmite PA prin Fibra Optica\r\nCalibrare automata si permanenta la „zero” ale semnalelor de intrare fata de PA prin fibra optica, pentru eliminarea intarzierilor de timp dintre acestea\r\nLipsa valorilor minime sau constante ale PA transmise prin fibra optica\r\nSemnal continuu, neintrerupt al PA prin fibra optica\r\nSemnal PA fara necesitate de recalibrare sau repornire\r\nSemnal PA prin fibra optica fara artefacte senzoriale\r\nSemnal PA fara interferente electrice sau magnetice externe prin fibra optica",
@@ -1666,7 +1670,7 @@
   {
     "name": "Optimus AC3",
     "Producator": "Arrow",
-    "category": "Radiologie interventionala",
+    "category": "Radiologie interventionala si contrapulsatie",
     "subcategory": "Contrapulsatie",
     "smallDescription": "Pompa cu balon intraaortic",
     "fullDescription": "\r\nPompa cu balon intraaortic AC3 Optimus porneste prin apasarea unui buton. Setarea este rapida si facila, ghidata de indicatii vizuale pe ecranul tactil mare, de inalta definitie - incluzand confirmarea ca terapia poate fi initiata. In modul AutoPilot, the IABP AC3 Optimus ajusteaza automat parametrii de temporizare si declansare, permitand clinicianului sa se concentreze pe pacient, nu pe aparat. O simpla atingere a curbei grafice asigura accesul la comenzi, incluzand optiunea de a ajusta volumul.\r\n\r\nCu o platforma software extrem de avansata si o suita proprie de algoritmi, pompa cu balon intraaortic AC3 Optimus ofera suport hemodinamic exceptional intr-o gama larga de afectiuni ale pacientului. Un design usor de utilizat, o interfata intuitiva si un mod auto-pilot de ultima generatie o fac incredibil de simplu de utilizat. Cu aceasta combinatie imbatabila, Teleflex a modernizat terapia de contrapulsare, facand-o mai accesibila ca niciodata.\r\n\r\nStarea pacientului poate fi in continua schimbare - mentinerea terapiei optime necesita monitorizare si ajustare continua. Modul AutoPilot din a treia generatie a IABP AC3 Optimus faciliteaza urmarirea, sesizarea si adaptarea la schimbarea conditiilor, fara nicio interventie a medicului. \r\nModul Best Signal Analysis dentifica cel mai bun semnal pentru declansare si sincronizare, si implementeaza ajustarile cu o viteza si precizie mai mare decat a unui operator manual.",
@@ -1677,7 +1681,7 @@
   {
     "name": "Ultra 8",
     "Producator": "Arrow",
-    "category": "Radiologie interventionala",
+    "category": "Radiologie interventionala si contrapulsatie",
     "subcategory": "Contrapulsatie",
     "smallDescription": "Cateter IAB cu fibra optica",
     "fullDescription": "Se potriveste perfect prin teaca introductoare de 8 Fr.\r\n0.025” diametru fir de ghidaj si lungime de 175 cm\r\nDiametru lumenului central de 0.027” - Conceput special pentru a minimaliza blocarea lichidului pe lumenul central\r\nVarf din otel inoxidabil\r\nCapteaza si trimite semnal AP de inalta definitie cu viteaza lumini - Colaboreaza cu componentele unice ale sistemelor AutoCat 2 Wave si AC3 Optimus pentru a livra Tehnologia ProActive CounterPulsation",
@@ -1688,7 +1692,7 @@
   {
     "name": "Ultra 8 umplut cu lichid",
     "Producator": "Arrow",
-    "category": "Radiologie interventionala",
+    "category": "Radiologie interventionala si contrapulsatie",
     "subcategory": "Contrapulsatie",
     "smallDescription": "Cateter IAB umplut cu lichid",
     "fullDescription": "Se potriveste perfect cu teaca introductoare de 8 Fr.\r\nFid de ghidaj de 0.025”\r\nDiametru lumenului central de 0.027” - Conceput special pentru a minimaliza blocarea lichidului pe lumenul central\r\nVarf albastru moale si atraumatic",
@@ -1699,7 +1703,7 @@
   {
     "name": "UltraFlex 7.5",
     "Producator": "Arrow",
-    "category": "Radiologie interventionala",
+    "category": "Radiologie interventionala si contrapulsatie",
     "subcategory": "Contrapulsatie",
     "smallDescription": "Cateter IAB ",
     "fullDescription": "Corpul cateterului rezistent la indoire si flexibil, armat cu sarma - pentru evitarea cudarii in timpul insertiei si manipularii\r\nVarf albastru moale, atraumatic\r\nMentine forma circulara a lumenului pentru a asigura un sprijin constant pentru pacient\r\nCel mai mic cateter IAB de 30 cc si 40 cc armat cu sarma\r\nMaximizeaza fluxul sanguin arterial si ajuta la reducerea ischemiei membrelor datorita dimensiunii cateterului de 7.5 Fr. \r\nSemnal de unde AP clare",
@@ -1710,7 +1714,7 @@
   {
     "name": "RediGuard ",
     "Producator": "Arrow",
-    "category": "Radiologie interventionala",
+    "category": "Radiologie interventionala si contrapulsatie",
     "subcategory": "Contrapulsatie",
     "smallDescription": "Cel mai mic cateter IAB ",
     "fullDescription": "Cel mai mic cateter IAB disponibil - 7 Fr. 30 cc\r\nCatetere de 50 cc au varfurile albastre moi, atraumatice  \r\nDesign cu lumen central armat de 0.027”.\r\nDesign flexibil, moale si armat al lumenului central - perfect pentru firul de ghidare de 0.025”.\r\nMarcaje centimetrice pe corpul cateterului pentru ajutor la insertie\r\nCateter IAB de 7 fr. 30 cc - Disponibil pentru pacientii cu inaltimea sub 162 cm\r\nGama larga de catetere IAB flexibile: 7 Fr. 30 cc, 8 Fr. 40 cc, 9 Fr. 50 cc",
@@ -1721,7 +1725,7 @@
   {
     "name": "NarrowFlex",
     "Producator": "Arrow",
-    "category": "Radiologie interventionala",
+    "category": "Radiologie interventionala si contrapulsatie",
     "subcategory": "Contrapulsatie",
     "smallDescription": "Cateter IAB cu diametru mare",
     "fullDescription": "Fir de ghidaj de 0.030” - cel mai mare diametru disponibil pentru traking\r\nDiametru lumenului central de 0.032” pentru transmiterea excelenta a semnalului AP\r\nCorpul cateterului rezistent la indoire si flexibil, armat cu sarma - pentru evitarea cudarii in timpul insertiei si manipularii\r\nMentine forma circulara a lumenului pentru a asigura un sprijin constant pentru pacient\r\nSemnal de unde AP clare\r\nPerfect pentru firul de ghidare de 0.030”",
@@ -1732,7 +1736,7 @@
   {
     "name": "Combo Plus",
     "Producator": "OrbusNeich",
-    "category": "Radiologie interventionala",
+    "category": "Radiologie interventionala si contrapulsatie",
     "subcategory": "Cardiologie",
     "smallDescription": "Stent cu terapie duala",
     "fullDescription": "DES Pro-Healing - Proiectat pentru vindecarea rapida a vaselor si pentru o siguranta clinica superioara.\r\nCombo Plus cu tehnologia de captare EPC promoveaza vindecarea precoce a vaselor si a demonstrat in mod constant, prin mai multe studii clinice, siguranta si eficacitatea sa, atat la pacientii acuti, cat si la cei stabili, oferindu-le flexibilitatea optiunii DAPT scurte, daca este necesar.\r\n\r\nCombo Plus este mai mult decat un stent cu eliberare de medicamente (DES). Combo Plus ste o combinatie de componente traditionale DES cu adaugarea unui strat biologic.\r\nEliberarea de sirolimus dintr-un polimer bioabsorbabil. Polimerul bioabsorbabil brevetat este acoperit pe partea abluminala a stentului, permitand pentru eliberarea directionala a medicamentului in 30 de zile si absorbtia polimerului in 90 de zile.\r\n\r\nTip cateter: Rapid Exchange\r\nCompatibilitate ghid cateter: 5F\r\nCompatibilitate fir de ghidaj: 0.014”\r\nInvelis (corp / varf distal): invelis hidrofilic",
@@ -1743,7 +1747,7 @@
   {
     "name": "Sapphire 3",
     "Producator": "OrbusNeich",
-    "category": "Radiologie interventionala",
+    "category": "Radiologie interventionala si contrapulsatie",
     "subcategory": "Cardiologie",
     "smallDescription": "Cateter de dilatare coronariana",
     "fullDescription": "Cel mai competitiv profil de trecere si de intrare a varfului - Introducem marimea 0.85 mm\r\n\r\nVarf Sub-zero Flex conic cu „tranzitie zero cu firul de ghidaj”\r\nFlexibilitatea cateterului distal cu flexibilitate variabila pentru navigare exceptionala in interiorul anatomiilor complexe\r\nLivrabilitate imbunatatita cu lumenul firului de ghidaj extins la 30 cm pentru suport sporit si trackability \r\nHypotube taiat in spirala faciliteaza transmisia excelenta a fortei de la corpul proximal la varful distal, permitand in acelasi timp o flexibilitate generala echilibrata\r\n\r\nLungime de lucru cateter: 145 cm\r\nProfil de trecere: 0.0208”\r\nDiametrele baloanelor disponibile (mm): 0.85, 1.0, 1.25",
@@ -1754,7 +1758,7 @@
   {
     "name": "Sapphire II PRO",
     "Producator": "OrbusNeich",
-    "category": "Radiologie interventionala",
+    "category": "Radiologie interventionala si contrapulsatie",
     "subcategory": "Cardiologie",
     "smallDescription": "Cateter de dilatare coronariana",
     "fullDescription": "Sapphire II PRO este un cateter cu balon bine echilibrat conceput special pentru a ajunge la cele mai dificile leziuni si pentru a urmari anatomia, adaptat pentru fiecare dimensiune a leziunii.\r\nAxul P-TECH este construit in mod unic, cu un profil mic de cateter care este rezistent la indoire si faciliteaza livrarea excelenta.\r\nVarful conic, bine echilibrat are un profil ultra scazut si ofera o intrare fara efort prin cele mai complexe anatomii.\r\n\r\nProfil de trecere: 0.031”\r\nDiametru ax distal: 2.36F - 2.7F (1.75 mm - 4.0 mm)\r\nInvelis: Hidrofilic\r\nCompatibilitate cateter ghid: 5F",
@@ -1765,7 +1769,7 @@
   {
     "name": "Sapphire II PRO 1.0 mm",
     "Producator": "OrbusNeich",
-    "category": "Radiologie interventionala",
+    "category": "Radiologie interventionala si contrapulsatie",
     "subcategory": "Cardiologie",
     "smallDescription": "Cateter de dilatare coronariana",
     "fullDescription": "Redefinirea standardului pentru trecerea de ocluzii cronice\r\nCateterul Sapphire II PRO cu dimensiune mica are un varf dintr-un singur material pentru o constructie simpla. Varful mai scurt faciliteaza urmarirea. Iar profilul de intrare scazut al varfului este conceput pentru leziuni foarte stranse.\r\n\r\nProfil de trecere: 0.0216”\r\nDiametru ax distal: 2.36F\r\nInvelis: Hidrofilic\r\nLungimea de lucru a cateterului: 140 cm\r\nCompatibilitate cateter ghid: 5F\r\n\r\nDiametrele baloanelor disponibile (mm): 1.00, 1.25, 1.50",
@@ -1776,7 +1780,7 @@
   {
     "name": "Xlimus",
     "Producator": "Cardionovum",
-    "category": "Radiologie interventionala",
+    "category": "Radiologie interventionala si contrapulsatie",
     "subcategory": "Cardiologie",
     "smallDescription": "Stent coronarian din crom cobalt cu elutie de sirolimus",
     "fullDescription": "Un nou sistem de stent coronarian din crom cobalt cu elutie de medicament, care asigura livrarea medicamentului antiproliferativ, abluminal si eficient din punct de vedere clinic, la leziunea arterei coronare pentru a preveni restenoza, urmata de o vindecare functionala rapida a endoteliului. Un sistem de stent revolutional pentru tratarea leziunilor coronariene complexe cu tehnologia stentului coronarian din crom cobalt cu elutie de sirolimus.\r\n\r\nXlimus ajuta cardiologul cu performante de urmarire optime, de neegalat. Corpul inovator are un invelis hidrofilic si un profil al varfului foarte mic pentru a accesa si cele mai tortuoase leziuni. Profilul de trecere pentru leziuni este de doar 0.90 mm. Noul sistem al stentului coronarian cu eluare de sirolimus Xlimus protejeaza segmentul leziunii stentate printr-o schela omogena extraordinara a peretelui vasului, care minimalizeaza riscul de propaps al tesutului.\r\n\r\nDesign cu stent ingust optimizat de 0.0029”",
@@ -1787,7 +1791,7 @@
   {
     "name": "Sapphire II NC",
     "Producator": "OrbusNeich",
-    "category": "Radiologie interventionala",
+    "category": "Radiologie interventionala si contrapulsatie",
     "subcategory": "Cardiologie",
     "smallDescription": "Cateter de dilatare coronariana",
     "fullDescription": "Conformitate cu adevarat controlata si crosabilitate suprema pentru un spectru larg de vase sanguine\r\nVarf Z-Tip distal imbunatatit cu tehnologie avansata de sudare cu laser pentru tranzitia „ZERO” cu firul de ghidaj\r\nTranzitie „ZERO” intre varful distal si firul de ghidare de 0.014”.\r\nPrelucrare speciala a balonului, care are ca rezultat un profil de trecere superb pentru intrarea in leziuni primare si repetate\r\n\r\nLungimea de lucru a cateterului: 140 cm\r\nInvelis: Hydro-X si Invio pentru firul de ghidaj\r\nAx distal: 2.36F (1.75 - 2.0 mm), 2.55F (2.25 - 3.5 mm), 2.6F (3.75 - 5.0 mm)\r\nAx proximal: 2F",
@@ -1798,7 +1802,7 @@
   {
     "name": "Sapphire NC 24",
     "Producator": "OrbusNeich",
-    "category": "Radiologie interventionala",
+    "category": "Radiologie interventionala si contrapulsatie",
     "subcategory": "Cardiologie",
     "smallDescription": "Cateter de dilatare coronariana",
     "fullDescription": "Proiectat pentru o conformitate cu adevarat controlata, toleranta ridicata la presiune si re-crossability\r\n\r\nTip cateter: Rapid Exchange\r\nAx proximal: 2.1F\r\nAx distal: 2.36F - 2.7F (Ø1.5 mm - 5.0 mm)\r\nLungimea de lucru a cateterului: 140 cm\r\nProfil de trecere: (Ø3.0 mm): 0.0347”\r\nDiametre disponibile pentru balon: (mm): 1.5, 1.75, 2.0, 2.25, 2.5, 2.75, 2.875, 3.0, 3.25, 3.5, 3.75, 4.0, 4.5, 5.0\r\nCompatibilitate ghid cateter: 5F (Ø1.5 mm - 4.00 mm), 6F (Ø4.5 mm - 5.0 mm)",
@@ -1809,7 +1813,7 @@
   {
     "name": "Scoreflex",
     "Producator": "OrbusNeich",
-    "category": "Radiologie interventionala",
+    "category": "Radiologie interventionala si contrapulsatie",
     "subcategory": "Cardiologie",
     "smallDescription": "Cateter de dilatare coronariana",
     "fullDescription": "Scoreflex este un balon de dilatare cu un sistem cu doua fire care creeaza un model de stres focal pentru a facilita modificarea sigura si controlata a placii la o presiune de rezolutie mai mica.\r\n\r\nAplicatii\r\nPregatirea leziunilor pentru stenturi, schele, baloane acoperite cu medicament\r\nLeziuni calcificate si fibrotice\r\nLeziuni ostiale\r\nLeziuni de bifurcatie\r\nLeziuni difuze lungi\r\nLeziuni mici fara a fi nevoie de stentare\r\nRestnoza in stent\r\n\r\nSpecificatii\r\nBalon semi-compliant \r\nMaterial balon: Nailon\r\nElement scoring: fir integral de 0.011” si fir de ghidaj conventional de 0.014”\r\nCompatibilitate fir de ghidaj: 0.014”\r\nCompatibilitate ghid cateter: 5F",
@@ -1820,7 +1824,7 @@
   {
     "name": "Scoreflex NC",
     "Producator": "OrbusNeich",
-    "category": "Radiologie interventionala",
+    "category": "Radiologie interventionala si contrapulsatie",
     "subcategory": "Cardiologie",
     "smallDescription": "Cateter de dilatare coronariana",
     "fullDescription": "Scoreflex este un balon de dilatare cu un sistem cu doua fire care creeaza un model de stres focal pentru a facilita modificarea sigura si controlata a placii la o presiune de rezolutie mai mica.\r\n\r\nScoreflex NC are:\r\nUn varf scurt cu rapid exchange cu portul de iesire al firului de ghidare proximal la varf.\r\nUn fir integral de nitinol, sudat de la varf la hipotub, servind drept unul dintre elementele de scoring.\r\nDoua markere radioopace pe firul integral aliniate pe balon.\r\n\r\nSpecificatii\r\nBalon Non-compliant \r\nProfil de trecere: 0.0343”\r\nMaterial balon: Nailon\r\nElement scoring: fir integral de 0.011” si fir de ghidaj conventional de 0.014”\r\nCompatibilitate ghid cateter: 5F",
@@ -1831,7 +1835,7 @@
   {
     "name": "Restore DEB",
     "Producator": "Cardionovum",
-    "category": "Radiologie interventionala",
+    "category": "Radiologie interventionala si contrapulsatie",
     "subcategory": "Cardiologie",
     "smallDescription": "Cateter PACLITAXEL cu balon eliberare PTCA ",
     "fullDescription": "Cateterul Restore DEB PTCA este un cateter cu lumen dublu cu dilatare balon coronarian pentru schimbarea rapida, balon care se mareste si are doua marcaje radioopace (proximal si distal), pentru facilitarea pozitionari balonului sub fluorescopia radiografiei. \r\n\r\nBalonul Restore DEB PTCA este acoperit cu un invelis de 3.0 µg Paclitaxel per mm². Balonul de dilatare este conceput pentru a se umfla la diametrul si lungimea cunoscuta cu presiunea de umflare recomandata. Capatul proximal al cateterului Restore DEB PTCA are un port conector “mama” Luer-Lock pentru umflarea/dezumflarea balonului.\r\n\r\nRestore DEB PTCA este un catater cu schimbare rapida cu o lungime de 140 cm si un lumen de ghidare de 25 cm lungime. Cateterul Restore DEB PTCA este compatibil cu firele de ghidare cu diametrul de 0.014” (0.36 mm) si cateterele de ghidare cu 5F.",
@@ -1842,12 +1846,56 @@
   {
     "name": "Jade",
     "Producator": "OrbusNeich",
-    "category": "Radiologie interventionala",
+    "category": "Radiologie interventionala si contrapulsatie",
     "subcategory": "Periferic",
     "smallDescription": "Cateter cu balon PTA",
     "fullDescription": "Sectiunea Rx extinsa a lui Jade permite o impingere mai buna decat un cateter traditional de tipul rapid exchange.\r\n\r\nJade are:\r\nO sectiune de tracking a lumenului de 60 cm, ceea ce face din aceasta o constructie hibrida intre rapid exchange / over-the-wire\r\nTehnologie Z-tip pentru gestionarea leziunilor provocatoare\r\nLumen de tracking a firului de ghidare extins\r\n\r\nTip cateter: Rapid exchange\r\nBalon cu complianta controlabila\r\nLungimea cateter: 150 cm \r\nProfil de trecere: 0.039” (Ø 3.0 mm)\r\nMaterial balon: Nailon / Pebax\r\nCompatibilitate fir de ghidaj: 0.014”",
     "extLink": "https://orbusneich.com/product/jade/",
     "logoPic": "p-jade.webp",
     "Thumbnail": "jade.webp"
+  },
+  {
+    "name": "Scoreflex SFA",
+    "Producator": "OrbusNeich",
+    "category": "Radiologie interventionala si contrapulsatie",
+    "subcategory": "Periferic",
+    "smallDescription": "Cateter cu balon",
+    "fullDescription": "Scoreflex SFA este un balon de dilatare cu un sistem cu doua fire care creeaza un model de stres focal pentru a facilita modificarea sigura si controlata a placii la o presiune de rezolutie mai mica.\r\n\r\nScoreflex SFA are:\r\nUn varf scurt cu rapid exchange cu portul de iesire al firului de ghidare proximal la varf.\r\nUn fir integral de nitinol, sudat de la varf la hipotub, servind drept unul dintre elementele de scoring.\r\nDoua markere radioopace pe firul integral aliniate pe balon.\r\n\r\nSpecificatii\r\nBalon Semi-compliant \r\nProfil de trecere: 0.038”\r\nMaterial balon: Nailon\r\nElemente scoring: fir integral de 0.014” si fir de ghidaj conventional de 0.018”\r\nAx proximal: 2.5F",
+    "extLink": "https://orbusneich.com/product/scoreflex-pta/",
+    "logoPic": "p-scoreflex-sfa.webp",
+    "Thumbnail": "scoreflex-sfa.webp"
+  },
+  {
+    "name": "Scoreflex BTK",
+    "Producator": "OrbusNeich",
+    "category": "Radiologie interventionala si contrapulsatie",
+    "subcategory": "Periferic",
+    "smallDescription": "Cateter cu balon",
+    "fullDescription": "Scoreflex BTK este un balon de dilatare cu un sistem cu doua fire care creeaza un model de stres focal pentru a facilita modificarea sigura si controlata a placii la o presiune de rezolutie mai mica.\r\n\r\nScoreflex BTK are:\r\nUn varf scurt cu rapid exchange cu portul de iesire al firului de ghidare proximal la varf.\r\nUn fir integral de nitinol, sudat de la varf la hipotub, servind drept unul dintre elementele de scoring.\r\nDoua markere radioopace pe firul integral aliniate pe balon.\r\n\r\nSpecificatii\r\nBalon Semi-compliant \r\nProfil de trecere: 0.036”\r\nMaterial balon: Nailon\r\nElemente scoring: fir integral de 0.011” si fir de ghidaj conventional de 0.014”\r\nAx proximal: 2.3F",
+    "extLink": "https://orbusneich.com/product/scoreflex-pta/",
+    "logoPic": "p-scoreflex-btk.webp",
+    "Thumbnail": "scoreflex-btk.webp"
+  },
+  {
+    "name": "Scoreflex AV Fistula",
+    "Producator": "OrbusNeich",
+    "category": "Radiologie interventionala si contrapulsatie",
+    "subcategory": "Periferic",
+    "smallDescription": "Cateter cu balon",
+    "fullDescription": "Scoreflex AV Fistula este un balon de dilatare cu un sistem cu doua fire care creeaza un model de stres focal pentru a facilita modificarea sigura si controlata a placii la o presiune de rezolutie mai mica.\r\n\r\nScoreflex AV Fistula are:\r\nUn varf scurt cu rapid exchange cu portul de iesire al firului de ghidare proximal la varf.\r\nUn fir integral de nitinol, sudat de la varf la hipotub, servind drept unul dintre elementele de scoring.\r\nDoua markere radioopace pe firul integral aliniate pe balon.\r\n\r\nSpecificatii\r\nBalon Semi-compliant \r\nProfil de trecere: 0.043”\r\nMaterial balon: Nailon\r\nElemente scoring: fir integral de 0.014” si fir de ghidaj conventional de 0.018”\r\nLungimea cateterului: 40 cm\r\nAx proximal: 2.5F",
+    "extLink": "https://orbusneich.com/product/scoreflex-pta/",
+    "logoPic": "p-scoreflex-av-fistula.webp",
+    "Thumbnail": "scoreflex-av-fistula.webp"
+  },
+  {
+    "name": "Legflow OTW/RX",
+    "Producator": "Cardionovum",
+    "category": "Radiologie interventionala si contrapulsatie",
+    "subcategory": "Periferic",
+    "smallDescription": "Balon acoperit cu medicament Safepax PTX",
+    "fullDescription": "\r\nCalitatea invelisului balonului Legflow cu medicament este un pas major dincolo de invelisurile DCB contemporane de prima si a doua generatie. Legflow RX/OTW ofera o protectie 100% anti-proliferativa a peretilor vaselor si promoveaza vindecarea rapida dupa angioplastia cu balon.\r\n\r\nTratarea bolii arterelor periferice (PAD) in artera femurala superficiala (SFA) este o provocare dificila. Anatomia este foarte dinamica si contine leziuni complexe, dar si comorbiditatile pacientului precum diabetul necesita cea mai eficienta terapie clinic. Noul cateter de dilatare cu balon periferic cu eliberare de paclitaxel Legflow ofera cel mai de succes tratament clinic al bolii arterelor periferice si asigura o permeabilitate a vasului pe termen lung.\r\n\r\nRata stenozei recurente dupa PTA si stentarea sunt mai mari in zona de sub genunchi decat in ​​procedurile femoropoplitee. Absenta suporturilor metalice face ca balonul de dilatare Legflow sa fie adecvat pentru tratarea leziunilor lungi, in special in vasele cu diametru mic si in zonele in care pot aparea flexia si compresia stentului, ce pot duce la fracturi ale stentului. Datorita noii tehnologii stabile a invelisului „SAFEPAX” PTX, tratamentul pacientilor cu ischemie critica a membrelor pare la fel de sigur ca angioplastia POBA.\r\n\r\nLegflow OTW\r\nMaterial corp cateter: Poliamida\r\nMaterial balon: Poliamida\r\nLungime de lucru cateter: 150 cm\r\nFir de ghidaj max. recomandat: 0.0.14”\r\nMarime teaca introductoare: 4F\r\nInvelis Paclitaxel: 3.0μg/mm²\r\n\r\nLegflow OTW\r\nMaterial corp cateter: Otel inoxidabil\r\nMaterial balon: Poliamida\r\nLungime de lucru cateter: 140 cm\r\nFir de ghidaj max. recomandat: 0.0.14”\r\nMarime teaca introductoare: 5F ø 2.0 - 3.5 mm, 5F ø 4.0 mm\r\nInvelis Paclitaxel: 3.0 μg/mm²",
+    "extLink": "https://cardionovum.de/legflow/",
+    "logoPic": "p-legflow.webp",
+    "Thumbnail": "legflow.webp"
   }
 ]

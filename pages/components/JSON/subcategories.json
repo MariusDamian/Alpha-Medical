@@ -67,12 +67,6 @@
   },
   {
     "subCatPar": "Oncologie",
-    "subCatName": "Linii extensie",
-    "subCatDescription": "Seturi de monitorizare presiune si extensii",
-    "subCatImage": "subcategorie-oncologie-linii-extensie.webp"
-  },
-  {
-    "subCatPar": "Oncologie",
     "subCatName": "Conectori",
     "subCatDescription": "Reducerea riscului de infectare",
     "subCatImage": "subcategorie-oncologie-conectori.webp"
@@ -84,13 +78,13 @@
     "subCatImage": "subcategorie-oncologie-aparatura.webp"
   },
   {
-    "subCatPar": "Ingrijirea-ranilor-si-a-plagilor",
+    "subCatPar": "Ingrijirea-ranilor-plagilor",
     "subCatName": "Pansamente",
     "subCatDescription": "Pansamente cu miere de Manuka si benzi adezive",
     "subCatImage": "subcategorie-pansamente.webp"
   },
   {
-    "subCatPar": "Ingrijirea-ranilor-si-a-plagilor",
+    "subCatPar": "Ingrijirea-ranilor-plagilor",
     "subCatName": "Creme",
     "subCatDescription": "Creme medicinale",
     "subCatImage": "subcategorie-creme.webp"
@@ -120,31 +114,31 @@
     "subCatImage": "subcategorie-accesorii-urologie.webp"
   },
   {
-    "subCatPar": "Chirurgie",
+    "subCatPar": "Chirurgie-si-laparoscopie",
     "subCatName": "Clipuri",
     "subCatDescription": "Sisteme de ligaturare",
     "subCatImage": "subcategorie-clipuri.webp"
   },
   {
-    "subCatPar": "Chirurgie",
+    "subCatPar": "Chirurgie-si-laparoscopie",
     "subCatName": "Dispozitive diverse",
     "subCatDescription": "Dispozitive de extractie, de drenaj toracic si recuperare sange",
     "subCatImage": "subcategorie-dispozitive-diverse.webp"
   },
   {
-    "subCatPar": "Radiologie interventionala",
+    "subCatPar": "Radiologie-interventionala-si-contrapulsatie",
     "subCatName": "Contrapulsatie",
     "subCatDescription": "Sisteme IABP si catetere specifice",
     "subCatImage": "subcategorie-contrapulsatie.webp"
   },
   {
-    "subCatPar": "Radiologie interventionala",
+    "subCatPar": "Radiologie-interventionala-si-contrapulsatie",
     "subCatName": "Cardiologie",
     "subCatDescription": "Catetere de dilatare coronariana",
     "subCatImage": "subcategorie-cardiologie.webp"
   },
   {
-    "subCatPar": "Radiologie interventionala",
+    "subCatPar": "Radiologie-interventionala-si-contrapulsatie",
     "subCatName": "Periferic",
     "subCatDescription": "Catetere cu balon PTA si cu eliberare medicament ",
     "subCatImage": "subcategorie-periferic.webp"

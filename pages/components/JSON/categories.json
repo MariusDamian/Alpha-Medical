@@ -5,9 +5,9 @@
     "catImage": "categorie-ati.webp"
   },
   {
-    "catName": "Chirurgie",
+    "catName": "Chirurgie si laparoscopie",
     "catDescription": "Clipuri si dispozitive speciale utilizate in Chirurgie",
-    "catImage": "categorie-chirurgie.webp"
+    "catImage": "categorie-si-laparoscopie.webp"
   },
   {
     "catName": "Ingrijirea ranilor si a plagilor",
@@ -35,8 +35,8 @@
     "catImage": "categorie-sterilizare.webp"
   },
   {
-    "catName": "Radiologie interventionala",
+    "catName": "Radiologie interventionala si contrapulsatie",
     "catDescription": "Sisteme IABP si microcatetere",
-    "catImage": "categorie-radiologie-interventionala.webp"
+    "catImage": "categorie-radiologie-interventionala-contrapulsatie.webp"
   }
 ]

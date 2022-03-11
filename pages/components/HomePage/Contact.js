@@ -37,11 +37,11 @@ function Contact() {
                               <input type="text" className="bg-black w-full h-36 rounded-lg border border-gray-700 p-3" placeholder="Your Message" />
                          </div>
                          <div className="w-1/2 bg-gray-700 h-auto">
-                              <GoogleMapReact defaultCenter={coords} defaultZoom={13} center={coords}>
+                              {/* <GoogleMapReact defaultCenter={coords} defaultZoom={13} center={coords}>
                                    <p defaultCenter={coords} center={coords} defaultZoom={13} className="text-black">
                                         Alpha Medical
                                    </p>
-                              </GoogleMapReact>
+                              </GoogleMapReact> */}
                          </div>
                     </div>
                </div>

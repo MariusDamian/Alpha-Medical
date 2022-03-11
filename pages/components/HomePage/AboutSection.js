@@ -5,7 +5,7 @@ function AboutSection() {
   return (
     <div className='min-h-screen w-full flex flex-row text-gray-200 leading-8' id='despre'>
       <div className='w-1/2'>
-        <img src='./images/about.png' alt='' className='' />
+        <img src='./images/about3.webp' alt='' className='' />
       </div>
       <div className='w-1/2 min-h-screen flex items-center'>
         <div className='bg-[#00001a] w-full min-h-[80%] -ml-52 rounded-3xl flex flex-col py-28 pl-24 space-y-8'>

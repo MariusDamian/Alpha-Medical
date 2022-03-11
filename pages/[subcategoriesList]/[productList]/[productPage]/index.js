@@ -20,12 +20,15 @@ function ProductPage({ subcategoriesProps, categoriesProps, productsProps }) {
   let currentCategory = categoriesProps?.filter((category) => category.catName.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList);
   let currentSubCategory = subcategoriesProps?.filter((subCategory) => subCategory.subCatName.replace(/ /g, "-").toLocaleLowerCase() === productList);
   let currentProduct = productsProps?.filter((produs) => produs.name.replace(/ /g, "-").toLowerCase() === productPage);
-
+  console.log(currentProduct);
   return (
     <>
       <Head>
-        <title>{currentProduct[0]?.name} | Alpha Medical</title>
-        <meta name='description' content='Aparatura si echipamente medicale' />
+        <title>
+          {currentProduct[0]?.name} | {currentProduct[0]?.Producator} | Alpha Medical
+        </title>
+        <meta name='description' content={currentProduct[0]?.seoDescription ?? currentProduct[0]?.smallDescription} />
+        <meta name='keywords' content={currentProduct[0]?.seoKeywords} />
       </Head>
       <Navbar />
       <div className='h-20 pb-20 w-full'></div>
@@ -54,7 +57,7 @@ function ProductPage({ subcategoriesProps, categoriesProps, productsProps }) {
                 <div className='max-w-7xl h-auto flex flex-col lg:flex-row items-center justify-center'>
                   <img src={`/images/productImage/logoPic/${currentProduct[0].logoPic}`} alt='' className='lg:w-[50%] px-10' />
                   <div className='lg:w-[50%] px-2 lg:px-10 h-[600px] overflow-hidden overflow-y-auto'>
-                    <p style={{ whiteSpace: "pre-line" }} className='text-justify tracking-tight leading-8 text-base text-gray-200'>
+                    <p style={{ whiteSpace: "pre-line" }} className='tracking-tight leading-8 text-base text-gray-200'>
                       {currentProduct[0].fullDescription}
                     </p>
                     <br />
