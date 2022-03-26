@@ -39,7 +39,7 @@
     "logoPic": "p-HAMILTON-T1.webp",
     "Thumbnail": "HAMILTON-T1.webp",
     "seoKeywords": "ventilator transport, ventilator mobil, ventilator transport aerian, ventilator salvare, ventilatoare urgenta, Hamilton Medical",
-    "seoDescription": "Hamilton T1 optim pentru transportul de urgenta a pacientilor aerian, maritim sau cu salvarea."
+    "seoDescription": "Hamilton T1 optim pentru transportul de urgenta aerian, maritim sau cu salvarea a pacientilor critici."
   },
   {
     "name": "HAMILTON-MR1",
@@ -108,7 +108,8 @@
     "heroPic": "b-medin-NC3.webp",
     "logoPic": "p-medin-NC3.webp",
     "Thumbnail": "medin-NC3.webp",
-    "seoKeywords": "medin NC3, ventilatie neinvaziva, ventilator mecanic bebelusi, ApneaCPAP"
+    "seoKeywords": "medin NC3, ventilatie neinvaziva, ventilator mecanic bebelusi, ApneaCPAP",
+    "seoDescription": "medin NC3 este primul dispozitiv CPAP cu turbina pentru suportul respirator neinvaziv pentru bebelusi si nou-nascuti."
   },
   {
     "name": "Nuvo Lite 5L",
@@ -120,7 +121,9 @@
     "extLink": "https://nidekmedical.com/wp-content/uploads/2019/02/2010-8406-rev-c-modular-family-brochure.pdf",
     "heroPic": "b-nuvo-lite-5l.webp",
     "logoPic": "p-concentrator-nuvo-lite-5l.webp",
-    "Thumbnail": "concentrator-nuvo-lite-5l.webp"
+    "Thumbnail": "concentrator-nuvo-lite-5l.webp",
+    "seoKeywords": "concentrator de oxigen, oxigenator, terapie oxigen acasa, concentrator portabil oxigen, aparat oxigen, oxigen medical",
+    "seoDescription": "Concentrator portabil de oxigen cu capacitate de 5L, debitmetru reglabil, furtun si masca respiratie. Usor de utilizat acasa."
   },
   {
     "name": "Circuite respiratorii HAMILTON",
@@ -131,7 +134,9 @@
     "fullDescription": "Seturi de circuite respiratorii preasamblate de la HAMILTON cu calitate dovedita a producatorului - toate seturile au fost special concepute pentru ventilatoarele Hamilton Medical. \r\nSeturile de circuite respiratorii de unica folosinta sunt disponibile cu diferite lungimi si ansambluri - cu si fara senzor de debit si/sau supapa de expirare - pentru a satisface cerintele dumneavoastra individuale.",
     "extLink": "https://www.hamilton-medical.com/tr/Products/Accessories-and-Consumables/Breathing-circuits-and-components/Breathing-circuit-sets.html",
     "logoPic": "p-circuite-respiratorii-HAMILTON.webp",
-    "Thumbnail": "circuite-respiratorii-HAMILTON.webp"
+    "Thumbnail": "circuite-respiratorii-HAMILTON.webp",
+    "seoKeywords": "circuite respiratorii, furtun, furtunuri, Hamilton medical, furtun debit ridicat, supapa expiratie, valva respiratie",
+    "seoDescription": "Seturile de circuite respiratorii concepute special pentru ventilatoare Hamilton Medical."
   },
   {
     "name": "Circuite respiratorii Teleflex",
@@ -142,7 +147,9 @@
     "fullDescription": "Solutiile de terapie respiratorie faciliteaza respiratia, ajuand in acelasi timp medicii sa imbunatateasca rezultatele pacientilor si sa reduca costurile. Oferim o gama larga de circuite respiratorii Rüsch. Aceste produse sunt fabricate in conformitate cu standardele ISO in conditii de camera curata.",
     "extLink": "https://teleflex.com/emea/en/product-areas/respiratory/active-humidification-breathing-circuits/",
     "logoPic": "p-circuite-respiratorii-Teleflex.webp",
-    "Thumbnail": "circuite-respiratorii-teleflex.webp"
+    "Thumbnail": "circuite-respiratorii-teleflex.webp",
+    "seoKeywords": "terapie respiratorie, furtunuri respiratorii, Teleflex, Rusch, solutii respiratie, terapie oxigen",
+    "seoDescription": "Seturi de circuite respiratorii Teleflex ce ofera solutii pentru ajutorul in terapia respiratorie din spital."
   },
   {
     "name": "Baloane de resuscitare",
@@ -153,7 +160,9 @@
     "fullDescription": "Resuscitatoarele de unica folosinta Lifesaver de la Hudson RCI combina calitatea, caracteristicile si performanta cu avantajul unui produs de unica folosinta. Acestea sunt create pentru a intruni sau chiar depasi standardele ISO si ASTM. Conectorul unic cu unghi drept la tubul de oxigen se roteste la 360°. Sacii pediatrici si nou-nascuti au o supapa de eliberare a presiunii incorporata si un port de monitorizare a presiunii.",
     "extLink": "https://teleflex.com/emea/en/product-areas/respiratory/airway-management/",
     "logoPic": "p-balon-resuscitare-hudson.webp",
-    "Thumbnail": "balon-resuscitare-hudson.webp"
+    "Thumbnail": "balon-resuscitare-hudson.webp",
+    "seoKeywords": "balon resuscitare, resuscitator, respiratie artificiala, masca resuscitare, Teleflex, Hudson  ",
+    "seoDescription": "Masca cu balon resuscitare Teleflex pentru interventia de prim ajutor. Respiratie artificiala de la Hudson."
   },
   {
     "name": "AquaPak",
@@ -163,7 +172,9 @@
     "smallDescription": "AquaPak umidificatoare preincarcate cu apa",
     "fullDescription": "Umidificatoare cu bule preumplute AquaPak\r\nFiecare mediu clinic are cerinte unice. Disponibil intr-o gama completa de marimi, umidificatoarele cu bule AquaPaK furnizeaza productia de umiditate terapeutica, avand doar acest scop in vedere.\r\nGama completa de marimi. Apa sterila disponibila in 340ml, 540 ml si 650 ml, pentru a sprijini o varietate de aplicatii clinice.\r\nUsor de utilizat. Fiecare rezervor incorporeaza un tub conector de oxigen avand un design usor de declansare.\r\nProductie mare de umiditate. Micro-difuzorul produce bule mai mici si o mai mare suprafata de agitatie, pentru a permite functionarea silentioasa si productia de umiditate terapeutica.\r\nSigur si eficient. Adaptorul de umidificare incorporeaza o alarma sonora pentru a avertiza pacientul sau ingrijitorul de restrictionarea curgerii sau ocluzia din umidificator sau tuburi.",
     "logoPic": "p-aquapak.webp",
-    "Thumbnail": "aquapak.webp"
+    "Thumbnail": "aquapak.webp",
+    "seoKeywords": "unidificatoare, apa concentrator oxigen, apa sterila, umidificatoare bule, Teleflex, Rusch",
+    "seoDescription": "Apa sterila Aqua Pak de la Teleflex furnizeaza umiditate terapeutica pentru ventilatia mecanica."
   },
   {
     "name": "SonoSite Edge II",
@@ -171,11 +182,13 @@
     "category": "ATI",
     "subcategory": "Ecografe POC",
     "smallDescription": "Diagnoza sigura cu ultrasunete pentru momentele critice",
-    "fullDescription": "Sistemul cu ultrasunete SonoSite Edge II ofera o noua experienta in imagistica medicala prin traductoarele inovative, precum DirectClear si Tehnologia Cablurilor Armate. In plus, pentru ca poarta marca SonoSite, Edge II intruchipeaza principiile noastre de durabilitate, siguranta si utilizare facila. \r\n\r\nTehnologia DirectClear este un proces nou, patentat, care creste performntele traductorului:\r\nImbuntateste penetrarea si rezolutia de contrast: spre deosebire de traductoarele conventionale SonoSite, acest proiect beneficiaza de um material mai eficient, care permite generarea mai multor semnale acustice. In paralel, a fost adaugat un strat reflectorizant aditional, ce reduce pierderea semnalului, si este transmis in corpul pacientului.\r\nRezolutie detaliata mai buna: a fost adaugat un strat aditional care asigura o mai buna compatibilitate acustica a traductorului cu pacientul, imbunatatind evidentierea structurilor fine si marind precizia diagnozei.",
+    "fullDescription": "Sistemul cu ultrasunete SonoSite Edge II ofera o noua experienta in imagistica medicala prin traductoarele inovative, precum DirectClear si Tehnologia Cablurilor Armate. In plus, pentru ca poarta marca SonoSite, Edge II intruchipeaza principiile noastre de durabilitate, siguranta si utilizare facila. \r\n\r\nTehnologia DirectClear este un proces nou, patentat, care creste performntele traductorului:\r\nImbuntateste penetrarea si rezolutia de contrast: spre deosebire de traductoarele conventionale SonoSite, acest proiect beneficiaza de un material mai eficient, care permite generarea mai multor semnale acustice. In paralel, a fost adaugat un strat reflectorizant aditional, ce reduce pierderea semnalului, si este transmis in corpul pacientului.\r\nRezolutie detaliata mai buna: a fost adaugat un strat aditional care asigura o mai buna compatibilitate acustica a traductorului cu pacientul, imbunatatind evidentierea structurilor fine si marind precizia diagnozei.",
     "extLink": "https://www.sonosite.com/products/sonosite-edge-ii",
     "heroPic": "b-sonosite-fujifilm-edge-2.webp",
     "logoPic": "p-sonosite-fujifilm-edge-2.webp",
-    "Thumbnail": "sonosite-edge-2.webp"
+    "Thumbnail": "sonosite-edge-2.webp",
+    "seoKeywords": "sistem ultrasunete, ecograf, sonosite, edge II, imagistica medicala, precizie diagnostic, ecograf portabil",
+    "seoDescription": "Ecograf Edge II Sonosite este un sistem cu ultrasunete care ofera o diagnoza sigura pacientilor tai."
   },
   {
     "name": "SonoSite M-Turbo",
@@ -187,7 +200,9 @@
     "extLink": "https://www.sonosite.com/products/sonosite-m-turbo",
     "heroPic": "b-sonosite-fujifilm-m-turbo.webp",
     "logoPic": "p-sonosite-fujifilm-m-turbo.webp",
-    "Thumbnail": "sonosite-m-turbo.webp"
+    "Thumbnail": "sonosite-m-turbo.webp",
+    "seoKeywords": "ecograf portabil, sistem ultrasunete, ecograf, sonosite, m-turbo, doppler color",
+    "seoDescription": "Ecograful Sonosite M-Turbo ofera o calitate extraordinara a imaginii si o definire clara a tesuturilor."
   },
   {
     "name": "SonoSite SII",
@@ -199,7 +214,9 @@
     "extLink": "https://www.sonosite.com/products/sonosite-sii",
     "heroPic": "b-sonosite-fujifilm-sii.webp",
     "logoPic": "p-sonosite-fujifilm-sii.webp",
-    "Thumbnail": "sonosite-sii.webp"
+    "Thumbnail": "sonosite-sii.webp",
+    "seoKeywords": "Ecograf portabil, ecograf, sonosite, sistem ultrasunete, imagistica",
+    "seoDescription": "Ecograf portabil Sonosite SII este un sistem cu ultrasunete inteligent ce se adapteaza nevoilor complexe in imagistica."
   },
   {
     "name": "SonoSite X-Porte",
@@ -210,7 +227,8 @@
     "fullDescription": "X-Porte reprezinta o abordare complet noua a ecografiei clinice. Imaginile, caracteristicile si resursele educationale ale ecografului X-Porte sunt reunite intr-un design convenient. La o singura atingere, acesta raspunde atat de rapid si inteligent la nevoile tale de imagistica, vei sti ca este creat pentru profesionisti. Panoul sau de comanda intuitiv face ca navigarea in sistem sa fie usoara, iar ecranul sau tactil nu are butoane pentru ca agenti patogeni sa nu se ascunda in spatele acestora.\r\n\r\nProfilul subtire a ecografului X-Porte faciliteaza manevrarea pe langa paturile pacientilor si mese de examinare pentru vizualizarea si oferirea de proceduri la punctul de ingrijire. Pentru portabilitate si durabilitate in timpul transportului, ecranul sau se pliaza si suportul sau se poate cobora, astfel X-Porte devine si mai compact pentru a naviga pe coridoarele aglomerate. Pentru intretinere, nimic nu poate fi mai convenabil decat garantia de cinci ani si motorul detasabil X-Porte.\r\n\r\nO singura privire si diferenta este clara  - tehnologia de imagistica avanata duce la claritate si rezolutie extrema a imaginii \r\nInterfata cu “gesturi tactile” - optimizeaza fluxul de lucru la o atingere. Puteti personaliza cu usurinta interfata pentru a se potrivi nevoilor dvs.",
     "extLink": "https://www.sonosite.com/products/sonosite-x-porte",
     "logoPic": "p-sonosite-x-porte.webp",
-    "Thumbnail": "sonosite-x-porte.webp"
+    "Thumbnail": "sonosite-x-porte.webp",
+    "seoDescription": "Sistemul cu ultrasunete Sonosite X-Porte reprezinta o abordare complet noua a ecografiei clinice. Inteligent la nevoile de imagistica."
   },
   {
     "name": "Frequencer",
@@ -222,7 +240,8 @@
     "extLink": "https://dymedso.com/frequencer/",
     "heroPic": "b-dymedso-frequncer.webp",
     "logoPic": "p-dymedso-frequencer.webp",
-    "Thumbnail": "dymedso-frequencer.webp"
+    "Thumbnail": "dymedso-frequencer.webp",
+    "seoDescription": "Dispozitivul Frequencer Dymedso ajuta la terapia de curatare a cailor respiratorii si la drenarea bronsica."
   },
   {
     "name": "Bair Hugger",
@@ -234,7 +253,8 @@
     "extLink": "https://www.bairhugger.com/3M/en_US/bair-hugger-us/",
     "heroPic": "b-bair-hugger-3m.webp",
     "logoPic": "p-bair-hugger-3m.webp",
-    "Thumbnail": "bair-hugger-3m.webp"
+    "Thumbnail": "bair-hugger-3m.webp",
+    "seoDescription": "3M Bair Hugger este o unitate de incalzire paturici cu 4 setari de temperatura pentru incalzirea pacientului inainte de perioada postoperatorie."
   },
   {
     "name": "Ranger",
@@ -242,11 +262,12 @@
     "category": "ATI",
     "subcategory": "Sisteme de incalzire",
     "smallDescription": "Incalzirea fluidelor\r\nsigura si eficienta\r\natunci cand ai mai mare nevoie",
-    "fullDescription": "Sistemul de incalzire a sangelui si fluidelor 3M Ranger ii ajuta pe medici sa previna reducerea suplimentara a temperaturii centrale cauzate de fluide reci. Sunt disponibile variante cu debit standard si cu debit mare, pentru a asigura o incalzire sigura si eficienta pentru toti pacientii - toate intr-un singur sistem.\r\n\r\nSistemul de incalzire a sangelui si fluidelor, cu tehnologia de incalzire uscata, 3M Ranger foloseste placi de aluminiu in interiorul unitatii de incalzire. Fara  baie de apa. Nici un risc potential de infectare ascociat cu apa incalzita a baii de apa.\r\nConceptul revolutionar si placile de aluminiu din sistemul de incalzire a sangelui si fluidelor 3M Ranger care sunt spatiate perfect pentru a creea o zona maxima de contact alaturi de setul de incalzire, in timp ce permite un debit nerestrictionat de fluide. Sistemul de incalzire strans cuplat este foarte receptiv la modificari ale debitului sub orice conditie de incalzire a fluidelor. Sistemul de comanda bazat pe un microprocesor monitorizeaza sistemul temperaturii de patru ori pe secunda si este sensibil la variatii mici precum 0.1°C. Acest lucru permite unitatii de incalzire sa creasca sau sa diminueze incalzirea precum temperatura fluidului si schimbarea ratei debitului",
+    "fullDescription": "Sistemul de incalzire a sangelui si fluidelor 3M Ranger ii ajuta pe medici sa previna reducerea suplimentara a temperaturii centrale cauzate de fluide reci. Sunt disponibile variante cu debit standard si cu debit mare, pentru a asigura o incalzire sigura si eficienta pentru toti pacientii - toate intr-un singur sistem.\r\n\r\nSistemul de incalzire a sangelui si fluidelor, cu tehnologia de incalzire uscata, 3M Ranger foloseste placi de aluminiu in interiorul unitatii de incalzire. Fara baie de apa. Nici un risc potential de infectare ascociat cu apa incalzita a baii de apa.\r\n\r\nConceptul revolutionar si placile de aluminiu din sistemul de incalzire a sangelui si fluidelor 3M Ranger care sunt spatiate perfect pentru a creea o zona maxima de contact alaturi de setul de incalzire, in timp ce permite un debit nerestrictionat de fluide. Sistemul de incalzire strans cuplat este foarte receptiv la modificari ale debitului sub orice conditie de incalzire a fluidelor. Sistemul de comanda bazat pe un microprocesor monitorizeaza sistemul temperaturii de patru ori pe secunda si este sensibil la variatii mici precum 0.1°C. Acest lucru permite unitatii de incalzire sa creasca sau sa diminueze incalzirea precum temperatura fluidului si schimbarea ratei debitului",
     "extLink": "https://www.3m.com/3M/en_US/p/d/v000171720/",
     "heroPic": "b-ranger-3m.webp",
     "logoPic": "p-ranger-3m.webp",
-    "Thumbnail": "ranger-3m.webp"
+    "Thumbnail": "ranger-3m.webp",
+    "seoDescription": "3M Ranger este un sistem de incalzire sange si fluide care ajuta medicii sa previna scaderea temperaturii corporale ale pacientului."
   },
   {
     "name": "SpotOn",
@@ -258,7 +279,8 @@
     "extLink": "https://www.3m.com/3M/en_US/p/d/v100688800/",
     "heroPic": "b-spot-on-3m.webp",
     "logoPic": "p-spot-on-3m-senzor.webp",
-    "Thumbnail": "spot-on-3m-senzor.webp"
+    "Thumbnail": "spot-on-3m-senzor.webp",
+    "seoDescription": "3M SpotOn este un senzor de temperatura care monitorizeaza temperatura in timpul perioadei postoperatorii."
   },
   {
     "name": "Clean Trace",
@@ -270,7 +292,8 @@
     "extLink": "https://www.3m.com/3M/en_US/food-safety-us/foodandbeveragetests/clean-trace-hygiene-monitoring/",
     "heroPic": "b-clean-trace-3m.webp",
     "logoPic": "p-clean-trace-3m.webp",
-    "Thumbnail": "clean-trace-3m.webp"
+    "Thumbnail": "clean-trace-3m.webp",
+    "seoDescription": "3M Clean Trace este un luminometru care monitorizeaza igiena de pe suprafete, endoscoape si alte dispozitive."
   },
   {
     "name": "Consumabile pentru incalzirea pacientului",
@@ -282,7 +305,8 @@
     "extLink": "https://www.3m.com/3M/en_US/p/c/medical/temperature-management/",
     "heroPic": "b-paturici-3m.webp",
     "logoPic": "p-paturici-3m.webp",
-    "Thumbnail": "paturici-3m.webp"
+    "Thumbnail": "paturici-3m.webp",
+    "seoDescription": "Paturi si halate incalzite de diferite forme si dimensiuni pentru sistemul de incalzire pacient 3M Bair Hugger."
   },
   {
     "name": "Xprezzon ",
@@ -290,11 +314,12 @@
     "category": "ATI",
     "subcategory": "Monitorizare functii vitale",
     "smallDescription": "O expresie puternica\r\nde performanta si design",
-    "fullDescription": "Spacelabs Xprezzon este un monitor pentru supravegherea functiilor vitale, de inalta acuitate, potrivit pentru adulti, copii si nou-nascuti, ingrijire medicala, precum si mediul perioperator. Xprezzon are o varietate de configuratii pentru a se potrivi spatiului si nevoilor unice ale mediului clinic al spitalului dumneavoastra.\r\nEcranul de inata rezolutie afiseaza tendinte personalizate clare si bogate in informatii vizuale, care permit o evaluare a pacientului mai rapida si mai bine informata. Cu o singura atingere, medicii pot accesa diferite vizualizari ale tendintelor bazate pe nevoile observate, tipul de procedura sau protocoalele clinice. Tendintele pot fi afisate continuu pentru actualizari in timp real ale informatiilor critice ale pacientului. Ele pot fi, de asemenea, dimensionate si aranjate dupa preferinta, oferind medicilor propriile vizualizari personalizate unice.",
+    "fullDescription": "Spacelabs Xprezzon este un monitor pentru supravegherea functiilor vitale, de inalta acuitate, potrivit pentru adulti, copii si nou-nascuti, ingrijire medicala, precum si mediul perioperator. Xprezzon are o varietate de configuratii pentru a se potrivi spatiului si nevoilor unice ale mediului clinic al spitalului dumneavoastra.\r\n\r\nEcranul de inata rezolutie afiseaza tendinte personalizate clare si bogate in informatii vizuale, care permit o evaluare a pacientului mai rapida si mai bine informata. Cu o singura atingere, medicii pot accesa diferite vizualizari ale tendintelor bazate pe nevoile observate, tipul de procedura sau protocoalele clinice. Tendintele pot fi afisate continuu pentru actualizari in timp real ale informatiilor critice ale pacientului. Ele pot fi, de asemenea, dimensionate si aranjate dupa preferinta, oferind medicilor propriile vizualizari personalizate unice.",
     "extLink": "https://www.spacelabshealthcare.com/products/patient-monitoring-connectivity/patient-monitoring/xprezzon/",
     "heroPic": "b-xprezzion-spacelabs.webp",
     "logoPic": "p-spacelabs-xprezzon.webp",
-    "Thumbnail": "spacelabs-xprezzon.webp"
+    "Thumbnail": "spacelabs-xprezzon.webp",
+    "seoDescription": "Monitorul pentru functii vitale Spacelabs Xprezzon are o varietate de configuratii care se potrivesc nevoilor unice ale spitalului."
   },
   {
     "name": "Qube",
@@ -306,7 +331,8 @@
     "extLink": "https://www.spacelabshealthcare.com/products/patient-monitoring-connectivity/patient-monitoring/qube/",
     "heroPic": "b-qube-spacelabs.webp",
     "logoPic": "p-qube-spacelabs.webp",
-    "Thumbnail": "qube-spacelabs.webp"
+    "Thumbnail": "qube-spacelabs.webp",
+    "seoDescription": "Mic si usor, monitorul pentru functii vitale Spacelabs Qube este perfect pentru mediul spitalicesc. Rezistent la impact si la substante chimice."
   },
   {
     "name": "Qube mini",
@@ -318,7 +344,8 @@
     "extLink": "https://www.spacelabshealthcare.com/products/patient-monitoring-connectivity/patient-monitoring/transport-qube-mini-2/",
     "heroPic": "b-qube-mini-spacelabs.webp",
     "logoPic": "p-qube-mini-spacelabs.webp ",
-    "Thumbnail": "qube-mini-spacelabs.webp"
+    "Thumbnail": "qube-mini-spacelabs.webp",
+    "seoDescription": "Monitorul de transport Spacelans Qube Mini asigura un nivel neintrerupt de supraveghere pacientilor, iar cu statia Xhibit puteti avea acces de la distanta."
   },
   {
     "name": "C50",
@@ -329,7 +356,8 @@
     "fullDescription": "Monitoarele pentru pacient Spacelabs C50 sunt o solutie ideala preconfigurata pentru monitorizarea pacientului langa pat, pentru utilizare intr-o varietate de medii neonatale, pediatrice si adulte. Masuratorile de baza ale monitorului C50 cu configuratie de baza includ ECG, SpO2, respiratie prin impedanta, tensiune arteriala neinvaziva si temperatura, cu optiunea de adaugare suplimentara a temperaturii, a tensiunii arteriale invazive si a EtCO2. Afisajul tactil de 10.4” si operarea cu buton rotativ asigura utilizatorilor o operare simpla si comoda.\r\n\r\nC50 are 160 de ore de tendinte, 200 de evenimente de alarma, pana la 48 de ore de stocare a formelor de unda, vizualizarea patului, oxicardiorespiragrama (OxyCRG), 26 de clasificari ale aritmiilor si sase formate selectabile, inclusiv afisare mare a valorilor numerice si un inregistrator integrat optional.\r\n\r\nParametrii standard includ electrocardiograma (ECG), respiratia prin impedantta, tensiunea arteriala neinvaziva (NIBP), pulsoximetria (SpO2) si o temperatura.  Configuratiile optionale includ parametrii suplimentari temperatura, tensiune arteriala invaziva si EtCO2.\r\n\r\nMonitorul pentru pacient C50 vine configurat cu functii de monitorizare cu acuitate ridicata de care aveti nevoie pentru a oferi cea mai buna ingrijire pentru pacientii dumneavoatra. \r\n\r\nMonitorul pentru pacient C50 are un maner incorporat pentru optiunea de montare. Acest monitor este potrivit pentru majoritatea mediilor clinice. \r\n\r\nUtilizand software-ul STAR8800, impreuna cu monitorul C50, ai accesibilitate nelimitata la datele pacientului. Combinatia dintre monitorul C50 si STAR8800 va permite sa configurati cu usurinta un sistem de monitorizare centralizat si rentabil, capabil sa monitorizeze pana la 128 de pacienti, oriunde este nevoie in spital.",
     "extLink": "https://www.spacelabshealthcare.com/es/productos/monitorizacion-de-pacientes-y-conectividad/monitores-de-pacientes/monitor-de-cabecera-c50/",
     "logoPic": "p-c50-spacelabs.webp",
-    "Thumbnail": "c50-spacelabs.webp"
+    "Thumbnail": "c50-spacelabs.webp",
+    "seoDescription": "Monitorul pentru supravegherea functiilor vitale Spacelabs C50 este o solutie preconfigurata pentru monitorizarea langa pat a pacientului."
   },
   {
     "name": "Pompe pentru seringa Terumo",
@@ -341,7 +369,8 @@
     "extLink": "https://www.terumo-europe.com/en-emea/products/terufusion%E2%84%A2-syringe-pump-(smart)",
     "heroPic": "b-infuziomate-injectomate.webp",
     "logoPic": "p-pompa-seringa-terumo.webp",
-    "Thumbnail": "pompa-seringa-terumo.webp"
+    "Thumbnail": "pompa-seringa-terumo.webp",
+    "seoDescription": "Sistemul cu seringa Terum Terufusion simplifica siguranta si calitatea tratmentelor, combinand tehnologii sofisticate cu functii simple de utilizat."
   },
   {
     "name": "Pompe volumetrice pentru perfuzie Terumo",
@@ -353,7 +382,8 @@
     "extLink": "https://www.terumo-europe.com/en-emea/products/terufusion%E2%84%A2-infusion-pump-(smart-midpress)",
     "heroPic": "b-infuziomate-injectomate.webp",
     "logoPic": "p-pompa-perfuzie-terumo.webp",
-    "Thumbnail": "pompa-volumetrica-perfuzie-terumo.webp"
+    "Thumbnail": "pompa-volumetrica-perfuzie-terumo.webp",
+    "seoDescription": "Sistemele de perfuzii Terumo Terufusion optimizeaza administrarea tratamentului pentru pacientului. Permite conectarea la rackuri SMART."
   },
   {
     "name": "Cateter ARROW",
@@ -361,11 +391,12 @@
     "category": "ATI",
     "subcategory": "Acces vascular",
     "smallDescription": "Cateter Venos Central",
-    "fullDescription": "Arrow CVC este indicat pentru accesul venos central pe termen scurt (< 30 zile), pentru tratarea afectiunilor care necesita accesul venos central.\r\nCu marca lor ARROW, Teleflex Medical acopera intreaga gama de catetere venoase central. CVC Arrow sunt disponibile intr-o mare varietate de configuratii ale lumenelor, a lungimilor, a dimensiunilor in French si Gauge, cu cateterele lor standard sau cu tehnologia antimicrobiana ARROWg+ard. \r\n\r\nCVC mono-lumen\r\nCVC dublu lumen\r\nCVC trriplu lumen\r\nCVC cu patru lumene\r\nCVC cu cinci lumene\r\n\r\nDisponibil intr-o gama larga de marimi French",
+    "fullDescription": "Arrow CVC este indicat pentru accesul venos central pe termen scurt (< 30 zile), pentru tratarea afectiunilor care necesita accesul venos central.\r\nCu marca lor ARROW, Teleflex Medical acopera intreaga gama de catetere venoase central. CVC Arrow sunt disponibile intr-o mare varietate de configuratii ale lumenelor, a lungimilor, a dimensiunilor in French si Gauge, cu cateterele lor standard sau cu tehnologia antimicrobiana ARROWg+ard. \r\n\r\nCVC mono-lumen\r\nCVC dublu lumen\r\nCVC triplu lumen\r\nCVC cu patru lumene\r\nCVC cu cinci lumene\r\n\r\nDisponibil intr-o gama larga de marimi French",
     "extLink": "https://www.teleflex.com/la/en/product-areas/vascular-access/central-venous-catheters/index.html",
     "heroPic": "b-cvc-cateter-arrow.webp",
     "logoPic": "p-cateter-cvc-arrow.webp",
-    "Thumbnail": "cateter-cvc-arrow.webp"
+    "Thumbnail": "cateter-cvc-arrow.webp",
+    "seoDescription": "Cateterul venos central de la Arrow Telelex acopera intreaga gama de dimensiuni, cu o varietate de configuratii ale lumenelor. Pot avea invelis antimicrobian."
   },
   {
     "name": "Cateter Midline ARROW",
@@ -377,7 +408,8 @@
     "extLink": "https://teleflex.com/usa/en/product-areas/vascular-access/peripheral-access/midline-catheters/arrow-midline/index.html",
     "heroPic": "b-midline-arrow.webp",
     "logoPic": "p-midline-arrow.webp",
-    "Thumbnail": "midline-arrow.webp"
+    "Thumbnail": "midline-arrow.webp",
+    "seoDescription": "Cateterul Arrow Midline de la Teleflex este indicat pentru insertii dificile cu purtare indelungata de pana la 4 saptamani."
   },
   {
     "name": "Cateter arterial ARROW",
@@ -389,7 +421,9 @@
     "extLink": "https://www.teleflex.com/usa/en/product-areas/vascular-access/arterial-access/",
     "heroPic": "b-cateter-arterial-arrow.webp",
     "logoPic": "p-cateter-arterial-arrow.webp",
-    "Thumbnail": "cateter-arterial-arrow.webp"
+    "Thumbnail": "cateter-arterial-arrow.webp",
+    "seoKeywords": "cateterizare arteriala",
+    "seoDescription": "Cateterul arterial Arrow este disponibil separat sau in set de cateterizare arteriala, intr-o gama larga de dimensiuni si modele."
   },
   {
     "name": "Cateter hemodializa ARROW",
@@ -397,10 +431,11 @@
     "category": "ATI",
     "subcategory": "Acces vascular",
     "smallDescription": "Catetere hemodializa",
-    "fullDescription": "Produsele innovative de acces pentru dializa Arrow sunt inspirate de catre medici, pe baza rezultatelor de care au nevoie sa  le obtina  din acea procedura - fie ca este vorba despre plasarea precisa a varfului cateterului, fie de inlaturarea rapida a trombilor. De aceea, Arrow concepe fiecare cateter astfel incat sa fie usor de utilizat si la fel de eficient si fiecare cateter este fabricat correct, fara rabat de la calitate. Ca rezultat, medicii au incredere ca tehnologia Arrow le asigura proceduri mai sigure si cu o recuperare mai eficienta a pacientilor. \r\n\r\nSunt disponibile intr-o gama de marimi.",
+    "fullDescription": "Produsele innovative de acces pentru dializa Arrow sunt inspirate de catre medici, pe baza rezultatelor de care au nevoie sa le obtina din acea procedura - fie ca este vorba despre plasarea precisa a varfului cateterului, fie de inlaturarea rapida a trombilor. De aceea, Arrow concepe fiecare cateter astfel incat sa fie usor de utilizat si la fel de eficient si fiecare cateter este fabricat correct, fara rabat de la calitate. Ca rezultat, medicii au incredere ca tehnologia Arrow le asigura proceduri mai sigure si cu o recuperare mai eficienta a pacientilor. \r\n\r\nSunt disponibile intr-o gama de marimi.",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/vascular-access/products.html",
     "logoPic": "p-cateter-hemodializa.webp",
-    "Thumbnail": "cateter-hemodializa.webp"
+    "Thumbnail": "cateter-hemodializa.webp",
+    "seoDescription": "Cateterul pentru hemodializa Arrow Teleflex asigura proceduri sigure, cu rezultate mai bune si o recuperare eficienta a pacientului."
   },
   {
     "name": "Pleur-evac",
@@ -408,10 +443,11 @@
     "category": "ATI",
     "subcategory": "Acces vascular",
     "smallDescription": "Cea mai buna solutie de drenaj toracic",
-    "fullDescription": "Sistemul de drenaj toracic Pleur-evac - cea mai buna solutie de drenaj toracic pentru ingrijiri toracice, cardiovasculare, traumatisme si critice - utilizeaza cea mai avansata tehnologie de gestionare a fluidelor . Cei de la Teleflex, sunt dedicati sa ofere clientilor instruire pe produs si asistenta.\r\n\r\nPleur-evac are capacitate mare - 2500ml in camera de colectare - pentru unitatile pediatrice / adulti\r\nPermite modificarea cu usurinta a nivelului de aspiratie\r\nLichid albastru in camera de aspirare si in camera de etanseizare pentru o mai buna vizualizare\r\nUsor, compact, portabil - cu maner, usor de asezat pe podea - suport baza\r\nTuburi si conectoare, palnie de umplere cu apa a camerelor - toate aceste accesorii sunt preambalate cu sistemul de drenaj",
+    "fullDescription": "Sistemul de drenaj toracic Pleur-evac - cea mai buna solutie de drenaj toracic pentru ingrijiri toracice, cardiovasculare, traumatisme si critice - utilizeaza cea mai avansata tehnologie de gestionare a fluidelor. Cei de la Teleflex, sunt dedicati sa ofere clientilor instruire pe produs si asistenta.\r\n\r\nPleur-evac are capacitate mare - 2500ml in camera de colectare - pentru unitatile pediatrice / adulti\r\nPermite modificarea cu usurinta a nivelului de aspiratie\r\nLichid albastru in camera de aspirare si in camera de etanseizare pentru o mai buna vizualizare\r\nUsor, compact, portabil - cu maner, usor de asezat pe podea - suport baza\r\nTuburi si conectoare, palnie de umplere cu apa a camerelor - toate aceste accesorii sunt preambalate cu sistemul de drenaj",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/surgical/educational-portal/pleur-evac/",
     "logoPic": "p-pleur-evac.webp",
-    "Thumbnail": "pleur-evac.webp"
+    "Thumbnail": "pleur-evac.webp",
+    "seoDescription": "Cea mai buna solutie pentru drenajul toracic este Pleur-evac Teleflex cu o capacitate de 2500 ml si tehnologia eficienta de gestionare a fluidelor."
   },
   {
     "name": "SecurAcath",
@@ -422,7 +458,8 @@
     "fullDescription": "SecurAcath ofera o securizare imbunatatita a cateterului pentru viata acestuia\r\nReduce riscul infectiilor asociate cateterelor\r\nReduce riscul de dislocare si deplasare a cateterului\r\nPrevine intreruperea tratamentului\r\nSporeste sanatatea si conservarea vaselor\r\nScade costurile totale ale ingrijiri medicale",
     "extLink": "https://securacath.com/",
     "logoPic": "p-securacath-intrarad.webp",
-    "Thumbnail": "securacath-intrarad.webp"
+    "Thumbnail": "securacath-intrarad.webp",
+    "seoDescription": "Sistemul de fixare a cateterului Securacath previne deplasarea cateterului, intreruperea tratamentului si reduce riscul de infectare."
   },
   {
     "name": "Super Arrow-Flex",
@@ -433,7 +470,8 @@
     "fullDescription": "Teaca introductoare rezistenta la kinking Super Arrow-Flex va ofera acces vascular flexibil, datorita designului si constructiei sale inovatoare. De la inserarea si manevrarea usoara, pana la varful radioopac foarte vizibil, teaca Arrow Super-Flex este conceputa pentru a oferi performante exceptionale de la inceput pana la final. Cu o gama larga de dimensiuni si lungimi. Teaca Super Arrow-Flex ofera flexibilitate pentru a sadisface mai multe aplicatii vasculare.",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/interventional/vascular-access-closure/super-arrow-flex-sheaths/",
     "logoPic": "p-super-arrow-flex.webp",
-    "Thumbnail": "super-arrow-flex.webp"
+    "Thumbnail": "super-arrow-flex.webp",
+    "seoDescription": "Teaca introductoare percutanata Super Arrow Flex de la Teleflex asigura acces vascular flexibil pentru a acoperii mai multe aplicatii vasculare."
   },
   {
     "name": "Masti laringiene",
@@ -444,7 +482,8 @@
     "fullDescription": "Adevaratele beneficii ale mastilor laringiene: ​​sunt mai putin invazive decat tuburile endotraheale si pot fi usor inserate. Ca atare, mastile laringiene sunt utilizate pentru gestionarea cailor respiratorii atat in ​​anestezie, cat si in medicina de urgenta.\r\nTeleflex ofera o gama larga de masti laringiene, satisfacand cele mai multe nevoi clinice si ale pacientului. Aceasta include portofoliul de cai respiratorii LMA si LMA Supreme, de a doua generatie, care permit accesul gastric si mastile laringiene LMA Unique cu Tehnologia Mansetei Pilot integrata.\r\n\r\nDisponibile intr-o gama de marimi.",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/anesthesia/airway-management/lma-airways/index.html",
     "logoPic": "p-masti-laringiene.webp",
-    "Thumbnail": "masti-laringiene.webp"
+    "Thumbnail": "masti-laringiene.webp",
+    "seoDescription": "Mastile laringiene LMA de la Teleflex asigura gestionarea cailor respiratorii in timpul anesteziei sau a urgentelor."
   },
   {
     "name": "Tuburi traheale",
@@ -455,7 +494,8 @@
     "fullDescription": "Multumita gamei extinse si versatile de tuburi endotraheale Rüsch, Teleflex ofera solutia optima calitativ atat pentru medic cat si pentru pacient.\r\nPana si cerintele speciale ale pacientilor de la pediatrie, sunt furnizate de Teleflex oferind o gama larga de tuburi traheale cu marimi mici, care sunt marcate cu varf negru pentru a asigura pozitionarea traheala in maxima siguranta.\r\nToate tuburile endotraheale beneficieaza de o ratie excelenta intre ID si O.D., de biocompatibilitatea materialelor, de manseta conceputa cu pereti subtiri si presiune joasa si un varf neted care faciliteaza introducerea in siguranta.\r\n\r\nDisponibil intr-o gama de marimi",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/anesthesia/airway-management/endotracheal-tubes/index.html",
     "logoPic": "p-tub-endotraheal.webp",
-    "Thumbnail": "tub-endotraheal-rusch.webp"
+    "Thumbnail": "tub-endotraheal-rusch.webp",
+    "seoDescription": "Tuburile endotraheale Rusch de la Teleflex sau tuburile de intubatie ofera o gama extinsa de tuburi cu mansete cu presiune joasa."
   },
   {
     "name": "Sonde pentru aspiratia subglotica",
@@ -466,7 +506,8 @@
     "fullDescription": "Tubul endotraheal ales initial pentru intubatie nu permite mereu accesul rapid in timpul practicii - pana acum.\r\n\r\nVa introducem noul tub endotraheal Teleflex cu aspiratie subglotica. Dispunand de o linie de aspiratie separata, aceste tuburi endotraheale permit indepartarea secretiilor subglotice - atunci cand ai nevoie. Conceptul versatil elimina necesitatea de selectie in timpul intubatiei initiale, crescand numarul de pacienti viabili precum candidati pentru aspiratia subglotica, o strategie clinica care s-a dovedit eficienta in reducerea VAP.\r\n\r\nTub endotraheal convertibil cu port de aspiratie integrat\r\nLinie de aspiratie atasabila permite indepartarea secretiilor subglotice\r\nSimplifica selectia tuburilor in timpul intubatiei initiale\r\n\r\nDisponibil intr-o gama de marimi",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/anesthesia/airway-management/endotracheal-tubes/subglottic-suctioning-tubes/",
     "logoPic": "p-aspiratie-subglotica.webp",
-    "Thumbnail": "aspiratie-subglotica.webp"
+    "Thumbnail": "aspiratie-subglotica.webp",
+    "seoDescription": "Tubul endotraheal cu aspiratie subglotica Teleflex permite indepartarea secretiilor subglotice, dovedint clinic eficienta in reducerea VAP."
   },
   {
     "name": "Tuburi traheale ranforsate",
@@ -477,7 +518,8 @@
     "fullDescription": "Tuburile ranforsate Rüsch si Sheridan de la Teleflex ofera o gama completa de tuburi cu manseta si fara manseta. Cu un fir spiralat ranforsat din otel inoxidabil, in interiorul peretelui tubului si conectori de 15 mm lipiti, aceste tuburi sunt concepute pentru a reduce regurgitarea si deconectarea.\r\n\r\nAceste tuburi ranforsate cu fir spiralat au conectori si mansete de volum mare, de joasa presiune si sunt fabricate din PVC. \r\nSunt de unica folosinta si sterile.\r\n\r\nDisponibil intr-o gama de marimi.",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/anesthesia/airway-management/endotracheal-tubes/reinforced-tubes/",
     "logoPic": "p-tub-endo-ranforsat.webp",
-    "Thumbnail": "tub-ranforsat.webp"
+    "Thumbnail": "tub-ranforsat.webp",
+    "seoDescription": "Tuburile ranforsate Rusch si Sheridan de la Teleflex sunt concepute pentru a reduce regurgitarea si deconectarea. Sunt disponibile cu sau fara manseta."
   },
   {
     "name": "Tuburi endotraheale de specialitate",
@@ -488,7 +530,8 @@
     "fullDescription": "Teleflex ofera o gama larga de tuburi speciale concepute pentru a mentine o cale respiratorie pentru o varietate de proceduri. De la chirurgia microlaringiana la chirurgia cu laser, Teleflex concepe dispozitive pentru a fi atat de specializate pe cat necesita procedurile.\r\n\r\nTub endotraheal microlaringian Sheridan LTS\r\nTub endotraheal cu laser Rüsch",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/anesthesia/airway-management/endotracheal-tubes/specialty-tubes/",
     "logoPic": "p-tub-specialitate.webp",
-    "Thumbnail": "tub-specialitate.webp"
+    "Thumbnail": "tub-specialitate.webp",
+    "seoDescription": "De la chirurgia microlaringiana la chirurgia cu laser, Teleflex ofera o gama de tuburi special concepute pentru a mentine o cale respiratorie eficienta."
   },
   {
     "name": "Tuburi de traheostomie",
@@ -499,7 +542,8 @@
     "fullDescription": "Gama larga si diversificata Teleflex de tuburi pentru traheostomie Rüsch acopera majoritatea nevoilor asociate cu crearea si intretinerea sanatoasa a stomei gatului. Ratia optimizata intre dimensiunile interioare si exterioare este caracteristica tuturor tuburilor Rüsch, care ajuta la confortul pacientilor si la buna functionare a respiratiei. Materiale de inalta calitate, care au fost testate exhaustic pentru a fi in concordanta cu criteriile medicale, reflecta intelegerea noastra a calitatii de top. \r\n\r\nDe la ingrijirea acuta pana la solicitarile necesare traheostomiei pe termen lung, Rüsch ofera optiuni coordonate pentru pacientii adulti si copii.\r\nAccesoriile pot fi comandate separat pentru beneficiul economic al bugetelor spitalului.\r\n\r\nCrystal cu aspiratie subglotica\r\nCrystalClear Plus\r\nCrystalClear Tracheo Fix \r\nTracFlex Plus\r\nTracFlex Plus cu aspiratie subglotica \r\nTracFlex Plus cu fonatie\r\nTracheoFlex \r\nTracFlex Plus \r\nCrystalClear Plus\r\nTracheoFlex\r\nSeturi de tuburi de traheostomie pentru PDT\r\nDilator PercuTwist One-Step \r\nDilator PercuQuick Multi-Step \r\nDilator PercuQuick One-Step \r\n\r\nDisponibile intr-o gama de marimi",
     "extLink": "https://www.teleflex.com/emea/en/product-areas/anaesthesia/airway-management/tracheostomy/tracheostomy-uk-support/RUSCH_CrystalClear_Plus.pdf",
     "logoPic": "p-tub-traheostomie.webp",
-    "Thumbnail": "tub-traheostomie.webp"
+    "Thumbnail": "tub-traheostomie.webp",
+    "seoDescription": "Tubul de traheostomie Rusch Teleflex ofera confort pacientului si ajuta la buna functionare a respiratiei. Tuburi disponibile si cu aspiratie subglotica."
   },
   {
     "name": "Tuburi cu dublu lumen",
@@ -510,7 +554,8 @@
     "fullDescription": "Toate tuburile endobronsice cu dublu lumen Rüsch sunt fabricate din materiale foarte flexibile si termoplastice. Caracteristicile specifice, cum ar fi formele speciale ale mansonului, carlige moi, markere continue sau indicatori pentru radiografie pe manson, plus raportul lor excelent ID/OD sadisfac cerintele oricarui pacient si sunt foarte sigure de utilizat.\r\n\r\nTub bronsic de traheostomie cu dublu lumen pentru separarea laterala TracheoPart. Tuburile unice de traheostomie cu dublu lumen TracheoPart permit ventilarea separata a celor doua parti.\r\nDiverse seturi cu componente care se potrivesc precis completeaza gama larga de tuburi.",
     "extLink": "https://www.teleflex.com/emea/en/product-areas/anaesthesia/airway-management/double-lumen-tubes/index.html",
     "logoPic": "p-tuburi-dublu-lumen.webp",
-    "Thumbnail": "tuburi-dublu-lumen.webp"
+    "Thumbnail": "tuburi-dublu-lumen.webp",
+    "seoDescription": "Tub de traheostomie cu dublu lumen Rusch Teleflex permite administrarea simultana a oxigenului. Diverse modele si dimensiuni."
   },
   {
     "name": "Canula interioara pentru traheostomie",
@@ -518,10 +563,11 @@
     "category": "ATI",
     "subcategory": "Managementul cailor respiratorii",
     "smallDescription": "Controlul eficient al secretiilor: facut sa fie simplu!",
-    "fullDescription": "Canula interioara flexibila de unica folosinta este conceputa sa permita potrivirea perfecta cu diametrul interior al tubului de traheostomie facilitand indepartarea rapida si igienica a secretiilor.\r\nFlexibilitatea canulei interioare sustine o torsiune in interiorul tubului in timpul schimbarii, simplifica intretinerea si protejeaza lumenul intern al tubului de traheostomie impotriva contaminarii reducand riscul infectiilor.\r\nCanula interna Crystal Clear Plus \r\nCanula interioara Tracheofix\r\nCanula interioara TracFlex Plus \r\nCanula interioara TrachoFlex S\r\n\r\nDisponibile intr-o gama de marimi",
+    "fullDescription": "Canula interioara flexibila de unica folosinta este conceputa sa permita potrivirea perfecta cu diametrul interior al tubului de traheostomie facilitand indepartarea rapida si igienica a secretiilor.\r\nFlexibilitatea canulei interioare sustine o torsiune in interiorul tubului in timpul schimbarii, simplifica intretinerea si protejeaza lumenul intern al tubului de traheostomie impotriva contaminarii reducand riscul infectiilor.\r\n\r\nCanula interioara Crystal Clear Plus \r\nCanula interioara Tracheofix\r\nCanula interioara TracFlex Plus \r\nCanula interioara TrachoFlex S\r\n\r\nDisponibile intr-o gama de marimi",
     "extLink": "https://www.teleflex.com/emea/en/product-areas/anaesthesia/airway-management/tracheostomy/tracheostomy-uk-support/RUSCH_CrystalClear_Plus.pdf",
     "logoPic": "p-canula-interioara.webp",
-    "Thumbnail": "canula-interioara.webp"
+    "Thumbnail": "canula-interioara.webp",
+    "seoDescription": "Canula interioara flexibila de unica folosinta Rusch Teleflex faciliteaza indepartarea rapida si igienica a secretiilor."
   },
   {
     "name": "PercuTwist One-Step",
@@ -532,7 +578,8 @@
     "fullDescription": "PercuTwist Rüsch de la Teleflex este un dilator cu un “singur pas” pentru utilizarea in procedurile de traheostomie percutanata; utilizand o tehnica controlabila prin rotire pentu a obtine dilatarea.\r\n\r\nTehnica PercuTwist care este surprinzator de simpla si gentila. Rezultatele cosmetice imbunatatite sunt adesea obtinute folosind traheostomia percutanata in comparatie cu traheostomia chirurgicala, deoarece zona de acces necesita o incizie mai mica de 2 cm. Conceptul inovator cu un fir de dilatare face posibila ridicarea peretelui traheal anterior, in timp ce simultan se dilata prin rotirea sa. Invelisul hidrofilic reduce frictiunea si ofera acces lin in trahee.\r\n\r\nDisponibil in 3 variante de marimi care permit dispozitivului sa fie mai eficient pentru o arie larga de pecienti adulti.\r\n\r\nVizibilitatea endoscopica nerestrictionata a procesului de dilatare in interiorul traheei este posibila, fara sa intrerupa fluxul de aer in timpul procesului.",
     "extLink": "https://www.teleflex.com/emea/en/product-areas/anaesthesia/airway-management/tracheostomy/tracheostomy-uk-support/RUSCH_PercuTwist.pdf",
     "logoPic": "p-dilatator-percutwist.webp",
-    "Thumbnail": "dilatator-percutwist.webp"
+    "Thumbnail": "dilatator-percutwist.webp",
+    "seoDescription": "Dilatatorul cu un singur pas PercuTwist Teleflex ofera vizibilitate endoscopica nerestrictionata fara sa intrerupa fluxul de oxigen in timpul procesului."
   },
   {
     "name": "Stilete",
@@ -543,7 +590,8 @@
     "fullDescription": "Stiletele Rüsch si Sheridan sunt fabricate intr-o gama larga de marimi si modele pentru a acomoda cerintele dumneavoatra.\r\n\r\nStilete Flexi-Slip Rüsch\r\nStilete Sher-I-Slip Sheridan\r\nStilete Soft-Tip Sheridan \r\nStilete Slick Stylette Rüsch",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/anesthesia/airway-management/endotracheal-tubes/stylets/",
     "logoPic": "p-stilet-rusch.webp",
-    "Thumbnail": "stilet-rusch.webp"
+    "Thumbnail": "stilet-rusch.webp",
+    "seoDescription": "Stiletele de intubatie Rusch si Sheridan de la Teleflex sunt disponibile intr-o gama larga de marimi si modele."
   },
   {
     "name": "EZ-Blocker",
@@ -554,7 +602,8 @@
     "fullDescription": "Blocantele Endobronsice EZ-Blocker de la Teleflex sunt concepute de un anestezist pentru utilizarea de catre  anestezisti a unui dispozitiv imbunatatit pentru izolarea pulmonara. Blocantele Endobronsice EZ-Blocker au un varf distal sub forma de Y care se oglindeste bifurcatiei traheale.\r\n\r\nVarful distal bifurcat al Blocantei Endobronsice EZ-Blocker permite plasarea intuitiva a mansetei in bronhia dreapta sau stanga. Odata ce Blocanta Endobronsica EZ-Blocker avanseaza prin varful distal al tubului endotraheal cu un singur lumen, baloanele bifurcate se separa si sunt natural indreptat catre bronhiile stem principale in stanga si in dreapta.\r\nBlocanta Endobronsica EZ-Blocker este sigur plasata in carina fara necesitatea navigarii balonului in una dintre bronhii. Fara Blocanta Endobronsica EZ-Blocker, umflarea balonului se poate face chiar inaintea izolarii pulmonare, ce minimalizeaza nevoia de manipulare a cateterului dupa plasare si reduce potentialul de dislocare a mansetei.\r\n\r\nSet EZ-Blocker - blocanta endobronsica sub forma de Y pentru izolarea pulmonara si ventilatia unui singur plaman\r\nSet tub Bronhopart - tub bronsic transparent cu dublu lumen \r\nSher-I-Bronch -  tub endobronsic cu lumen dublu pentru partea stanga pentru intubatia bronhiei stangi, tub endobronsic cu lumen dublu pentru partea dreapta pentru intubatia bronhiei drepte si tub endobronsic transparent cu lumen dublu cu carlig moale Carina\r\nSet Tub Tracheopart - Tub traheostomie transparent cu dublu lumen ",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/anesthesia/airway-management/endobronchial-blockers/",
     "logoPic": "p-ez-blocker-rusch.webp",
-    "Thumbnail": "ez-blocker-rusch.webp"
+    "Thumbnail": "ez-blocker-rusch.webp",
+    "seoDescription": "Blocantul endobronsic cu dublu lumen EZ-Blocker Teleflex permite intubatia si izolarea pulmonara separata."
   },
   {
     "name": "Atomizare",
@@ -562,10 +611,11 @@
     "category": "ATI",
     "subcategory": "Managementul cailor respiratorii",
     "smallDescription": "Pentru administrarea simpla, eficienta si sigura a medicamentatiei",
-    "fullDescription": "Cu o tehnologie inovativa, gama de dispozitive pentru atomizare ofera o solutie simpla si eficienta pentru administrarea medicamentatiei. Varful unic ale dispozitivelor pentru atomizare pulverizeaza medicamentul cu particule fine de 30 pana la 100 microni ca dimensiune. Particulele sunt apoi absorbite prin tesutul mucoasei  in circuitul sanguin.\r\n\r\nDispozitiv atomizare MAD Nasal Intranazal Mucosal \r\nDispozitiv atomizare laringo-traheal mucosal MADgic\r\nDispozitiv atomizare mucosala MADgic cu posibilitatea de intubare a cailor respiratorii ",
+    "fullDescription": "Cu o tehnologie inovativa, gama de dispozitive pentru atomizare ofera o solutie simpla si eficienta pentru administrarea medicamentelor. Varful unic ale dispozitivelor pentru atomizare pulverizeaza medicamentul cu particule fine de 30 pana la 100 microni ca dimensiune. Particulele sunt apoi absorbite prin tesutul mucoasei  in circuitul sanguin.\r\n\r\nDispozitiv atomizare MAD Nasal Intranazal Mucosal \r\nDispozitiv atomizare laringo-traheal mucosal MADgic\r\nDispozitiv atomizare mucosala MADgic cu posibilitatea de intubare a cailor respiratorii ",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/anesthesia/atomization/mad-nasal-device/index.html",
     "logoPic": "p-dispozitiv-atomizare-rusch.webp",
-    "Thumbnail": "dispozitiv-atomizare-rusch.webp"
+    "Thumbnail": "dispozitiv-atomizare-rusch.webp",
+    "seoDescription": "Dispozitiv pentru atomizare ofera o solutie simpla msi eficienjta pentru administrarea medicamentelor prin pulverizare cu particule fine."
   },
   {
     "name": "Cai respiratorii orofaringiene",
@@ -576,7 +626,8 @@
     "fullDescription": "Gama extinsa Rüsch pentru caile respiratorii orofaringiene si nazofaringiene de la Teleflex ofera medicului o gama intreaga de posibilitati, rezprezentand solutii adecvate si sigure pentru majoritatea indicatiilor clinice. Toate versiunile - versiunile standard sunt inspirate dintr-o varietate de materiale necesare medicului si, de asemenea, modele de endoscopie, care ofera fixare simultana pe tubul traheal - sunt concepute specific sa indeplineasca necesitatile pacientului.\r\n\r\nCai respiratorii orofarangiene din PVC moale\r\nCai respiratorii orofarangiene din Polietilena\r\nCai respiratorii Cath-Guide din vinil flexibil si cu sistem antimuscare rigid\r\nSistem antimuscare Biteguard\r\n\r\nDisponibile intr-o gama de marimi",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/anesthesia/airway-management/oral-and-nasal-airways/oral-airways/index.html",
     "logoPic": "p-cai-respiratorii-orofaringiene.webp",
-    "Thumbnail": "cai-respiratorii-orofaringiene.webp"
+    "Thumbnail": "cai-respiratorii-orofaringiene.webp",
+    "seoDescription": "Cai respiratorii orofaringiene si nazofaringiene de la Teleflex concepute specific pentru a acoperi majoritatea indicatiilor clinice."
   },
   {
     "name": "Cai respiratorii nazofaringiene",
@@ -587,7 +638,8 @@
     "fullDescription": "Gama extinsa Rüsch pentru caile respiratorii orofaringiene si nazofaringiene de la Teleflex ofera medicului o gama intreaga de posibilitati, rezprezentand solutii adecvate si sigure pentru majoritatea indicatiilor clinice. Toate versiunile - versiunile standard sunt inspirate dintr-o varietate de materiale necesare medicului si, de asemenea, modele de endoscopie, care ofera fixare simultana pe tubul traheal - sunt concepute specific sa indeplineasca necesitatile pacientului.\r\n\r\nCai respiratorii nazofaringiene Wendl din Wirupren\r\nCai respiratorii nazofaringiene Wendl din cauciuc moale cu flansa ajustabila\r\nCai respiratorii nazofaringiene din PVC\r\nCai respiratorii nazofaringiene Rüsch Gold din Silkolatex\r\nCai respiratorii nazofaringiene Robertazzi din Wirupren\r\nCai respiratorii nazofaringiene Wendl din cauciuc moale cu dublu lumen \r\n\r\nDisponibile intr-o gama de marimi",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/anesthesia/airway-management/oral-and-nasal-airways/nasal-airways/",
     "logoPic": "p-cai-respiratorii-nazofaringiene.webp",
-    "Thumbnail": "cai-respiratorii-nazofaringiene.webp"
+    "Thumbnail": "cai-respiratorii-nazofaringiene.webp",
+    "seoDescription": "Cai respiratorii nazofaringiene de la Teleflex asigura eliberarea rapida si sigura a cailor fara intubatie."
   },
   {
     "name": "Masti anestezie",
@@ -598,7 +650,8 @@
     "fullDescription": "Fabricate din PVC, silicon, material Wirupren sau cauciuc din latex, selectia larga a gamei de masti pentru anestezie Rüsch si Hudson RCI va sta la dispozitie intrunind toate necesitatile. Toate ofera aplicare de incredere si sigura, cu calitate aprobata, sunt foarte confortabile de purtat si sunt exemple clasice ale traditiei indelungate de sadisfacere a pietei medicale cu produse de calitate incercate si testate.\r\n\r\nMasca cu pernita de aer\r\nMasca confortabila transparenta\r\nSuport pentru cap pentru masca\r\nMasca reutilizabila din Silicon\r\nMasca pediatrica reutilizabila din Silicon \r\nMasca pediatrica reutilizabila din Silicon negru\r\n\r\nDisponibile intr-o gama de marimi",
     "extLink": "https://myteleflex.com/teleflex-us/en/USD/Emergency-Medicine/Airway/Face-Masks/c/face-masks",
     "logoPic": "p-masca-anestezie.webp",
-    "Thumbnail": "masca-anestezie.webp"
+    "Thumbnail": "masca-anestezie.webp",
+    "seoDescription": "Masti pentru anestezie Rusch si Hudson de la Teleflex cu o gama larga de marimi, materiale si modele de masti."
   },
   {
     "name": "Baloane simulare respiratie",
@@ -609,7 +662,8 @@
     "fullDescription": "Fabricate din PVC, silicon, material Wirupren sau cauciuc din latex, selectia larga a gamei de baloane pentru simularea respiratiei Rüsch si Hudson RCI va sta la dispozitie intrunind toate necesitatile. Toate ofera aplicare de incredere si sigura, cu calitate aprobata, sunt foarte confortabile de purtat si sunt exemple clasice ale traditiei indelungate de sadisfacere a pietei medicale cu produse de calitate incercate si testate.\r\n\r\nBalon simulare respiratie din Neopren\r\nBalon simulare respiratie SilkoBag din Silicon\r\nBalon simulare respiratie din Latex\r\n\r\nDisponibile intr-o gama de marimi",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/anesthesia/airway-management/",
     "logoPic": "p-baloane-respiratie.webp",
-    "Thumbnail": "baloane-respiratie.webp"
+    "Thumbnail": "baloane-respiratie.webp",
+    "seoDescription": "Baloanele pentru respiratia artificiala Teleflex de unica folosinta pot fi din Latex, Silicon sau Neopren. Sunt disponibile intr-o gama larga."
   },
   {
     "name": "Endotest",
@@ -620,7 +674,8 @@
     "fullDescription": "Dispozitiv de umplere si monitorizare a presiunii mansetelor cu presiune joasa pe tuburile traheale, de traheostomie, bronhiale si pe masti laringiene",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/anesthesia/airway-management/endotracheal-tubes/intubation-accessories/index.html",
     "logoPic": "p-endotest.webp",
-    "Thumbnail": "endotest.webp"
+    "Thumbnail": "endotest.webp",
+    "seoDescription": "Endotest Rusch de la Teleflex este un dispozitiv de umplere si monitorizare a presiunii mansetelor tuburilor traheale, traheostomie si masti laringiene."
   },
   {
     "name": "Seturi cricotirotomie de urgenta",
@@ -631,7 +686,8 @@
     "fullDescription": "Setul de cricotirotomie de urgenta EasyCric, contine tot ce este necesar pentru o interventie rapida in cazul obstructiei cailor respiratorii superioare, atunci cand intubatia sau ventilatia nu sunt posibile, folosind tehnica de incredere Seldinger. Setul alternativ de cricotirotomie TracheoQuick este un set de punctie rapida, care vine pre-asamblat pentru interventie. \r\n\r\nTubul flexibil de traheostomie LaryngoFlex este solutia sigura si dovedita clinic pentru pacientii de traheostomie in timpul anesteziei.\r\nTPS Multiflex este utilizat pentru a reduce perioada de purtare a tubului pentru pacientii cu traheostomie. Suportul traheostomului este caracterizat de o tolerabilitate ridicata a pacientului, precum si de o manevrare simpla si sigura.\r\n\r\nSet cricotirotomie de urgenta bazat pe tehnica Seldinger EasyCric \r\nSet de coniotomie de urgenta TracheoQuick cu sau fara manson\r\nTub traheostomie ranforsat flexibil pentru laringectomie LaryngoFlex\r\nSuport ranforsat cu disc intratraheal TPS Multiflex\r\n\r\nDisponibile intr-o gama de marimi",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/emergency-medicine/airway-management/cricothyrotomy/index.html",
     "logoPic": "p-set-coniotomie.webp",
-    "Thumbnail": "set-coniotomie.webp"
+    "Thumbnail": "set-coniotomie.webp",
+    "seoDescription": "Set cricotirotomie de urgenta EasyCric este necesar interventiei rapide in cazul obturatiei cailor respiratorii, cand nu este posibila ventilatia mecanica sau intubatia."
   },
   {
     "name": "Laringoscoape",
@@ -639,10 +695,11 @@
     "category": "ATI",
     "subcategory": "Managementul cailor respiratorii",
     "smallDescription": "Lumina intensa atunci cand ai nevoie",
-    "fullDescription": "Lamele laringoscoapelor conventionale de unica folosinta Rüsch si manerele de unica folosinta cu fibra optica Rüsch incorporeaza o lumina stralucitoare albastra-alba, sursa de lumina integrata tip LED, ce ofera lumina uniforma pentru minimalizarea umbrelor si pentru a ajuta la diferentierea tesutului. Laringoscoapele cu sursa de lumina LED frecvent depasesc laringoscoapele cu bec incandescent, cu pana la 2.5 mai multa intensitate luminoasa. \r\n\r\nLamele de laringoscop de unica folosinta cu fibra optica ofera transmisia focusata a lumini cu fibre optice pentru a minimaliza dispersia luminii si pentru a ajuta vizualizarea.\r\n\r\nLaringoscoapele de unica folosinta Rüsch ofera greutatea si senzatia unei lame reutilizabile cu confortul unei lame de unica folosinta. Lamele standard de unica folosinta Rüsch elimina, de asemenea, problemele legate de lamele reutilizabile, inclusiv timpul si costul reprocesarii, fara a sacrifica rezistenta sau calitatea luminii.\r\n\r\nIndiferent de necesitate sau de scenariul pacientului, gama completa de solutii de management al cailor respiratorii sunt concepute pentru a face intubarea sigura si eficienta. Laringoscoapele reutilizabile Rüsch sunt disponibile atat in varianta standard, cat si in varianta cu fibra optica si au o gama completa de dimensiuni si stiluri din care se pot aleage.",
+    "fullDescription": "Lamele laringoscoapelor conventionale de unica folosinta Rüsch si manerele de unica folosinta cu fibra optica Rüsch incorporeaza o lumina stralucitoare albastra-alba, sursa de lumina integrata tip LED, ce ofera lumina uniforma pentru minimalizarea umbrelor si pentru a ajuta la diferentierea tesutului. Laringoscoapele cu sursa de lumina LED frecvent depasesc laringoscoapele cu bec incandescent, cu pana la 2.5 mai multa intensitate luminoasa. \r\n\r\nLamele de laringoscop de unica folosinta cu fibra optica ofera transmisia focusata a lumini cu fibre optice pentru a minimaliza dispersia luminii si pentru a ajuta vizualizarea.\r\n\r\nLaringoscoapele de unica folosinta Rüsch ofera greutatea si senzatia unei lame reutilizabile cu confortul unei lame de unica folosinta. Lamele standard de unica folosinta Rüsch elimina, de asemenea, problemele legate de lamele reutilizabile, inclusiv timpul si costul reprocesarii, fara a sacrifica rezistenta sau calitatea luminii.\r\n\r\nIndiferent de necesitate sau de scenariul pacientului, gama completa de solutii de management al cailor respiratorii sunt concepute pentru a face intubarea sigura si eficienta. Laringoscoapele reutilizabile Rüsch sunt disponibile atat in varianta standard, cat si in varianta cu fibra optica si au o gama completa de dimensiuni si stiluri din care se pot alege.",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/anesthesia/airway-management/laryngoscopes/index.html",
     "logoPic": "p-laringoscop-rusch.webp",
-    "Thumbnail": "laringoscop-rusch.webp"
+    "Thumbnail": "laringoscop-rusch.webp",
+    "seoDescription": "Lame de laringoscoap de unica folosinta Rusch Teleflex si manere de laringoscop disponibile in varianta standard sau cu firbra optica."
   },
   {
     "name": "Laringoscop compatibil RMN",
@@ -653,7 +710,8 @@
     "fullDescription": "Certificat independent pentru a suporta conditiile RMN cu un camp magnetic static de 3 Tesla sau mai putin si cel mai mare camp de gradient de 720 Gauss/cm sau mai putin.\r\nDesign unic - manerul din aluminiu negru si lamele placate cu aur permit setului sa fie usor de distins\r\nManer si lame usoare\r\nBaterii uscate concepute special din carbon zinc",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/anesthesia/airway-management/laryngoscopes/mri-laryngoscope-kit/",
     "logoPic": "p-laringoscop-rmn-rusch.webp",
-    "Thumbnail": "laringoscop-rmn-rusch.webp"
+    "Thumbnail": "laringoscop-rmn-rusch.webp",
+    "seoDescription": "Laringoscop Rusch compatibil cu RMN cu design unic si baterii din carbon zinc ce suporta un camp magnetic."
   },
   {
     "name": "Spirometre stimulatoare",
@@ -664,7 +722,8 @@
     "fullDescription": "Teleflex ofera standardul de aur al spirometrelor stimulatoare prin linia de produse Voldyne.\r\n\r\nSpirometrul stimulator Voldyne este alegerea ideala pentru pacientii care necesita fizioterapie postoperatorie. Deoarece fiecare unitate este calibrata si testata individual, spirometrul stimulator Voldyne ofera o masurare fiabila a volumelor pulmonare inhalate pentru a maximiza rezultatele clinice.\r\n\r\nVoldyne 5000\r\nVoldyne 2500\r\nVoldyne pediatric\r\nDispozitiv exercitii inspiratorii Triflo II\r\nDispozitiv exercitii volum pulmonar\r\nDispozitiv exercitii respiratorii AIR-EZE",
     "extLink": "https://www.teleflex.com/emea/en/product-areas/respiratory/incentive-spirometers/index.html",
     "logoPic": "p-spiromnetru-stimulator.webp",
-    "Thumbnail": "spiromnetru-stimulator.webp"
+    "Thumbnail": "spiromnetru-stimulator.webp",
+    "seoDescription": "Spirometrul stimulator Voldyne Teleflex este alegerea ideala pentru pacientii care necesita fizioterapie postoperatorie."
   },
   {
     "name": "Capacele dezinfectante Curos",
@@ -675,7 +734,8 @@
     "fullDescription": "Curos este un capac turnat etans din polietilena ce contine o insertie de spuma poliuretanica umezita cu alcool izopropilic (IPA) in concentratie de 70%. Este creat pentru a fi folosit impreuna cu conectorii fara ac pentru acces vascular.\r\n\r\nUtilizarea constanta a capacelor dezinfectante Curos pe conectorii fara ac de la perfuzii este asociata cu scaderea CLABSI. Curos sunt capace ce se rasucesc in portul perfuziei si care contin alcool pentru a dezinfecta si a proteja impotriva infectiilor. Fiecare capac Curos contine 70% alcool izopropilic (IPA) care curata suprafata portului si o dezinfecteaza intr-un 1 minut.\r\n\r\nCapacele dezinfectante Curos sunt distribuite individual sau pe o banda convenabila cu zece capacele care poate fi atarnata de suportul perfuziei pentru acces rapid. Benzile au un suport la ambele capete, astfel incat banda sa poata fi taiata daca este necesar.",
     "extLink": "https://www.3m.com/3M/en_US/p/d/hcbgebm20055/",
     "logoPic": "p-capacele-dezinfectante-curos.webp",
-    "Thumbnail": "capacele-dezinfectante-curos.webp"
+    "Thumbnail": "capacele-dezinfectante-curos.webp",
+    "seoDescription": "Capac dezinfectant 3M Curos pentru conectorii fara ac de la perfuzii care dezinfecteaza si protejeaza impotriva infectiilor."
   },
   {
     "name": "Capacele dezinfectante Curos pentru Tego",
@@ -686,7 +746,8 @@
     "fullDescription": "Capacul dezinfectant 3M Curos pentru conectorii de hemodializa Tego este un capac special conceput compatibil cu conectorii de hemodializa Tego. Capacul Curos pentru conectorii de hemodializa Tego este un capac ce contine alcool care se rasuceste pe porturi pentru dezinfectie si protectie. Fiecare capac contine 70% alcool izopropilic (IPA) care scalda suprafata portului si o dezinfecteaza in 1 minut.",
     "extLink": "https://www.3m.com/3M/en_US/p/d/v000251000/",
     "logoPic": "p-curos-tego.webp",
-    "Thumbnail": "curos-tego.webp"
+    "Thumbnail": "curos-tego.webp",
+    "seoDescription": "Capac dezinfectant 3M Curos pentru conectorii de hemodializa Tego compatibil cu conectori Tego."
   },
   {
     "name": "Pansament Tegaderm CHG",
@@ -697,7 +758,8 @@
     "fullDescription": "Pansamentul pentru fixarea cateterului cu gluconat de clorhexidina Tegaderm CHG se foloseste pentru a acoperi si a proteja locul de insertie a cateterului si pentru a fixa dispozitivele pe piele. Este disponibil in mai multe forme si dimensiuni.\r\n\r\nPansamentul Tegaderm CHG consta intr-un pansament adeziv transparent si un pad cu gel integrat ce contine 2% gluconat de clorhexidina (CHG), un binecunoscut agent antiseptic cu activitate antimicrobiana si antifungica cu spectru larg.\r\n\r\nFilmul transparent asigura o bariera eficace impotriva contaminarii externe prin lichide (rezistent la apa), bacterii, virusuri drojdii si protejeaza locul de insertie a cateterului.\r\n\r\nPansamentul pentru fixarea cateterului cu gluconat de clorhexidina Tegaderm CHG se poate folosi pentru a acoperi si a proteja locul de insertie a cateterului si pentru a fixa dispozitivele pe piele. Aplicatiile obisnuite includ cateterele centrale venoase si arteriale, alte catetere intravasculare si dispozitive percutanate.\r\n\r\nDisponibil intr-o gama larga de marimi si forme.",
     "extLink": "https://www.3m.com/3M/en_US/p/d/b00035615/",
     "logoPic": "p-tegaderm-chg.webp",
-    "Thumbnail": "tegaderm-chg.webp"
+    "Thumbnail": "tegaderm-chg.webp",
+    "seoDescription": "Pansament cu gluconat de clorhexidina 3M Tegaderm CHG pentru fixarea cateterului, cu o parte adeziva transparenta si un pad cu gel 2% CHG."
   },
   {
     "name": "Dispozitiv fixare CVP/CVC si CHG Tegaderm ",
@@ -708,7 +770,8 @@
     "fullDescription": "Cu dispozitivul de fixare CVP/CVC Tegaderm de la 3M, nu trebuie sa sacrificati confortul pacientului pentru a obtine o fixare fiabila si protectie antimicrobiana. Sistemul este conceput sa ramana in pozitie pana la 7 zile, dar se indeparteaza usor, oferind o fixare ferma, confortul si protectia pe care o merita pacientii dumnevoastra.\r\n\r\nDispozitivul de fixare CVP/CVC Tegaderm este utilizat pentru a fixa pe pielea pacientului cateterele venoase cu insertie periferica (CVP) si cateterele venoase centrale (CVC) pentru termen scurt, fara sutura.\r\nPansamentul cu gluconat de clorhexidina Tegaderm CHG este dovedit clinic ca reduce CRBSI cu 60% si colonizarile cateterului cu 61% intr-un studiu randomizat.\r\n\r\nMarime 8.5 x 11.5 cm",
     "extLink": "https://www.3m.com/3M/en_LB/p/d/v000222196/",
     "logoPic": "p-dispozitiv-fixare-tegaderm.webp",
-    "Thumbnail": "dispozitiv-fixare-tegaderm.webp"
+    "Thumbnail": "dispozitiv-fixare-tegaderm.webp",
+    "seoDescription": "Pansament de fixare CVP si CVC 3M Tegaderm ce ajuta la reducerea infectiilor."
   },
   {
     "name": "Pansament porturi implantate IV Tegaderm",
@@ -719,7 +782,8 @@
     "fullDescription": "Pansamentul pentru porturi implantate IV Tegaderm CHG de la 3M este un pansament antimicrobian conceput pentru pacientii cu porturi implantate venos, incluzand pacientii de la oncologie sau hamatologie.\r\n\r\nDispozitivul cu pernita cu gel CHG ofera protectie antimicrobiana imediata si continua, fara a necesita umiditate pentru a-l activa. Sta fixat - pernita cu gel se conformeaza in jurul acului si mentine contactul cu pielea.\r\n\r\nPansamentul cu film transparent si fereastra fara adeziv Tegaderm IV este disponibil ca o alternativa pentru pansamentele cu fereastra fara adeziv.",
     "extLink": "https://www.3m.com/3M/en_LB/p/d/v000224507/",
     "logoPic": "p-pansament-port-implantate-tegaderm.webp",
-    "Thumbnail": "pansament-port-implantate-tegaderm.webp"
+    "Thumbnail": "pansament-port-implantate-tegaderm.webp",
+    "seoDescription": "Pansament porturi implantate 3M IV Tegaderm CHG conceput special pentru branule implantate venos, cu un film transparent si fereastra fara adeziv."
   },
   {
     "name": "MicroClave Clear",
@@ -730,7 +794,8 @@
     "fullDescription": "MicroClave Clear este un conector fara ac, sigilat mecanic si microbiologic, cu timp de amorsare foarte redus si presiune neutra. Dispozitivul se autosigileaza automat cand nu este utilizat, pentru a preveni pierderile de sange sau fluide. Dispozitivul este compatibil cu sangele si produsele din sange, cu fluidele biologice si lipidele si cu medicamentele uzuale de chemoterapie/antiblastice si diluantii. \r\n\r\nConectorul MicroClave este o valva exterioara fara ac, cu presiune neutra, cu autosigilare bidirectionala si volum neutilizabil mic. Conectorul MicroClave poate fi utilizat pentru perfuzii si/sau recoltare si pentru accesul pe termen lung in vene sau artere. Garnitura se deschide automat cand este penetrata de un racord Luer.\r\n\r\nAcest dispozitiv, in comparatie cu conectorii conventionali fara ac, asigura atat eliminarea riscului de ranire cu acul, protejand operatorii de o posibila infectare (cu SIDA, hepatita, etc.), cat si prevenirea accesului microorganismelor in sistem, minimizand contaminarea microbiala. Sistemul de conectare MicroClave, daca este utilizat conform procedurii stabilite, poate fi usor dezinfectat datorita suprafetei sale plane. Conectorul MicroClave asigura o bariera sterila timp de 7 zile si 600 de activari.",
     "extLink": "https://www.icumed.com/media/9191/m1-1258-microclaveclear-4pg-brochure-rev06_web.pdf",
     "logoPic": "p-microclave-icu-medical.webp",
-    "Thumbnail": "microclave-icu-medical.webp"
+    "Thumbnail": "microclave-icu-medical.webp",
+    "seoDescription": "Conector fara ac MicroClave ICU Medical transparent, cu presiune neutra si autosigilare bidirectionala, utilizabil ca o bariera sterila."
   },
   {
     "name": "Conector Tego",
@@ -741,7 +806,8 @@
     "fullDescription": "Conceput pentru a ajuta la protejarea cateterelor pacientiilor dumneavoastra impotriva contaminarii si a riscului crescut de infectii ale fluxului sanguin inrudite cu purtarea cateterului (CRBSI) in timpul aplicatiilor de hemodializa si afereza.\r\n\r\nConectorul fara ac Tego creeaza un sistem inchis atunci cand este atasat la portul unui cateter pentru a minimiza contaminarea si pentru a ajuta la reducerea riscului de CRBSI. Optiunea de spalare cu solutie salina de la Tego este conceputa pentru a ajuta la reducerea riscului de tromobcitopenie indusa de heparina (HIT) si va ajuta sa minimizati costurile totale ale hemodializei prin reducerea consumului de heparina.\r\n\r\nAccesarea traseului fluidului:\r\nCand Tego nu este accesat, sigiliul din silicon formeaza o bariera tamponabila pentru patrunderea bacteriilor.\r\nAtasarea unei linii de dializa la conectorul Tego activeaza calea interna dreapta a fluidului si creeaza un sistem inchis mecanic si microbiologic.",
     "extLink": "https://www.icumed.com/products/specialty/renal-systems/tego-connector",
     "logoPic": "p-tego-icu-medical.webp",
-    "Thumbnail": "tego-icu-medical.webp"
+    "Thumbnail": "tego-icu-medical.webp",
+    "seoDescription": "Conector fara ac Tego Icu Medical se ataseaza la portul cateterului pentru a reduce contaminarea si riscul de infectare."
   },
   {
     "name": "Seturi extensii",
@@ -752,7 +818,8 @@
     "fullDescription": "Set extensie bidifuza Smallbore - cu 2 porturi preperforate, 2 cleme glisante si conector rotativ luer.\r\nSet extensie Minibore LifeCare PCA - cu adaptror “mama”, valva cu verificare pe spate, 2 cleme glisante si adaptor securizat pentru blocare “tata”.\r\nSet extensie Macrobore Plum - adaptor “mama” luer lock cu aripioare, caseta cu port secundar, clema glisanta si adaptor “tata” Option-Lok.\r\nSet extensie Macrobore - cu adaptor “mama”, clema glisanta si adaptor securizat pentru blocare “tata”\r\nSet extensie Macrobore - cu adaptor “mama” luer lock cu aripioare, clema glisanta si conector in T pentru blocarea rotatiei MicroClave\r\nSet extensie Macrobore - cu adaptor “mama”, clema glisanta, colier de blocare a rotatiei, conector in T cu locul de injectare preperforat si adaptor “tata”.\r\nSet extensie - cu adaptor “mama”, clema glisare, conector in T MicroClave si conector rotativ luer.\r\nSet extensie Macrobore - cu conector Clave, clema glisanta si conector in T cu locul de injectare resigilabil preperforat si adaptor “tata”.\r\nSet extensie Macrobore - cu conector detasabil MicroClave Clear, clema glisanta si adaptor rotativ “tata” luer lock.\r\nSet extensie Macrobore - cu conector MicroClave, clema glisanta, tub anti-regurgitare si conector rotativ “tata” luer lock.\r\n\r\nDiferite configuratii sunt disponibile.",
     "extLink": "https://www.icumed.com/search?q=extension&facet___contentType=*&facet___productTypeValue=IV+Sets&page=1",
     "logoPic": "p-set-extensie-icu-medical.webp",
-    "Thumbnail": "set-extensie-icu-medical.webp"
+    "Thumbnail": "set-extensie-icu-medical.webp",
+    "seoDescription": "O gama larga de seturi de extensii Icu Medical concepute pentru a imbunatatii siguranta si eficienta aplicatiilor clinice in terapia cu perfuzii."
   },
   {
     "name": "Set de monitorizare a presiunii arteriale Transpac IT",
@@ -763,7 +830,8 @@
     "fullDescription": "Va ofera masuratori precise, invazive, in timp real, a tensiunii arteriale.\r\n\r\nTranspac IT este un sistem de monitorize, cu o singura linie, a presiunii complet integrat care combina un robinetul si un instrument de spalare intr-un singur dispozitiv usor de utilizat. Mai putini conectori, mai putine piese, mai multa incredere si confort.\r\n\r\nTubulatura Transpac IT IV este lipita direct de carcasa pentru a reduce riscul conexiunilor slabite.\r\nEliminarea usoara a bulelor de aer - Lichidul este limpede si vizibil. Cand sunt detectate bule, atingeti pur si simplu furtunul IV si activati instrumentul de spalare.\r\n\r\n011-0P240-01 O singura linie albastra Transpac IT cu instrument de spalare 3 ml, 182 cm\r\n011-0P406-01 O singura linie Transpac IT cu instrument de spalare 30 ml \r\n011-0P246-01 Linie dubla Transpac IT cu instrument de spalare 3 ml\r\n011-0P247-01 Linie dubla Transpac IT cu instrument de spalare 3 ml \r\n011-0P248-01 Linie tripla Transpac IT cu instrument de spalare 3 ml",
     "extLink": "https://www.icumed.com/products/critical-care/blood-pressure-monitoring/transpac-iv",
     "logoPic": "p-set-monitorizare-presiune-transpac.webp",
-    "Thumbnail": "set-monitorizare-presiune-transpac.webp"
+    "Thumbnail": "set-monitorizare-presiune-transpac.webp",
+    "seoDescription": "Set de monitorizare presiune arteriale Icu Medical reduce riscul de deconectare in timpul tratamentului cu perfuzii."
   },
   {
     "name": "Infuzoare de presiune InfuseIT",
@@ -774,7 +842,8 @@
     "fullDescription": "Infuzoarele de presiune InfuseIT de la Salter Labs sunt concepute pentru a fi usor de utilizat. \r\n\r\nSupapa inchisa elimina riscul ca fluidele sa se blocheze.\r\nCarligul de agatare in suportul de perfuzii este rezistent si usor de agatat de catre personal in stativ, indiferent de inaltime.\r\nTeaca transparenta din jurul pungii asigura o fereastra de vizualizare prin care se vede fluidul care este presurizat.\r\nCarligul pungii de fluid IV este durabil si proiectat sa se potriveasca confortabil tuturor pungilor standard.\r\nConstructie durabila - nu se rup si nu se sfasie.\r\n\r\nZIT-500 - Infuzor de presiune InfuseIT, 500 ml cu supapa\r\nZIT-1000 - Infuzor de presiune InfuseIT, 1000 ml cu supapa",
     "extLink": "https://www.salterlabs.com/pressure-infusors.html",
     "logoPic": "p-perfuzoare-infuseIT.webp",
-    "Thumbnail": "perfuzoare-infuseIT.webp"
+    "Thumbnail": "perfuzoare-infuseIT.webp",
+    "seoDescription": "Manseta sau infuzorul de presiune Infuse Salter Labs este usor de utilizat pe toate tipurile de perfuzii."
   },
   {
     "name": "Sistem oncologic Diana ACS ",
@@ -786,7 +855,8 @@
     "extLink": "https://www.icumed.com/products/oncology/pharmacy-compounding-automation/diana-acs",
     "heroPic": "b-sistem-oncologic-diana-acs.webp",
     "logoPic": "p-sistem-oncologic-diana-acs.webp",
-    "Thumbnail": "sistem-oncologic-diana-acs.webp"
+    "Thumbnail": "sistem-oncologic-diana-acs.webp",
+    "seoDescription": "Sistemul oncologic Diana ACS Icu Medical este esential in tratamentul de cancer cu medicamente puternice pentru a standardiza fluxul perfuziilor."
   },
   {
     "name": "ChemoClave CH-10",
@@ -797,7 +867,8 @@
     "fullDescription": "CH-10 Spike ChemoClave pentru punga de perfuzie.\r\nFolositi tehnica aseptica. \r\nDe unica folosinta. Steril.",
     "extLink": "https://www.icumed.com/media/12608/p18-4056_drug_prep_admin_catalog_us_ldrawing_020519_web.pdf",
     "logoPic": "p-ch10-icumedical.webp",
-    "Thumbnail": "ch10-icumedical.webp"
+    "Thumbnail": "ch10-icumedical.webp",
+    "seoDescription": "Conector Icu Medical pentru punga de perfuzie."
   },
   {
     "name": "ChemoClave CH-12",
@@ -907,7 +978,8 @@
     "fullDescription": "Actilite este un pansament subtire, vascos si non aderent cu strat antibacterian de miere si ulei de Manuka. Pansamentul este conceput pentru a oferi protectie ranii, imbunatateste vindecarea si permite exudatului sa fie absorbit. \r\n\r\nEfectul antibacterian al Actilite a fost imbunatatit prin combinarea uleiului de Manuka antibacterian de inalta calitate cu mierea de Manuka. Combinatia de miere si ulei de Manuka a fost demonstrata in vitro ca fiind eficienta impotriva unui numar de organisme infectante cu rani majore, inclusiv MRSA, VRE si Providentia stuartii. \r\nActilite poate fi utilizat si in conditii de Terapie de vindecare a Ranilor prin Presiune Negativa (NPWT) si ca prim strat de reducere bacteriana. \r\n\r\nIndicatii: taieturi, zgarieturi, arsuri, rani chirurgicale, ulceratii ale picioarelor, ulceratii de presiune, ulceratii diabetice, rani infectate\r\n\r\nCR4281 - 5cm x 5cm  \r\nCR3849 - 10cm x 10cm  \r\nCR3852 - 10cm x 20cm  ",
     "extLink": "https://uk.advancismedical.com/products/activonmanukahoney/actilite",
     "logoPic": "p-actilite.webp",
-    "Thumbnail": "actilite.webp"
+    "Thumbnail": "actilite.webp",
+    "seoDescription": "Pansament Actilite subtire cu miere medicinala de Manuka si efect antibacterian pentru vindecarea rapida ranilor infectate."
   },
   {
     "name": "Tub Activon",
@@ -918,7 +990,8 @@
     "fullDescription": "Tubul Activon contine 100% miere de Manuka fara aditivi din Noua Zeelanda. Mierea de Manuka este filtrata si sterilizata, ceea ce o face potrivita pentru aplicarea pe rani. Mierea de Manuka va curata si va elimina mirosurile oferind un mediu umed de vindecare a ranilor. \r\n\r\nTubul Activon este ideal pentru curatarea tesutului necrotic sau pentru acoperirea pansamentelor in care mierea a fost spalata prin exudat. Excelenta pentru utilizarea in cavitati, clateste inainte cu solutie salina. \r\n\r\nIndicatii: ulceratii de presiune, ulceratii ale picioarelor, ulceratii diabetice, rani chirurgicale, arsuri, grafari, rani infectate, cavitatea ranilor\r\n\r\nCR3830 - Tub 25g ",
     "extLink": "https://uk.advancismedical.com/products/activon-manuka-honey/activon-tube",
     "logoPic": "p-activon-tub.webp",
-    "Thumbnail": "activon-tub.webp"
+    "Thumbnail": "activon-tub.webp",
+    "seoDescription": "Tub crema Activon cu miere de Manuka pentru curatarea de tesut necrotic si eliminarea mirosurilor."
   },
   {
     "name": "Activon Tulle",
@@ -929,7 +1002,8 @@
     "fullDescription": "Activon Tulle este un pansament primar din mesa vascoasa impregnat cu miere de Manuka. Activon Tulle creeaza un mediu umed de vindecare si elimina in mod eficient mirosul ranilor, oferind in acelasi timp o actiune antibacteriana. \r\nActivon Tulle este ales in mod ideal pentru granulare sau rani superficiale, fiind alegerea perfecta atunci cand se curata zonele mici ale ranilor cu tesut iritat sau necrotic.\r\n\r\nIndicatii: ulceratii ale picioarelor, ulceratii diabetice, ulceratii de presiune, rani dureroase, rani uscate, cu tesut iritat sau necrotic, rani infectate\r\n\r\nCR3761 - 5cm x 5cm  \r\nCR3658 - 10cm x 10cm ",
     "extLink": "https://uk.advancismedical.com/products/activon-manuka-honey/activon-tulle",
     "logoPic": "p-activon-tulle.webp",
-    "Thumbnail": "activon-tulle.webp"
+    "Thumbnail": "activon-tulle.webp",
+    "seoDescription": "Mesa vascoasa cu miere medicinala creeaza un mediu umed care favorizeaza vindecarea si cu rol antibacterian."
   },
   {
     "name": "Advazorb",
@@ -940,7 +1014,8 @@
     "fullDescription": "Advazorb si Advazorb Lite sunt pansamente din spuma moale si confortabila, non aderente, hidrofilice cu film de protectie respirabil pe spate. \r\n\r\nUn pansament din spuma non aderent cu proprietati excelente de manevrare a fluidelor. Ideal pentru utilizarea sub bandajele tip comprese, datorita retentiei fluidelor, ergonomiei si a frictiunii minime. \r\nPansamentul Advazorb are un film de protectie pe spate rezistent la apa care nu permite perforarea/inteparea. Datorita ratei ridicate de transmitere a vaporilor, pansamentul Advazorb creeaza conditii ideale pentru vindecare. \r\n\r\nIndicatii: taieturi si zgarieturi, arsuri superficiale, rani chirurgicale, ulceratii ale picioarelor, ulceratii de presiune, ulceratii diabetice\r\n\r\nCR4221 - 5cm x 5cm  \r\nCR4165 - 7.5cm x 7.5cm \r\nCR4166 - 10cm x 10cm \r\nCR4167 - 12.5cm x 12.5cm  ",
     "extLink": "https://uk.advancismedical.com/products/hydrophilicfoamdressings/advazorb",
     "logoPic": "p-advazorb.webp",
-    "Thumbnail": "advazorb.webp"
+    "Thumbnail": "advazorb.webp",
+    "seoDescription": "Pansament Advancis Medical din spuma poliuretanica asigura absorbtia rapida a exsudatului."
   },
   {
     "name": "Advazorb Border",
@@ -948,10 +1023,11 @@
     "category": "Ingrijirea ranilor si a plagilor",
     "subcategory": "Pansamente",
     "smallDescription": "Pansament hidrofilic din spuma cu pernita moale din silicon",
-    "fullDescription": "Advazorb Border si Advazorb Border Lite sunt pansamente absorbante, atraumatice si autoaderente cu start perforat din silicon pentru contactul cu rana si margini adezive. \r\n\r\nStratul care acopera rana de silicon este conceput cu multi pori mici de 2mm care absorb exudatul in spuma, protejand astfel rana deschisa. Aceasta combinatie asigura ca pansamentul va ramane pozitionat, minimalizand macerarea. \r\n\r\nIdeal pentru rani exudate acute si cronice incluzand: laceratii pre-tibiene, taieturi si zgarieturi, superficiale, rani chirurgicale, ulceratii ale picioarelor, ulceratii de presiune, ulceratii diabetice\r\n\r\nCR4190 - 7.5cm x 7.5cm \r\nCR4191 - 10cm x 10cm \r\nCR4192 - 12.5cm x 12.5cm \r\nCR4193 - 15cm x 15cm ",
+    "fullDescription": "Advazorb Border si Advazorb Border Lite sunt pansamente absorbante, atraumatice si autoaderente cu start perforat din silicon pentru contactul cu rana si margini adezive. \r\n\r\nStratul care acopera rana de silicon este conceput cu multi pori mici de 2mm care absorb exsudatul in spuma, protejand astfel rana deschisa. Aceasta combinatie asigura ca pansamentul va ramane pozitionat, minimalizand macerarea. \r\n\r\nIdeal pentru rani exsudate acute si cronice incluzand: laceratii pre-tibiene, taieturi si zgarieturi, superficiale, rani chirurgicale, ulceratii ale picioarelor, ulceratii de presiune, ulceratii diabetice\r\n\r\nCR4190 - 7.5cm x 7.5cm \r\nCR4191 - 10cm x 10cm \r\nCR4192 - 12.5cm x 12.5cm \r\nCR4193 - 15cm x 15cm ",
     "extLink": "https://uk.advancismedical.com/products/absorbent-foam-dressings/advazorb-border",
     "logoPic": "p-advazorb-border.webp",
-    "Thumbnail": "advazorb-border.webp"
+    "Thumbnail": "advazorb-border.webp",
+    "seoDescription": "Pansament steril din spuma moale de silicon, antimicrobian, care absorba exsudatul din rana. "
   },
   {
     "name": "Algivon Plus",
@@ -962,7 +1038,8 @@
     "fullDescription": "Algivon Plus este un pansament alginat impregnat cu miere medicinala de Manuka 100%. Fibrele intarite de alginat ofera susteniabilitate, eliminare lenta a mierii, in timp ce se pastreaza integritatea pansamentului. \r\n\r\nAlgivon Plus ideal ca optiune pentru rani umede deoarece alginatul are o capacitate mica de absorbtie, insemnand ca mierea nu se spala odata cu exudatul, astfel ramanand pe rana deschisa pentru mai mult timp. Pansamentul este foarte fin si confortabil, ideal pentru cavitati, pentru curatatea ranilor mari cu tesut iritat si necrotic. \r\n\r\nAlgivon Plus poate fi aplicat pe orice rana, dar mai ales rani cu tesutul iritat, necrotice si mirositoare, inclusiv: ulceratii ale picioarelor, ulceratii de presiune, ulcercatii diabetice, leziuni fungante, rani chirurgicale complicate, zgarieturi, rani infectate, cavitatea rani\r\n\r\nCR4230 - 5cm x 5cm  \r\nCR4225 - 10cm x 10cm  ",
     "extLink": "https://uk.advancismedical.com/products/activon-manuka-honey/algivon-plus",
     "logoPic": "p-algivon-plus.webp",
-    "Thumbnail": "algivon-plus.webp"
+    "Thumbnail": "algivon-plus.webp",
+    "seoDescription": "Algivon Advancis este un pansament din fibre intarite de alginat cu miere de Manuka pentru curatarea ranilor adanci cu tesut necrotic."
   },
   {
     "name": "Algivon",
@@ -973,7 +1050,8 @@
     "fullDescription": "Algivon este un pansament alginat impregnat cu miere medicinala de Manuka 100%. Fibrele de alginat ofera sustenabilitate si elibereaza lent mierea. \r\n\r\nAlgivon este ideal ca optiune pentru rani umede deoarece alginatul are o capacitate mica de absorbtie, insemnand ca mierea nu se spala odata cu exudatul, astfel ramanand pe rana deschisa pentru mai mult timp. Pansamentul este foarte fin si confortabil, ideal pentru cavitati, pentru curatatea ranilor mari cu tesut iritat si necrotic. \r\n\r\nAlgivon poate fi aplicat pe orice rana, dar mai ales rani cu tesutul iritat, necrotice si mirositoare, inclusiv: ulceratii ale picioarelor, ulceratii de presiune, ulceratii diabetice, leziuni fungante, rani chirurgicale complicate, zgarieturi, rani infectate, cavitatea ranilor\r\n\r\nCR3831 - 5cm x 5cm\t\r\nCR3659 - 10cm x 10cm",
     "extLink": "https://uk.advancismedical.com/products/activon-manuka-honey/algivon",
     "logoPic": "p-algivon.webp",
-    "Thumbnail": "algivon.webp"
+    "Thumbnail": "algivon.webp",
+    "seoDescription": "Pansament cu miere medicinala pentru tratarea ranilor chirurgicale, cavitati si tesutului necrotic."
   },
   {
     "name": "Algivon Plus Tulle",
@@ -981,10 +1059,11 @@
     "category": "Ingrijirea ranilor si a plagilor",
     "subcategory": "Pansamente",
     "smallDescription": "Mesa tesuta vascoasa impregnata cu miere de Manuka 100% ",
-    "fullDescription": "Activon Tulle este un pansament primar din mesa vascoasa impregnat cu miere de Manuka. Activon Tulle creeaza un mediu umed de vindecare si elimina in mod eficient mirosul ranilor, oferind in acelasi timp o actiune antibacteriana.\r\n\r\nActivon Tulle este ales in mod ideal pentru granulare sau rani superficiale, fiind alegerea perfecta atunci cand se curata zonele mici ale ranilor cu tesut iritat sau necrotic.\r\n\r\nActivon Tulle poate fi aplicat pe orice rana, dar mai ales rani cu tesutul iritat, necrotice si mirositoare, inclusiv: ulceratii ale picioarelor, ulceratii diabetice, ulceratii de presiune, rani dureroase, rani uscate, cu tesut iritat sau necrotic, rani infectate\r\n\r\nCR3761 - 5cm x 5cm \r\nCR3658 - 10cm x 10cm",
+    "fullDescription": "Activon Plus Tulle este un pansament primar din mesa vascoasa impregnat cu miere de Manuka. Activon Tulle creeaza un mediu umed de vindecare si elimina in mod eficient mirosul ranilor, oferind in acelasi timp o actiune antibacteriana.\r\n\r\nActivon Plus Tulle este ales in mod ideal pentru granulare sau rani superficiale, fiind alegerea perfecta atunci cand se curata zonele mici ale ranilor cu tesut iritat sau necrotic.\r\n\r\nActivon Plus Tulle poate fi aplicat pe orice rana, dar mai ales rani cu tesutul iritat, necrotice si mirositoare, inclusiv: ulceratii ale picioarelor, ulceratii diabetice, ulceratii de presiune, rani dureroase, rani uscate, cu tesut iritat sau necrotic, rani infectate\r\n\r\nCR3761 - 5cm x 5cm \r\nCR3658 - 10cm x 10cm",
     "extLink": "https://uk.advancismedical.com/products/activon-manuka-honey/algivon-plus-ribbon",
     "logoPic": "p-algivon-plus-tulle.webp",
-    "Thumbnail": "algivon-plus-tulle.webp"
+    "Thumbnail": "algivon-plus-tulle.webp",
+    "seoDescription": "Mesa tesuta impregnata cu miere pentru curatarea si vindecarea ranilor superficiale."
   },
   {
     "name": "Vellafilm",
@@ -995,7 +1074,8 @@
     "fullDescription": "Vellafilm este un pansament cu film poliuretan atraumatic transparent cu pat aderent din silicon moale Silfix. Este conceput sa protejeze rana si sa ofera un minim de durere asociata inlocuirii pansamentului. \r\n\r\nSiliconul moale adera in jurul tesutului uscat si nu la rana umeda. Filmul transparent ofera o rata de transfer optima a umiditatii vaporilor. Pansamentul este transparent, puteti vedea rana direct sau pansamentul primar, astfel minimalizati schimbarile frecvente ale pansamentului. Filmul de pe spate are rol antibacterian si are un coeficient redus de frictiune, reducand potentialele deteriorari ale tesutului datorate ruperii sau sfasaierii pansamentului. \r\n\r\nIndicatii: rani superficiale ale epidermei, retentia primului strat de contact pe rana si a pansamentului absorbant, rani chirurgicale\r\n\r\nCR3919 - 12cm x 12cm \r\nCR3921 - 15cm x 20cm \r\nCR3917 - 12cm x 35cm ",
     "extLink": "https://uk.advancismedical.com/products/silicone-contact-layer/vellafilm",
     "logoPic": "p-vellafilm.webp",
-    "Thumbnail": "vellafilm.webp"
+    "Thumbnail": "vellafilm.webp",
+    "seoDescription": "Pansament din film transparent din poliuretan Vellafilm cu pad din silicon care are rol antibacterian. Se poate utiliza precum prim strat pe rani."
   },
   {
     "name": "Durapore",
@@ -1006,7 +1086,8 @@
     "fullDescription": "Banda chirurgicala Durapore de la 3M este o banda textila de matase, conceputa pentru securizare, cum ar fi fixarea cateterelor si tuburilor, precum si pentru pozitionarea pacientului.\r\n\r\nCand trebuie sa pastrati un tub, un dispozitiv sau un pansament voluminos pe pozitie, aveti nevoie de forta pe care sa va puteti baza. Durapore este o banda cu rezistenta inalta, ce nu se intinde, care va ofera incredere in aplicatiile de fixare.\r\n\r\nAplicatii sugerate: catetere urinare, sonde nazogastrice, sonde orogastrice, pozitionarea pacientului, asigurarea pe termen scurt a sondelor endotraheale. Pentru utilizarea in conditii uscate.\r\n\r\nToate lungimile disponibile: 1.37 m, 1.372 m, 9.1 m\r\nToate latimile disponibile: 1.27 cm, 2.54 cm, 25.4 mm, 5.08 cm, 50.8 mm, 7.62 cm",
     "extLink": "https://www.3m.com/3M/en_US/p/d/b00042420/",
     "logoPic": "p-durapore.webp",
-    "Thumbnail": "durapore.webp"
+    "Thumbnail": "durapore.webp",
+    "seoDescription": "Banda adeziva pe suport de matase 3M Durapore pentru fixarea  bandajelor, pansamentelor, cateterelor si canulelor."
   },
   {
     "name": "Transpore",
@@ -1014,10 +1095,11 @@
     "category": "Ingrijirea ranilor si a plagilor",
     "subcategory": "Pansamente",
     "smallDescription": "Banda transparenta din plastic",
-    "fullDescription": "Banda hipoalergenica, cu film poros din polietilena\r\nBanda transparenta din plastic, perforata pentru a se rupe usor, cu fixare sigura\r\n\r\nSugestii de aplicare: Fixarea tuburilor si dispozitivelor (ex: tuburi I.V., catetere), fixarea pansamentelor de dimensiuni mari, atunci camd este nevoie \r\n\r\nToate lungimile disponibile: 1.37 m, 9.1 m\r\nToate latimile disponibile: 1.25 cm, 2.5 cm, 5 cm, 7.6 cm",
+    "fullDescription": "Banda hipoalergenica Transpore de la 3M cu film poros din polietilena\r\nBanda transparenta din plastic, perforata pentru a se rupe usor, cu fixare sigura\r\n\r\nSugestii de aplicare: Fixarea tuburilor si dispozitivelor (ex: tuburi I.V., catetere), fixarea pansamentelor de dimensiuni mari, atunci cand este nevoie \r\n\r\nToate lungimile disponibile: 1.37 m, 9.1 m\r\nToate latimile disponibile: 1.25 cm, 2.5 cm, 5 cm, 7.6 cm",
     "extLink": "https://www.3m.com/3M/en_US/p/d/b10105967/",
     "logoPic": "p-transpore.webp",
-    "Thumbnail": "transpore.webp"
+    "Thumbnail": "transpore.webp",
+    "seoDescription": "Banda adeziva din film poros polietilena perforata, pentru a se rupe repede, cu rol de fixare tuburi, catetere, pansamente. "
   },
   {
     "name": "Micropore",
@@ -1025,10 +1107,11 @@
     "category": "Ingrijirea ranilor si a plagilor",
     "subcategory": "Pansamente",
     "smallDescription": "Banda din hartie hipoalergenica",
-    "fullDescription": "Banda chirurgicala 3M Micropore face parte din categoria de bande multifunctionale care ofera delicatete pielii, dar adera adecvat pentru nevoile generale de fixare.\r\n\r\nMicropore este o banda din hartie hipoalergenica, fara latex, care este blanda cu pielea, dar adera bine si lasa reziduuri de adeziv minime la indepartare. Este o banda chirurgicala economica, de uz general, moale, extrem de poroasa si permeabila la apa. \r\n\r\nSugestii de aplicare: pentru aderenta si fixarea pansamentelor mici sau medii, aplicarea pe suprafete sensibile, fixarea tuburilor usoare\r\n\r\nDisponibil intr-o gama larga de marimi si forme.",
+    "fullDescription": "Banda chirurgicala 3M Micropore face parte din categoria de benzi multifunctionale care ofera delicatete pielii, dar adera adecvat pentru nevoile generale de fixare.\r\n\r\nMicropore este o banda din hartie hipoalergenica, fara latex, care este blanda cu pielea, dar adera bine si lasa reziduuri de adeziv minime la indepartare. Este o banda chirurgicala economica, de uz general, moale, extrem de poroasa si permeabila la apa. \r\n\r\nSugestii de aplicare: pentru aderenta si fixarea pansamentelor mici sau medii, aplicarea pe suprafete sensibile, fixarea tuburilor usoare\r\n\r\nDisponibil intr-o gama larga de marimi si forme.",
     "extLink": "https://www.3m.com/3M/en_US/p/d/v000202953/",
     "logoPic": "p-micropore.webp",
-    "Thumbnail": "micropore.webp"
+    "Thumbnail": "micropore.webp",
+    "seoDescription": "Banda hipoalergenica poroasa 3M Micropore se utilizeaza pentru aderenta si fixarea pansamentelor pe tesut sensibil."
   },
   {
     "name": "Medipore H",
@@ -1039,7 +1122,8 @@
     "fullDescription": "Banda chirurgicala din poliester netesut moale 3M Medipore H ofera intindere multidirectionala pentru a se adapta umflaturilor, distensiei si miscarii repetate si ajuta la minimizarea riscului de ranire a pielii.\r\n\r\nSugestii de aplicare: protejarea zonelor in care pielea se poate intinde (de exemplu, edem, distensie, formarea sau mișcarea hematoamei), fixarea pansamentelor si a tuburilor de drenaj, atunci cand se anticipeaza umflarea sau miscarea, cand este necesara bandajarea repetata\r\n\r\nIdeal pentru pacientii care au nevoie sa isi mentina miscarea sau care se confrunta cu umflaturi sau distensie.\r\n\r\nDisponibil intr-o gama larga de marimi si forme.",
     "extLink": "https://www.3m.com/3M/en_US/p/dc/v000075679/",
     "logoPic": "p-medipore-h.webp",
-    "Thumbnail": "medipore-h.webp"
+    "Thumbnail": "medipore-h.webp",
+    "seoDescription": "Banda din poliester 3M Medipore H pentru securizarea pansamentelor, tuburi de drenaj, unde este necesara bandajarea repetata."
   },
   {
     "name": "Tegaderm + Pad",
@@ -1050,7 +1134,8 @@
     "fullDescription": "Pansamentul 3M Tegaderm cu Pad non-aderent este un pansament complet care ofera o bariera sterila, impermeabila si antibacteriana. Acest pansament consta dintr-un pad absorbant neaderent lipit de un pansament transparent cu pelicula subtire.\r\nProtectie avansata pentru rani si incizii chirurgicale. Aceste pansamente cu film steril, impermeabile, ofera o bariera antibacteriana si virala. Padul absorbant unic nu se va lipi de rana. (Testarile in vitro demonstreaza ca filmul transparent asigura o bariera virala impotriva virusului cu un diametru de 27 nm sau mai mare, in timp ce pansamentul ramane intact fara scurgeri)\r\n\r\nSugestii de aplicare: pansamente post-chirurgicale - in special pe zonele in care se preconizeaza umflaturi sau miscari, rani acute, precum taieturi si zgarieturi.\r\n\r\nDisponibil intr-o gama larga de marimi si forme.",
     "extLink": "https://www.3m.com/3M/en_US/p/d/b00035881/",
     "logoPic": "p-tegaderm-pad.webp",
-    "Thumbnail": "tegaderm-pad.webp"
+    "Thumbnail": "tegaderm-pad.webp",
+    "seoDescription": "Bariera sterila, impermeabila si antibacteriana, 3M Tegaderm cu pad absorbant ofera protectie avansata pentru rani si incizii chirurgicale."
   },
   {
     "name": "Tegaderm I.V.",
@@ -1058,10 +1143,11 @@
     "category": "Ingrijirea ranilor si a plagilor",
     "subcategory": "Pansamente",
     "smallDescription": "Pansament pentru tratamentele intravenoase",
-    "fullDescription": "Tegaderm I.V. este o linie de pansamente pentru tratamentele intravenoase care optimizeaza toate caracteristicile pentru a oferi o fixarea sigura a liniei centrale ale cateterului si petru perfuzii. Conceput sa fie un sistem complet pentru a sustine o ingrijire delicata a pacientului prisecurizarea cateterului, cu timp de purtare indelungat I o indepartare blanda a acestuia. \r\n\r\nO varianta rentabil pentru fixarea cateterelor si a linilor de peruzie.\r\nSigur de purtat pana la 7 zile pentru CVC si poate fi purtat pe toată durata de viata a cateterului PIV.\r\nUn film impermeabil pe toate pansamentele ofera o bariera impotriva contaminantilor externi, inclusiv lichide, bacterii si virusuri.\r\nTegaderm este conceput pentru siguranta si confort.\r\n\r\nDisponibil intr-o gama larga de marimi si forme.",
+    "fullDescription": "Tegaderm I.V. este o linie de pansamente pentru tratamentele intravenoase care optimizeaza toate caracteristicile pentru a oferi o fixarea sigura a liniei centrale ale cateterului si pentru perfuzii. Conceput sa fie un sistem complet pentru a sustine o ingrijire delicata a pacientului prisecurizarea cateterului, cu timp de purtare indelungat I o indepartare blanda a acestuia. \r\n\r\nO varianta rentabil pentru fixarea cateterelor si a linilor de peruzie.\r\nSigur de purtat pana la 7 zile pentru CVC si poate fi purtat pe toată durata de viata a cateterului PIV.\r\nUn film impermeabil pe toate pansamentele ofera o bariera impotriva contaminantilor externi, inclusiv lichide, bacterii si virusuri.\r\nTegaderm este conceput pentru siguranta si confort.\r\n\r\nDisponibil intr-o gama larga de marimi si forme.",
     "extLink": "https://www.3m.com/3M/en_US/p/d/b00035626/",
     "logoPic": "p-tegaderm-iv.webp",
-    "Thumbnail": "tegaderm-iv.webp"
+    "Thumbnail": "tegaderm-iv.webp",
+    "seoDescription": "Panament cu film transparent 3M Tegaderm IV indicat tratamentelor intravenoase pentru fixarea cateterului sau a perfuziei. "
   },
   {
     "name": "Tegaderm Film",
@@ -1080,10 +1166,11 @@
     "category": "Ingrijirea ranilor si a plagilor",
     "subcategory": "Pansamente",
     "smallDescription": "Fasa autoadeziva",
-    "fullDescription": "Fasa autoadeziv Coban de la 3M este o banda cu autosigilare utilizata pentru fixarea pansamentelor sau a altor dispozitive, comprese si zonele ranite sau pentru imobilizarea unei leziuni.\r\n\r\nO fasa elastica autoadeziva care functioneaza precum o banda adeziva, dar se lipeste doar de ea. Este disponibila in variantele sterila si nesterila, intr-o gama larga de latimi si culori pentru a sadisface nevoile fiecaruia.\r\n\r\nDisponibil intr-o gama larga de marimi si culori",
+    "fullDescription": "Fasa autoadeziva Coban de la 3M este o banda cu autosigilare utilizata pentru fixarea pansamentelor sau a altor dispozitive, comprese si zonele ranite sau pentru imobilizarea unei leziuni.\r\n\r\nO fasa elastica autoadeziva care functioneaza precum o banda adeziva, dar se lipeste doar de ea. Este disponibila in variantele sterila si nesterila, intr-o gama larga de latimi si culori pentru a sadisface nevoile fiecaruia.\r\n\r\nDisponibil intr-o gama larga de marimi si culori",
     "extLink": "https://www.3m.com/3M/en_US/p/d/v000075653/",
     "logoPic": "p-coban.webp",
-    "Thumbnail": "coban.webp"
+    "Thumbnail": "coban.webp",
+    "seoDescription": "Fasa autoadeziva 3M Coban este o banda elastica cu autosigilare care se aplica perfect fara a isi pierde aderenta."
   },
   {
     "name": "Cavilon mov",
@@ -1094,7 +1181,8 @@
     "fullDescription": "Cavilon Durable Barrier Cream este o crema hidratanta tip bariera unica alcatuita din polimeri 3M utilizata pentru pacientii cu risc de dermatita asociata incontinentei (IAD). Crema concentrata, fara parfum, necesita aplicari mai putin frecvente si este rezista la spalare. Formula hipoalergenica contine Dimeticona pentru a proteja mai bine pielea pacientilor. Compatibil cu gluconatul de clorhexidina (CHG).\r\n\r\nCavilon Durable Barrier Cream ofera o protectie unica si de durata fata de fluidele corporale, hidratand pielea. Este destinata utilizarii pe pielea sanatoasa sau usor iritata ca bariera primara de protectie impotriva macerarii sau iritatiilor provocate de urina si/ sau materii fecale. Formula sa foarte concentrata, permite utilizarea unei cantitati foarte mici pentru suprafete intinse de piele.\r\n\r\nProdus concentrat - necesita o aplicare mai putin frecventa si mai putin produs cu fiecare aplicare decat barierele tipice de protectie.\r\nDovedit ca reduce dermatita asociata incontinentei si ca reduce incidenta leziunilor prin rupere ale pielii atunci cand este utilizata ca parte a unui protocol de ingrijire a zonei sacrale.\r\n\r\nEste disponibila in tub 92 g.",
     "extLink": "https://www.3m.com.ro/3M/ro_RO/p/d/v000209051/",
     "logoPic": "p-cavilon-mov.webp",
-    "Thumbnail": "cavilon-mov.webp"
+    "Thumbnail": "cavilon-mov.webp",
+    "seoDescription": "Crema hipoalergenica, fara alcool si neiritanta, Cavilon hidrateaza pielea si o protejeaza de uscare timp indelungat."
   },
   {
     "name": "Cavilon film",
@@ -1105,7 +1193,8 @@
     "fullDescription": "Filmul protector neiritant Cavilon este o pelicula durabila fara alcool pe baza de terpolimer, care formeaza un strat transparent ce lasa pielea sa respire, protejand impotriva frecarii, traumatismelor provocate de adezivi si lichidelor corporale (precum urina si/sau materii fecale si exsudat din plaga).\r\n\r\nNu ustura, chiar si pe piele rupta sau iritata.\r\nNu incarca substratul absorbantelor pentru incontinenta.\r\nRentabil - asigura protectie pana la 72 de ore.\r\nTransparent - pentru monitorizarea cu usurinta a pielii.\r\nCompatibil cu solutii de pregatire a pielii (si anume, gluconat de clorhexidina si iod povidona).\r\n\r\nDisponibil: Cutie cu 25 de plicuri a cate 1ml",
     "extLink": "https://www.3m.com/3M/en_US/p/d/b00042019/",
     "logoPic": "p-cavilon-barrier.webp",
-    "Thumbnail": "cavilon-barrier.webp"
+    "Thumbnail": "cavilon-barrier.webp",
+    "seoDescription": "Cavilon este un film transparent care este indicat precum o bariera primara de protectie impotriva diferitelor fluide corporale."
   },
   {
     "name": "Aura 9320+",
@@ -1116,7 +1205,8 @@
     "fullDescription": "Masca de protectie respiratorie impotriva particulelor 3M Aura 9320+ asigura o protectie respiratorie eficienta in ceea ce priveste utilizarea in cadrul ramurilor industriale in care lucratorii sunt expusi la particule de praf si/sau particule lichide non-volatile.\r\n\r\nTestata si Aprobata CE conform EN149:2001+A1:2009\r\nPliabila, usor de utilizat, designul patentat cu trei segmente se adapteaza miscarilor faciale ale purtatorului, asigurand astfel un nivel ridicat de confort\r\nFiltrul este conceput tehnologic pentru a asigura un nivel eficient de filtrare in conditiile unei rezistente reduse la respiratie, cu scopul de a garanta o performanta inalta de-a lungul timpului\r\nLamela nazala se adapteaza conturului nasului si a fetei si contribuie la imbunatatirea compatibilitatii cu ochelarii de protectie 3M\r\nSectiunea inovativa pentru barbie este conceputa pentru facilitatea echiparii mastii si ajustarii pozitiei acesteia, astfel incat sa se obtina un nivel confortabil de potrivire\r\nSupapa de expiratie 3M Coolflow ofera un nivel de confort suplimentar in mediile in care exista umezeala si temperaturi ridicate si/sau unde lucrul se desfasoara in conditii grele, care presupun munca fizica\r\nSectiuea presata de deasupra contribuie la reducerea efectului de aburire a ochelarilor de protectie\r\nAmbalajul propriu igienic contribuie la protejarea mastii respiratorii de surse de contaminare inaintea utilizarii\r\nSectiunea neteda spongioasa pentru nas se simte confortabil pe piele",
     "extLink": "https://www.3m.com.ro/3M/ro_RO/p/d/v000125639/",
     "logoPic": "p-3m-aura-9320.webp",
-    "Thumbnail": "3m-aura-9320.webp"
+    "Thumbnail": "3m-aura-9320.webp",
+    "seoDescription": "Masca respiratorie 3M Aura 9320 ofera protectie in conditii de praf si ceata in medii de lucru ce necesita protectie FFP2."
   },
   {
     "name": "Masca chirurgicala 1810F",
@@ -1124,10 +1214,11 @@
     "category": "Protectie impotriva infectiilor",
     "subcategory": "Masti de protectie",
     "smallDescription": "Masca plata cu snururi de legare",
-    "fullDescription": "Masca chirurgicala 1810F este o masca plata cu snururi de legare care indeplineste cerintele de performanta pentru mastile chirurgicale de tip II conform EN 14683. Masca este confectionata dintr-un material netesut albastru de polipropilena pentru acoperirea exterioara, un mediu filtrant din polipropilena alba si o tesatura alba din polipropilena pentru partea din interior. Masca are o lamela nasala din aluminiu introdusa si snururi de legare atasate pentru fixarea perfecta a mastii. Toate atasamentele si cusaturile de pe masca sunt sudate cu ultrasunete (benzi de legătura si snururi legare sus/jos). Masca nu este sterila si este ambalata vrac in cutii.\r\n\r\nAcoperirea exterioara: Polipropilena netesut, albastru\r\nMediu filtrant: Polipropilena, alb\r\nAcoperirea interioara: Polipropilena netesut, alb \r\nLamela nasala: Aluminiu\r\n\r\nDisponibil: cutie cu 100 bucati",
+    "fullDescription": "Masca chirurgicala 1810F este o masca plata cu snururi de legare care indeplineste cerintele de performanta pentru mastile chirurgicale de tip II conform EN 14683. Masca este confectionata dintr-un material netesut albastru de polipropilena pentru acoperirea exterioara, un mediu filtrant din polipropilena alba si o tesatura alba din polipropilena pentru partea din interior. Masca are o lamela nazala din aluminiu introdusa si snururi de legare atasate pentru fixarea perfecta a mastii. Toate atasamentele si cusaturile de pe masca sunt sudate cu ultrasunete (benzi de legatura si snururi legare sus/jos). Masca nu este sterila si este ambalata vrac in cutii.\r\n\r\nAcoperirea exterioara: Polipropilena netesut, albastru\r\nMediu filtrant: Polipropilena, alb\r\nAcoperirea interioara: Polipropilena netesut, alb \r\nLamela nasala: Aluminiu\r\n\r\nDisponibil: cutie cu 100 bucati",
     "extLink": "https://www.3m.com/3M/en_LB/p/d/v000082940/",
     "logoPic": "p-1810f-3m.webp",
-    "Thumbnail": "1810f-3m.webp"
+    "Thumbnail": "1810f-3m.webp",
+    "seoDescription": "Masca chirurgicala 3M 1810F din polipropilena netesuta cu lamela nazala si snururi de legare."
   },
   {
     "name": "Masca FFP3 DNA 2972",
@@ -1138,7 +1229,8 @@
     "fullDescription": "Masca DNA FFP3 2972 este o masca pentru filtrarea particulelor conceputa pentru a proteja de particule nevolantile de lichid si solid.\r\nPliabila, fara valva.\r\n\r\nImpachetata individual. Cate 25 masti per cutie.",
     "extLink": "https://dnamedical.com.tr/dna-ffp3-2972fm-2/",
     "logoPic": "p-dna-2972.webp",
-    "Thumbnail": "dna-2972.webp"
+    "Thumbnail": "dna-2972.webp",
+    "seoDescription": "Maca FFP3 pliabila si fara valva pentru protectia impotriva particulelor nevolatile."
   },
   {
     "name": "Masca respiratorie 8710 ",
@@ -1146,10 +1238,11 @@
     "category": "Protectie impotriva infectiilor",
     "subcategory": "Masti de protectie",
     "smallDescription": "Impotriva prafului si a aburilor",
-    "fullDescription": "Masca de protectie respiratorie de unica folosinta 8710  este usoara, confortabila si eficienta impotriva prafului si a aburilor. Forma convexa, designul cu benzi duble, lamela din spuma si clema pentru nas asigura o purtare confortabila pentru orice dimensiune a fetei.\r\n\r\nInteriorul mastii durabile, rezistenta la strivire.\r\nFiltru P1 evaluat la AS/NZ 1716:2012\r\n\r\nDisponibil in cutie cu 20 de masti",
+    "fullDescription": "Masca de protectie respiratorie de unica folosinta 8710 este usoara, confortabila si eficienta impotriva prafului si a aburilor. Forma convexa, designul cu benzi duble, lamela din spuma si clema pentru nas asigura o purtare confortabila pentru orice dimensiune a fetei.\r\n\r\nInteriorul mastii durabile, rezistenta la strivire.\r\nFiltru P1 evaluat la AS/NZ 1716:2012\r\n\r\nDisponibil in cutie cu 20 de masti",
     "extLink": "https://multimedia.3m.com/mws/media/1526357O/3m-disposable-respirator-8710-technical-data-sheet-pdf.pdf",
     "logoPic": "p-3m-8710.webp",
-    "Thumbnail": "3m-8710.webp"
+    "Thumbnail": "3m-8710.webp",
+    "seoDescription": "Masca respiratorie fara valva 3M 8710 cu clema pentru nas si filtru P1."
   },
   {
     "name": "Steriking RS120A rotosealer",
@@ -1157,10 +1250,11 @@
     "category": "Sterilizare",
     "subcategory": "Aparatura",
     "smallDescription": "Modelul avansat cu sistem de alarma",
-    "fullDescription": "Steriking RS120A rotosealer este masina de sigilat, modelul avansat cu sistem de alarma\r\nSteriking RS120A rotosealer este echipat cu parametrii de control al etansari (timp, temperatura, presiune) si este in conformitate cu ISO 11607-2. Dimensiunea echipamentului este compacta, iar functia automata de pornire/oprire reduce uzura motorului si economiseste energie.\r\n\r\nRotosealer se utilizeaza pentru sigilarea pachetelor cu materiale sterilizate rapida si de durata\r\nOrcand gata de utilizare\r\nEconomiseste energie atunci cand echipamentul nu este in utilizare\r\nToti parametrii proceselelor de sigilare se pot controla\r\nIntervalul de temperatura se poate ajusta\r\nOfera sigilari impermeabile si durabile\r\nFabricat conform reglementarilor Europene de siguranta",
+    "fullDescription": "Steriking RS120A rotosealer este masina de sigilat, modelul avansat cu sistem de alarma\r\nSteriking RS120A rotosealer este echipat cu parametrii de control al etansari (timp, temperatura, presiune) si este in conformitate cu ISO 11607-2. Dimensiunea echipamentului este compacta, iar functia automata de pornire/oprire reduce uzura motorului si economiseste energie.\r\n\r\nRotosealer se utilizeaza pentru sigilarea rapida si de durata a pachetelor cu materiale sterilizate\r\nOrcand gata de utilizare\r\nEconomiseste energie atunci cand echipamentul nu este in utilizare\r\nToti parametrii proceselelor de sigilare se pot controla\r\nIntervalul de temperatura se poate ajusta\r\nOfera sigilari impermeabile si durabile\r\nFabricat conform reglementarilor Europene de siguranta",
     "extLink": "https://www.steriking.com/sealing-machines/rotosealers",
     "logoPic": "p-rotosealer-rs120a.webp",
-    "Thumbnail": "rotosealer-rs120a.webp"
+    "Thumbnail": "rotosealer-rs120a.webp",
+    "seoDescription": "Masina de sigilat rotosealer Steriking Wipak pentru sigilarea dispozitivelor ce urmeaza a fi sterilizate."
   },
   {
     "name": "Steriking RS300 rotosealer",
@@ -1168,10 +1262,11 @@
     "category": "Sterilizare",
     "subcategory": "Aparatura",
     "smallDescription": "Masina de sigilat cu imprimanta incorporata",
-    "fullDescription": "Steriking RS300 este un aparat de sigilat durabil si usor de utilizat cu imprimanta incorporata\r\n\r\nRotosealer se utilizeaza pentru sigilarea pachetelor cu materiale sterilizate rapida si de durata\r\nOrcand gata de utilizare\r\nEconomiseste energie atunci cand echipamentul nu este in utilizare\r\nToti parametrii proceselelor de sigilare se pot controla\r\nIntervalul de temperatura se poate ajusta\r\nOfera sigilari impermeabile si durabile\r\nFabricat conform reglementarilor Europene de siguranta",
+    "fullDescription": "Steriking RS300 este un aparat de sigilat durabil si usor de utilizat cu imprimanta incorporata\r\n\r\nRotosealer se utilizeaza pentru sigilarea rapida si de durata a pachetelor cu materiale sterilizate \r\nOrcand gata de utilizare\r\nEconomiseste energie atunci cand echipamentul nu este in utilizare\r\nToti parametrii proceselelor de sigilare se pot controla\r\nIntervalul de temperatura se poate ajusta\r\nOfera sigilari impermeabile si durabile\r\nFabricat conform reglementarilor Europene de siguranta",
     "extLink": "https://www.steriking.com/sealing-machines/rotosealers",
     "logoPic": "p-rotosealer-rs300.webp",
-    "Thumbnail": "rotosealer-rs300.webp"
+    "Thumbnail": "rotosealer-rs300.webp",
+    "seoDescription": "Sigilator cu imprimanta incorporata Steriking Wipak."
   },
   {
     "name": "Incubator cu abur Celerity",
@@ -1182,7 +1277,8 @@
     "fullDescription": "Incubatorul Celerity Steam este conceput sa incubeze si sa citeasca automat indicatorul biologic Celerity 20 Steam la 57°C (135°F) pentru un rezultat fluorescent in mai putin de 20 de minute.\r\n\r\nIncubatorul Celerity Steam este un incubator compact, cu opt godeuri si suport pentru masa, cu valoarea de referinta a temperaturii de 57°C (135°F) si toleranta acceptata de -2°/ +3°C. Dispozitivul serveste, atat precum incubator, cat si ca un detector fluorescent.\r\n\r\nUnitatea consta in principal din doua elemente de incalzire, independente, fiecare continand cate patru godeuri in care se potrivesc perfect forma indicatorilor biologici Celerity 20 Steam. In timp ce indicatorul biologic activat este incubat, vizibilitatea este determinata de semnalul florescent sporit de la degradarea enzimatica in contact cu substratul fluorogenic prezent in mediu. \r\n\r\nDimensiunile incubatorului: 290 x 95 x160 mm",
     "extLink": "https://www.steris.com/healthcare/products/sterility-assurance-and-monitoring/biological-indicators/celerity-steam-incubator",
     "logoPic": "p-incubator-celerity.webp",
-    "Thumbnail": "incubator-celerity.webp"
+    "Thumbnail": "incubator-celerity.webp",
+    "seoDescription": "Incubator Celerity Steris cu opt godeuri cu functie automata de citire a indicatorului biologic."
   },
   {
     "name": "Sterilizator V-Pro maX 2",
@@ -1193,7 +1289,8 @@
     "fullDescription": "Oferind o productivitate de neegalat pentru nevoile zilnice ale salii de operatie, sistemul de sterilizare la temperatura joasa V-PRO maX 2 este conceput pentru utilizarea in sterilizarea terminala a dispozitivelor medicale. Sterilizatorul V-PRO maX 2 de la Steris dispune de noul ciclu Fast Non Lumen, care va permite sa sterilizati dispozitive precum camere video, telescoape, baterii si lame de laringoscop in doar 16 minute.\r\n\r\nSterilizatorul V-PRO maX 2 este un sterilizator cu peroxid de hidrogen care ofera patru cicluri pentru a steriliza eficient cea mai larga gama de instrumente si dispozitive, folosind tehnologia Steris proprie de peroxid de hidrogen vaporizat:\r\n\r\nCiclu rapid fara lumen - Reproceseaza pana la 5 Kg de dispozitive fara lumen in 16 minute\r\nCiclu fara lumen - Reproceseaza pana la 22,7 Kg de dispozitive fara lumen in 28 de minute\r\nCiclu flexibil - Reproceseaza pana la 11 Kg de incarcaturi mixte in 35 de minute\r\nCiclu lumen - Reproceseaza pana la 20 de instrumente chirurgicale cu lumen din otel inoxidabil in 52 de minute\r\n\r\nSistemul inovator de verificare a umiditatii este inclus in fiecare ciclu pentru a ajuta la confirmarea ca incarcaturile sunt uscate si pentru a preveni intreruperea ciclului. Ciclul rapid fara lumen, disponibil numai cu sterilizatorul V-PRO maX 2, utilizeaza jumatate din sterilizant in comparatie cu toate celelalte cicluri de sterilizare V-PRO.",
     "extLink": "https://www.steris.com/healthcare/products/v-pro-sterilizers/v-pro-max-2-low-temperature-sterilization-system",
     "logoPic": "p-vpro-max.webp",
-    "Thumbnail": "vpro-max.webp"
+    "Thumbnail": "vpro-max.webp",
+    "seoDescription": "Sterilizator cu plasma V-Pro maX functioneaza pe baza sterilizarii cu peroxid de hidrogen."
   },
   {
     "name": "Pungi de sigilat",
@@ -1204,7 +1301,8 @@
     "fullDescription": "Infectiile reprezinta un risc ridicat in ingrijirea medicala si operatiile chirurgicale. Toate dispozitivele si consumabilele medicale trebuie sa fie sterile atunci cand sunt destinate utilizarii in operatii invazive si deschise. Un sistem de bariera steril conceput corect, fabricat din materiale fiabile, permite o sterilizare eficienta, ofera protectie fizica, mentine sterilitatea pana la punctul de utilizare si permite prezentare aseptica.\r\n\r\nManipularea si transportul in siguranta a dispozitivelor contaminate necesita o atentie speciala. Materialele si instrumentele chirurgicale reutilizabile trebuie sa fie curatate si intretinute cu atentie dupa fiecare utilizare si sa fie sterilizate inainte de urmatoarea operatie. Sistemele de bariera sterila si materialele de unica folosinta ofera proprietati dovedite ca bariera microbiana. Acestea asigura un grad foarte ridicat de protectie in timpul depozitarii, manipularii, transportului si deschiderii aseptice. Sunt concepute pentru a permite patrunderea completa a agentului de sterilizare in punga si produsele din aceasta.\r\n\r\nGama de produse Steriking ofera o mare varietate de tipuri si dimensiuni pentru alegerea optima a unui pachet de dimensiuni corecte pentru fiecare articol si pentru ambalare dubla.\r\n\r\nPungile si rolele Wipak asigura un proces de ambalare usor si rapid pentru instrumente individuale, seturi mai mici si alte articole, oferind in acelasi timp proprietati de bariera steril fiabila.\r\n\r\nS - Pungi plate 2P si 3P\r\nB - Pungi cu pliuri\r\nSS - Pungi autosigilante\r\nHR - Role cu aer cald\r\nR - Role plate 2P si 3P\r\nLTS - Pungi plate din Tyvek\r\nLTSS - Pungi autosigilante Tyvek\r\nLTR - Role plate Tyvek\r\nSNW - Pungi netesute TexLine\r\nPB - Pungi din hartie",
     "extLink": "https://www.steriking.com/sterilization-pouches-rolls",
     "logoPic": "p-pungi-sigilare.webp",
-    "Thumbnail": "pungi-sigilare.webp"
+    "Thumbnail": "pungi-sigilare.webp",
+    "seoDescription": "Pungi pentru impachetarea dispozitivelor medicale si consumabilelor care sunt destinate procesului de sterilizare."
   },
   {
     "name": "Pungi pentru instrumentele robotice",
@@ -1215,7 +1313,8 @@
     "fullDescription": "Pungiile Steriking intrunesc cerintele procedurilor de sterilizare cu aburi ale spitalului. Produsele sunt compatibile cu ISO 11607, partea 1 si 2, precum si partea a 5-a EN 868, demonstrand ca ambalajul dispozitivelor medicale sterilizate terminal indeplinesc cerintele internationale si ale UE. Domeniile in care aceste standarde se aplica sunt institutiile medicale si oriunde dispozitivele medicale sunt ambalate si sterilizate.\r\n\r\nMarimile ambalajelor au fost concepute pentru acomodarea instrumentelor da Vinci S/Si, X/Xi si SP. De asemenea, pungile pot fi utilizate si pentru ambalarea altor dispozitive lungi care necesita protectie.\r\nInstrumentele da Vinci S/Si, X/Xi si SP trebuie orientate cu tubulatura catre terminatia deschisa, pentru a asigura prezentare aseptica - usor de indepartat din ambalaj.\r\nUnde impachetarea dubla este necesara, este important sa pozitionati materialul poros langa material poros si cel laminat langa cel laminat, deoarece penetrarea aerului si a aburilor este posibila doar prin partea cu hartie. Ambalajul interior nu trebuie sa fie pliat ca pasajul aburilor sa ramana neatins.",
     "extLink": "https://www.steriking.com/sterilization-pouches-rolls/pouch-robotic-instruments",
     "logoPic": "p-pungi-instrumente-robotice.webp",
-    "Thumbnail": "pungi-instrumente-robotice.webp"
+    "Thumbnail": "pungi-instrumente-robotice.webp",
+    "seoDescription": "Pungi Wipak special concepute instrumentelelor robotice pentru sterilizarea cu abur."
   },
   {
     "name": "Role plate",
@@ -1226,7 +1325,8 @@
     "fullDescription": "Wipak ofera cea mai larga gama de modele si dimensiuni.\r\nRolele plate sunt disponibile in trei lungimi: 200 de metri, 100 de metri si 31 de metri.",
     "extLink": "https://www.steriking.com/sterilization-pouches-rolls/heat-sealable-pouches-and-rolls/flat-rolls",
     "logoPic": "p-role-plate.webp",
-    "Thumbnail": "role-plate.webp"
+    "Thumbnail": "role-plate.webp",
+    "seoDescription": "Role plate utilizate pentru impachetarea si sigilarea dispozitivelor medicale pentru procesul de sterilizare."
   },
   {
     "name": "Role cu pliuri",
@@ -1237,7 +1337,8 @@
     "fullDescription": "Role cu pliuri cu lungimea de 100 metri pentru materiale voluminoase.\r\nSunt tiparite cu indicatorul de proces pentru sterilizarea cu abur, EO si FO.",
     "extLink": "https://www.steriking.com/sterilization-pouches-rolls/heat-sealable-pouches-and-rolls/rolls-gussets",
     "logoPic": "p-role-pliuri.webp",
-    "Thumbnail": "role-pliuri.webp"
+    "Thumbnail": "role-pliuri.webp",
+    "seoDescription": "Role cu pliuri Wipak tiparite cu indicatorul de proces folosite in sterilizarea cu abur."
   },
   {
     "name": "Pachet testare Verify Bowie-Dick",
@@ -1248,7 +1349,8 @@
     "fullDescription": "Pachetul de testare Verify Bowie Dick este un test de indepartare a aerului pentru autoclave/sterilizatoare cu abur si cu penetrare de aburi. Regasiti un indicator chimic in centrul fiecarui pachet, iar tehnologia avansata din formula Steris cu cerneala termocroma ajuta la detectarea unei varietati de probleme de calitate a aburului.\r\n\r\nPachet de testare pentru eliminarea aerului este de unica folosinta, cu o schimbare distincta a culorii\r\nSablonul unic de defectiuni ajuta la identificarea unei varietati de defectiuni potentiale\r\nEchivalent ca performanta cu testul AAMI Bowie Dick",
     "extLink": "https://www.steris.com/healthcare/products/sterility-assurance-and-monitoring/air-removal-test-bowie-dick-test/verify-bowie-dick-test-pack",
     "logoPic": "p-pachet-testare-bowie-dick.webp",
-    "Thumbnail": "pachet-testare-bowie-dick.webp"
+    "Thumbnail": "pachet-testare-bowie-dick.webp",
+    "seoDescription": "Test evacuarea aerului si penetrarea aburului pentru sterilizatorul cu abur, EO si FO."
   },
   {
     "name": "Carduri de testare Verify Bowie-Dick",
@@ -1259,7 +1361,8 @@
     "fullDescription": "Cardul de testare Verify Bowie-Dick este un test compact de indepartare a aerului, ideal pentru sterilizatoarele mici cu abur. Cardul de inregistrare este primul test care nu genereaza deloc deseuri. Cardul este testul - oferind un sistem convenabil pentru testarea sterilizatoarelor cu prevacuum.\r\n\r\nMaximizati bugetul folosind acest design simplu de card de testare\r\nUsor de utilizat, test de inregistrare direct pe card pentru pastrarea evidentei\r\nEconomie de spatiu - cardurile se depoziteaza in spatiu foarte mic si sunt ideale pentru sterilizatoarele mici",
     "extLink": "https://www.steris.com/healthcare/products/sterility-assurance-and-monitoring/air-removal-test-bowie-dick-test/verify-bowie-dick-test-card",
     "logoPic": "p-card-testare-bowie-dick.webp",
-    "Thumbnail": "card-testare-bowie-dick.webp"
+    "Thumbnail": "card-testare-bowie-dick.webp",
+    "seoDescription": "Test Bowie Dick pentru sistemele de sterilizare mici cu abur."
   },
   {
     "name": "Teste zilnice Dart",
@@ -1278,10 +1381,11 @@
     "category": "Sterilizare",
     "subcategory": "Consumabile",
     "smallDescription": "Detergent concentrat",
-    "fullDescription": "Detergentul neutru concentrat Prolystica 2X este conceput pentru curatarea manuala, cat si automata, a dispozitivelor medicale adeecvate, inclusiv a instrumentelor chirurgicale. Detergentul neutru concentrat Prolystica 2X este compatibil cu otelul inoxidabil, materiale plastice, aluminiu si metale moi, dar trebuie sa fie utilizat conform instructiunilor de utilizare. Acest detergent pentru curatarea instrumentelor chirurgicale este sigur de utilizat cu sistemele de tavite din aluminiu.\r\n\r\nCum functioneaza detergentul neutru concentrat Polystica 2X\r\nDetergentul neutru concentrat Polystica 2X pentru curatarea instrumentelor chirurgicale foloseste formule patentate care contin agenti tensioactivi care curata resturile de grasimi de pe instrumentele chirurgicale chiar mai bine decat produsele competitive pe baza de enzime.",
+    "fullDescription": "Detergentul neutru concentrat Prolystica 2X este conceput pentru curatarea manuala, cat si automata, a dispozitivelor medicale adeecvate, inclusiv a instrumentelor chirurgicale. Detergentul neutru concentrat Prolystica 2X este compatibil cu otelul inoxidabil, materiale plastice, aluminiu si metale moi, dar trebuie sa fie utilizat conform instructiunilor de utilizare. Acest detergent pentru curatarea instrumentelor chirurgicale este sigur de utilizat cu sistemele de tavite din aluminiu.\r\n\r\nCum functioneaza detergentul neutru concentrat Polystica 2X\r\nDetergentul neutru concentrat Polystica 2X pentru curatarea instrumentelor chirurgicale. Foloseste formule patentate care contin agenti tensioactivi ce curata resturile de grasimi de pe instrumentele chirurgicale chiar mai bine decat produsele competitive pe baza de enzime.",
     "extLink": "https://www.steris.com/healthcare/products/surgical-instrument-cleaning-chemistries/prolystica-surgical-instrument-cleaning-chemistries/prolystica-2x-concentrate-cleaning-chemistries/prolystica-2x-concentrate-neutral-detergent",
     "logoPic": "p-polystica-steris.webp",
-    "Thumbnail": "polystica-steris.webp"
+    "Thumbnail": "polystica-steris.webp",
+    "seoDescription": "Detergent neutru concentrat Prolystica Steris pentru curatarea instrumentelor chirurgicale de resturi de grasimi."
   },
   {
     "name": "Sterilant Vapox HC ",
@@ -1289,10 +1393,11 @@
     "category": "Sterilizare",
     "subcategory": "Consumabile",
     "smallDescription": "Peroxid de hidrogen",
-    "fullDescription": "Sterilantul Vaprox HC, care contine 59% peroxid de hidrogen, este un sterilizant cu peroxid de hidrogen conceput special pentru utilizare cu sisteme de sterilizare la temperatura joasa V-PRO maX, V-PRO maX 2, V-PRO s2, V-PRO 1 Plus, V-PRO 60 si  V-PRO 1. Peste 40 de materiale si invelisuri ale acestora acum compatibile cu Sterilizantul Vaprox HC.\r\n\r\nCupa inteligenta a sterilizantului Vaprox HC (PB011 si PB012) este conceputa pentru a ajuta la economisirea timpului si a cheltuielilor cu sterilizarea cu peroxid de hidrogen care poate fi risipitoare. Cupa inteligenta de sterilizare VHP este echipata cu tehnologia RFID pentru a identifica automat daca nu mai aveti suficient sterilant sau daca se apropie data de expirare, pentru a maximiza mai bine utilizarea sterilantului.\r\n\r\nCum functioneaza sterilantul Vaprox HC\r\nPeroxidul de hidrogen este un sterilizant bine cunoscut care demonstreaza o eficacitate cu spectru larg impotriva virusurilor, bacteriilor, drojdiilor si sporilor bacterieni. Activitatea microbicida este crescuta in faza gazoasa, unde perioxidul de hidrogen actioneaza ca un oxidant atacand lipidele membranei, ADN-ul si ale componente celulare esentiale.",
+    "fullDescription": "Sterilantul Vaprox HC, care contine 59% peroxid de hidrogen, este un sterilizant cu peroxid de hidrogen conceput special pentru utilizare cu sisteme de sterilizare la temperatura joasa V-PRO maX, V-PRO maX 2, V-PRO s2, V-PRO 1 Plus, V-PRO 60 si V-PRO 1. Peste 40 de materiale si invelisuri ale acestora acum compatibile cu Sterilizantul Vaprox HC.\r\n\r\nCupa inteligenta a sterilizantului Vaprox HC (PB011 si PB012) este conceputa pentru a ajuta la economisirea timpului si a cheltuielilor cu sterilizarea cu peroxid de hidrogen care poate fi risipitoare. Cupa inteligenta de sterilizare VHP este echipata cu tehnologia RFID pentru a identifica automat daca nu mai aveti suficient sterilant sau daca se aproprie data de expirare, pentru a maximiza mai bine utilizarea sterilantului.\r\n\r\nCum functioneaza sterilantul Vaprox HC\r\nPeroxidul de hidrogen este un sterilizant bine cunoscut care demonstreaza o eficacitate cu spectru larg impotriva virusurilor, bacteriilor, drojdiilor si sporilor bacterieni. Activitatea microbicida este crescuta in faza gazoasa, unde perioxidul de hidrogen actioneaza ca un oxidant atacand lipidele membranei, ADN-ul si ale componente celulare esentiale.",
     "extLink": "https://www.steris.com/healthcare/products/v-pro-sterilizers/vaprox-hc-sterilant",
     "logoPic": "p-vaprox-hc-sterilant.webp",
-    "Thumbnail": "vaprox-hc-sterilant.webp"
+    "Thumbnail": "vaprox-hc-sterilant.webp",
+    "seoDescription": "Sterilant cu peroxid de hidrogen pentru sistemele de strilizare la temperatura joasa (cu plasma)"
   },
   {
     "name": "Solutie de perioxid de hidrogen HPV-AQ Bioquell",
@@ -1303,7 +1408,8 @@
     "fullDescription": "Bioquell HPV-AQ este o solutie apoasa de peroxid de hidrogen de inalta calitate, de inalta puritate, conceputa pentru a fi utilizata cu tehnologia Bioquell. Peroxidul are un singur ingredient activ si indeplineste standardele de reglementare din intreaga lume. Pentru o siguranta si o trasabilitate sporita, atunci cand este utilizat cu sticlutele specifice Bioquell, peroxidul poate fi urmarit prin utilizarea etichetelor RFID, asigurandu-se astfel utilizarea doar a perioxidului aprobat.\r\n\r\nSolutia apoasa de perioxid de hidrogen cu concentratie 35% de la Bioquell, cunoscuta si sub numele de Bioquell HPV-AQ este conceputa pentru a fi utilizata cu tehnologia avansata Bioquell cu vapori de perioxid de hidrogen. Procesul combinarii solutiei cu  tehnologia Bioquell a fost cercetat, testat si evaluat pentru a se asigura cicluri eficiente consecvente, prin furnizarea unei reduceri sporicide de 6 log verificate utilizand indicatori biologici standard.\r\n\r\nDisponibil intr-o gama de sticlute de diferite marimi",
     "extLink": "http://bioquell.tecture.net/wp-content/uploads/2021/08/UK-Bioquell-HPV-AQ-Product-Sheet-LS001-MKT-247.pdf",
     "logoPic": "p-hpv-aq-bioquell.webp",
-    "Thumbnail": "hpv-aq-bioquell.webp"
+    "Thumbnail": "hpv-aq-bioquell.webp",
+    "seoDescription": "Solutie apoasa de peroxid de hidrogen Bioquell pentru a asigura cicluri de sterilizare eficiente."
   },
   {
     "name": "Celerity 20 Steam ",
@@ -1314,7 +1420,8 @@
     "fullDescription": "Indicatorul biologic Celerity 20 pentru abur este utilizat pentru monitorizarea, clasificare sau testare de produs la 121°C (250°F) pana la 135°C (275°F) la extragerea dinamica la ciclurile de sterilizare cu abur.\r\nCand este utilizat in combinatie cu incubatorul cu abur Celerity, indicatorul ofera un raspuns florescent in mai putin de 20 de minute.\r\n\r\nCaracteristici\r\nTimp de incubare de doar 20 de minute si rotirea rapida a dispozitivului.\r\nCodul de bare de pe eticheta indicatorului de procesare creaza usor documentati electronica a numarului de lot si a datei de a expirare.\r\nIndicatorul biologic se activeaza prin Twist & Flick (Invarte si Apasa), reducand potentiala contaminare a activarii excesive a flaconului si elimina necesitatea unui al 2-lea activator.\r\nConceptul indicatorului biologic fara sticla reduce potentialele raniri provocate de spargerea sticlei.\r\nCapacul albastru si etichetarea permit indentificarea usoara a procesului de sterilizare.",
     "extLink": "https://www.steris.com/healthcare/products/sterility-assurance-and-monitoring/biological-indicators/celerity-20-steam-biological-indicator",
     "logoPic": "p-celerity-20-steam.webp",
-    "Thumbnail": "celerity-20-steam.webp"
+    "Thumbnail": "celerity-20-steam.webp",
+    "seoDescription": "Indicator biologic pentru abur Celerity 20 monitorizeaza parametrii ciclului de sterilizare (calitatea aburului)."
   },
   {
     "name": "Celerity 20 HP",
@@ -1322,10 +1429,11 @@
     "category": "Sterilizare",
     "subcategory": "Consumabile",
     "smallDescription": "Indicator biologic pentru V-Pro si Sterrad",
-    "fullDescription": "Indicatorul biologic Celerity 20 HP este un indicatod biologic de unica folosinta conceputi pentru a monitoriza atat sistemele de sterilizare la temperatura joasa V-PRO, cat si modelele Sterrad*, oferind o citire finala in 20 de minute de la incubare. Fiecare indicator este autonom, inoculat cu spori bacterieni Geobacillus stearothermophilus si contine un mediu definit in capacul flaconului. Eticheta de pe capacul flaconului include un indicator de proces pentru peroxid de hidrogen. ",
+    "fullDescription": "Indicatorul biologic Celerity 20 HP este un indicator biologic de unica folosinta conceputi pentru a monitoriza atat sistemele de sterilizare la temperatura joasa V-PRO, cat si modelele Sterrad, oferind o citire finala in 20 de minute de la incubare. Fiecare indicator este autonom, inoculat cu spori bacterieni Geobacillus stearothermophilus si contine un mediu definit in capacul flaconului. Eticheta de pe capacul flaconului include un indicator de proces pentru peroxid de hidrogen. ",
     "extLink": "https://shop.steris.com/en/us/steris-biological-indicators/celerity-20-hp-biological-indicator?fetchFacets=true#facet:&productBeginIndex:0&facetLimit:&orderBy:&pageView:CPP&minPrice:&maxPrice:&pageSize:&",
     "logoPic": "p-celerity-20-hp.webp",
-    "Thumbnail": "celerity-20-hp.webp"
+    "Thumbnail": "celerity-20-hp.webp",
+    "seoDescription": "Indicator biologic ce contine un mediu de cultura in capac si o eticheta cu un indicator de proces inclus."
   },
   {
     "name": "Vapour Strip",
@@ -1336,7 +1444,8 @@
     "fullDescription": "Indicatorul tip banda Vapour Strip cu peroxid de hidrogen de la Browne este destinata utilizarii de catre furnizorii de servicii medicale pentru monitorizarea sistemului de sterilizare Sterrad. Banda Vapour este validata pentru utilizare in sterilizatoarele Sterrad NX si Sterrad 100S. Cand este plasata in tavi, pachete sau pungi, indicatorul Vapour Strip confirma ca sterilizantul a patruns pana la punctul de plasare.\r\n\r\nConform cu ISO 11140-1 Tip 4\r\n\r\nDisponibil in cutii cu 200 de indicatori.",
     "extLink": "https://www.steris-healthcare.com/medias/docs/a928dee81287ae231f8a499f9582f19d5aa2685a.pdf",
     "logoPic": "p-vapour-strip-steris.webp",
-    "Thumbnail": "vapour-strip-steris.webp"
+    "Thumbnail": "vapour-strip-steris.webp",
+    "seoDescription": "Indicator de proces tip banda cu peroxid de hidrogen pentru verificarea calitativa a procesului de sterilizare pentru Sterrad."
   },
   {
     "name": "Browne Bio Monitors",
@@ -1358,7 +1467,8 @@
     "fullDescription": "Infectiile tractului urinar, asociate cu cateterele (CAUTI) au o contributie majora la infectiile din unitatile sanitare (HAI). Aceste infectii pot genera complicatii grave, precum urosepsia, care cresc suferinta pacientului, mortalitatea si costurile sanitare. In plus, multe din aceste infectii sunt tratate cu antibiotice, crescand riscul aparitiei si raspandirii microbilor multirezsistenti. OMS estimeaza ca rezistenta antimicrobiala este un fenomen atat de grav, incat ameninta cuceririle medicinii moderne. \r\n\r\nCateterul BIP Foley este o sonda urinara, din LATEX, cu invelis Bactiguard. De asemenea, este prevzaut cu un invelis hidrogel care faciliteaza introducerea si extragerea cateterului. Hidrogelul reduce frictiunea si lezarea uretrei de catre materialul cateterului.\r\n\r\nBIP – Protectia antiinfectioasa Bactiguard \r\nTehnologia Bactiguard de protectie antiinfectioasa are la baza aplicarea unui invelis extrem de subtire din metal nobil, format din aur, argint si paladium, la dispozitivele medicale. Invelisul Bactiguard adera ferm la suprafata dispozitivului si reduce aderenta si proliferarea microbilor. Aceasta se realizeaza fara efecte \r\nfarmacologice sau toxice. Solutia este unica. Este eficienta si, totodata, biocompatibila, protejeaza tesuturile si creste siguranta pacientului. Astfel, protectia antiinfectioasa Bactiguard este un factor important in prevenirea HAI si reduce utilizarea antibioticelor.\r\n\r\nDisponibile cu 2 sau 3 cai, intr-o gama larga de dimensiuni",
     "extLink": "https://www.bactiguard.com/products/urology/bip-foley-catheter/",
     "logoPic": "p-cateter-bip-bactiguard-latex.webp",
-    "Thumbnail": "cateter-bip-bactiguard-latex.webp"
+    "Thumbnail": "cateter-bip-bactiguard-latex.webp",
+    "seoDescription": "Sonda urinara Bactiguard din latex cu invelis antiinfectios din aur, argint si paladium."
   },
   {
     "name": "Sonda urinara BIP Foley - SILICON",
@@ -1369,7 +1479,8 @@
     "fullDescription": "Infectiile tractului urinar, asociate cu cateterele (CAUTI) au o contributie majora la infectiile din unitatile sanitare (HAI). \r\nAceste infectii pot genera complicatii grave, precum urosepsia, care cresc suferinta pacientului, mortalitatea si costurile sanitare. In plus, multe din aceste infectii sunt tratate cu antibiotice, crescand riscul aparitiei si raspandirii microbilor multirezsistenti. OMS estimeaza ca rezistenta antimicrobiala este un fenomen atat de grav, incat ameninta cuceririle medicinii moderne. \r\n\r\nCateterul BIP Foley - este un cateter, din SILICON, cu invelis Bactiguard. De asemenea, este prevzaut cu un invelis hidrogel care faciliteaza introducerea si extragerea cateterului. Hidrogelul reduce frictiunea si lezarea uretrei de catre materialul cateterului.\r\n\r\nBIP – Protectia antiinfectioasa Bactiguard \r\nTehnologia Bactiguard de protectie antiinfectioasa are la baza aplicarea unui invelis extrem de subtire din metal nobil, format din aur, argint si paladium, la dispozitivele medicale. Invelisul Bactiguard adera ferm la suprafata dispozitivului si reduce aderenta si proliferarea microbilor. Aceasta se realizeaza fara efecte \r\nfarmacologice sau toxice. Solutia este unica. Este eficienta si, totodata, biocompatibila, protejeaza tesuturile si creste siguranta pacientului. Astfel, protectia antiinfectioasa Bactiguard este un factor important in prevenirea HAI si reduce utilizarea antibioticelor.\r\n\r\nDisponibile cu 2 sau 3 cai, intr-o gama larga de dimensiuni",
     "extLink": "https://www.bactiguard.com/products/urology/bip-foley-catheter-silicone/",
     "logoPic": "p-cateter-bip-bactiguard-silicon.webp",
-    "Thumbnail": "cateter-bip-bactiguard-silicon.webp"
+    "Thumbnail": "cateter-bip-bactiguard-silicon.webp",
+    "seoDescription": "Cateter urinar Bactiguard din silicon cu ioni de argint si metale nobile."
   },
   {
     "name": "Cateter Foley ProfilCath Aquaflate Glicerina",
@@ -1380,7 +1491,8 @@
     "fullDescription": "Cateter Foley Brillant ProfilCath Aquaflate Glicerina\r\n\r\nFabricat din silicon, transparent, cu canale longitudinale pentru drenarea secretiilor uretrale, cu seringa preumpluta pentru umflarea balonului\r\nSeringa preumpluta in ambalaj steril (10 ml solutie sterila de glicerina 10%)\r\nValva pentru varfuri de seringa Luer si Luer-lock\r\nVarf radio-opac si banda de contrast pe coada cateterului\r\nNu contine Latex\r\n\r\nCateter disponibil intr-o gama intreaga de marimi",
     "extLink": "https://www.teleflex-homecare.co.uk/products/urology-continence/foley-catheters/brillant-plus-aquaflate/",
     "logoPic": "p-brillant-glicerina.webp",
-    "Thumbnail": "brillant-glicerina.webp"
+    "Thumbnail": "brillant-glicerina.webp",
+    "seoDescription": "Sonda urinara tip foley Teleflex din silicon transparent cu seringa preumpluta cu glicerina"
   },
   {
     "name": "Cateter Foley Brillant Aquaflate Glicerina",
@@ -1391,7 +1503,8 @@
     "fullDescription": "Cateter Foley Brillant Aquaflate Glicerina\r\n\r\nFabricat din silicon, transparent, cu seringa preumpluta pentru umflarea balonului\r\nSeringa preumpluta in ambalaj steril (10 ml solutie sterila de glicerina 10%)\r\nValva pentru varfuri de seringa Luer si Luer-lock \r\nVarf radio-opac si banda de contrast pe coada cateterului \r\nNu contine latex\r\n\r\nCateter disponibil intr-o gama intreaga de marimi",
     "extLink": "https://www.teleflex-homecare.co.uk/products/urology-continence/foley-catheters/brillant-aquaflate/",
     "logoPic": "p-brillant-glicerina-cateter.webp",
-    "Thumbnail": "brillant-glicerina-cateter.webp"
+    "Thumbnail": "brillant-glicerina-cateter.webp",
+    "seoDescription": "Sonda foley Teleflex  un dispozitiv medical steril cu seringa pentru umplerea balonului, varf radoopac si valva Luer lock."
   },
   {
     "name": "Cateter Foley Brillant",
@@ -1402,7 +1515,8 @@
     "fullDescription": "Cateter Foley Brillant Rüsch\r\n\r\nFabricat din silicon, transparent\r\nValva pentru varfuri de seringa Luer si Luer-lock \r\nVarf radio-opac si banda de contrast pe coada cateterului \r\nNu contine latex\r\n\r\nCateter disponibil intr-o gama intreaga de marimi",
     "extLink": "https://www.teleflex-homecare.co.uk/products/urology-continence/foley-catheters/brillant-aquaflate/",
     "logoPic": "p-rusch-brillant-simplu.webp",
-    "Thumbnail": "rusch-brillant-simplu.webp"
+    "Thumbnail": "rusch-brillant-simplu.webp",
+    "seoDescription": "Cateter pentru drenaj postoperator Brillant Rusch din silicon"
   },
   {
     "name": "Cateter Foley Silasil",
@@ -1413,7 +1527,8 @@
     "fullDescription": "Cateter Foley Rüsch Silasil\r\nFabricat din latex, rezistent la abraziuni, invelis interior si exterior din elastomer silicon, albastru\r\nValva pentru varfuri de seringa Luer si Luer-lock\r\n\r\nCateter disponibil intr-o gama intreaga de marimi",
     "extLink": "https://www.teleflex-homecare.it/prodotti/urologia-e-continenza/cateterismo-a-permanenza/silasil-plus/",
     "logoPic": "p-silasil-rusch.webp",
-    "Thumbnail": "silasil-rusch.webp"
+    "Thumbnail": "silasil-rusch.webp",
+    "seoDescription": "Sonda urinara din latex Rusch Teleflex cu exterior din elastomer silicon albastru"
   },
   {
     "name": "Cateter Foley SoftSimplastic",
@@ -1424,7 +1539,8 @@
     "fullDescription": "Cateter Foley SoftSimplastic\r\nFabricat din PVC, transparent \r\nTermosensibil \r\nBalon de latex\r\nValva pentru varfuri de seringa Luer si Luer-lock\r\nBanda de contrast rosie pe coada cateterului\r\nSteril, de unica folosinta\r\n\r\nCateter disponibil intr-o gama intreaga de marimi",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/urology/indwelling-catheters/",
     "logoPic": "p-softsimplastic-rusch.webp",
-    "Thumbnail": "softsimplastic-rusch.webp"
+    "Thumbnail": "softsimplastic-rusch.webp",
+    "seoDescription": "Cateter din PVC transparent termosensibil "
   },
   {
     "name": "Cateter Foley GOLD Rüsch",
@@ -1435,7 +1551,8 @@
     "fullDescription": "Cateter Foley GOLD Rüsch\r\nFabricat din latex, galben\r\nValva pentru varfuri de seringa \r\nLuer si Luer-lock\r\nPentru drenaj pe termen scurt \r\nSiliconizat\r\nSteril, de unica folosinta\r\n\r\nCateter disponibil intr-o gama intreaga de marimi",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/urology/indwelling-catheters/index.html#ruschgold",
     "logoPic": "p-rusch-gold.webp",
-    "Thumbnail": "rusch-gold.webp"
+    "Thumbnail": "rusch-gold.webp",
+    "seoDescription": "Cateter Gold Rusch din latex galben pentru drenajul pe scurta durata."
   },
   {
     "name": "Catetere Foley pentru copii",
@@ -1446,7 +1563,8 @@
     "fullDescription": "Copiii sunt mai sensibili la interventii chirurgicale decat adultii. De aceea este bine de stiut ca toate produsele Rüsch sunt fabricate cu o grija deosebita, pana la ultimul detaliu, si accea atentie deosebita este acordata varfurilor si ochiurilor pentru a ne asigura ca sunt complet netede si rotunjite.\r\n\r\nCateter Foley Brillant Aquaflate Glicerina, facut din silicon, transparent, cu seringa preumpluta pentru umflarea balonului\r\nCateter Foley Brillant Rüsch, facut din silicon, transparent\r\nCateter Foley Rüsch Sensor, fabricat din silicon, pentru masurarea temperaturii\r\n\r\nCatetere disponibil intr-o gama intreaga de marimi mici",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/urology/indwelling-catheters/index.html#silicone",
     "logoPic": "p-cateter-copii-rusch.webp",
-    "Thumbnail": "cateter-copii-rusch.webp"
+    "Thumbnail": "cateter-copii-rusch.webp",
+    "seoDescription": "Sonde urinare concepute special pentru copii, din diferite materiale, cu o gama larga de marimi pediatrice."
   },
   {
     "name": "Catetere drenaj postoperator",
@@ -1457,7 +1575,8 @@
     "fullDescription": "Cateter pentru drenaj postoperator cu 2 cai\r\nRüsch Brillant Foley, fabricat din silicon, transparent\r\nSoftSimplastic Foley, fabricat din PVC, transparent\r\nRüsch GOLD Foley, fabricat din latex, galben\r\n\r\nCateter pentru drenaj postoperator cu 3 cai\r\nRüsch Brillant Foley, fabricat din silicon, transparent\r\nFoley catheter, fabricat din silicon, transparent\r\nSoftSimplastic Foley, fabricat din PVC, transparent\r\nRüsch GOLD Foley, fabricat din latex, galben\r\n\r\nCateter disponibil intr-o gama intreaga de marimi",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/urology/indwelling-catheters/",
     "logoPic": "p-catater-drenaj-postoperator.webp",
-    "Thumbnail": "catater-drenaj-postoperator.webp"
+    "Thumbnail": "catater-drenaj-postoperator.webp",
+    "seoDescription": "Sonde pentru drenajul postoperator cu 2 sau 3 cai."
   },
   {
     "name": "Catetere ureterale",
@@ -1468,7 +1587,8 @@
     "fullDescription": "Cateterele ureterale sunt solutia pentru toate trecerile dificile din ureter \r\nCu invelis de hidrogel brevetat\r\nO mare varietate pentru diagnostice si terapie optima\r\n\r\nDisponibile intr-o gama larga de configuratii ale varfului si de dimensiuni.",
     "extLink": "https://www.teleflex.com/la/en/product-areas/urology/endourology/ureteral-catheters/index.html",
     "logoPic": "p-catetere-ureterale.webp",
-    "Thumbnail": "catetere-ureterale.webp"
+    "Thumbnail": "catetere-ureterale.webp",
+    "seoDescription": "Cateter ureteral pentru situatii dificile ideal pentru trecerile din ureter."
   },
   {
     "name": "Stenturi ureterale",
@@ -1479,7 +1599,8 @@
     "fullDescription": "Cu o gama larga de stenturi ureterale premium pentru aplicatii standard si speciale, pentru adulti si copii, Rüsch poate oferi stentul ureteral optim pentru aproape orice utilizare.\r\n\r\nStent ureteral Superglide cu supapa DD antireflux din poliuretan cu invelis din hidrogel, cu imbinare DD, supapa antireflux si marcator verde la capatul vezical.\r\nStent ureteral Superglide integral din poliuretan cu invelis din hidrogel, cu marcator verde si fir de retractie la capatul vezical.\r\nStent ureteral Superglide tumoral DD din poliuretan cu invelis din hidrogel, cu imbinare DD si cu marcator verde la capatul vezical. Rezistenta ridicata la deteriorare datorita sectiunii drepte a stentului care este ranforsat printr-o constructie speciala impletita.",
     "extLink": "https://www.teleflex.com/la/en/product-areas/urology/endourology/ureteral-stents/",
     "logoPic": "p-stenturi-ureterale.webp",
-    "Thumbnail": "stenturi-ureterale.webp"
+    "Thumbnail": "stenturi-ureterale.webp",
+    "seoDescription": "Stent ureteral cu invelis din hidrogel pentru aplicatii standard sau speciale, marimi pentru adulti si pediatrice."
   },
   {
     "name": "Seturi punctie 2-pasi",
@@ -1490,7 +1611,8 @@
     "fullDescription": "Teleflex face nefrostomia sigura, usoara si confortabila, atat pentru medic, cat si pentru pacient, cu instrumente de prima clasa care sunt gandite pana la ultimul detaliu. Dispozitivele de nefrostomie Rüsch sunt disponibile in seturi perfect potrivite pentru o tehnica in 2 sau 3 pasi. Urmatoarele dispozitive sunt, de asemenea, disponibile ambalate individual: canule de punctie, fire de ghidaj, dilatatoare, tuburi renax si catetere.\r\n\r\nSeturi punctie Superglide NPC 2-pasi contin:\r\nBranula de punctie in 2 parti cu marcaj prin ultrasunete la varf (3 inele de marcaj)\r\nFir de ghidaj rigid neinvelit cu varf curbat in forma de J in distribuitor, cu introductor, lungime 800 mm\r\nExtensor cateter din metal, lungime 325 mm, cu stilet de plastic\r\nCateter cu codita din poliuretan, radio-opac, aprox. 30 cm lungime, deschidere centrala, invelis hidrogel, 6 ochiuri de drenaj, ancose pentru retinerea suturii pe coada, cu conector Luer-lock\r\nAdaptor pentru punga de colectare urina (combinatie cu palnie LL)",
     "extLink": "https://www.teleflex.com/la/en/product-areas/urology/endourology/nephrostomy/",
     "logoPic": "p-set-nefrostomie-2-pasi.webp",
-    "Thumbnail": "set-nefrostomie-2-pasi.webp"
+    "Thumbnail": "set-nefrostomie-2-pasi.webp",
+    "seoDescription": "Seturi de nefrostomie Teleflex cu punctie in 2 sau 3 pasi. "
   },
   {
     "name": "Seturi punctie 3-pasi",
@@ -1501,7 +1623,8 @@
     "fullDescription": "Teleflex face nefrostomia sigura, usoara si confortabila, atat pentru medic, cat si pentru pacient, cu instrumente de prima clasa care sunt gandite pana la ultimul detaliu. Dispozitivele de nefrostomie Rüsch sunt disponibile in seturi perfect potrivite pentru o tehnica in 2 sau 3 pasi. Urmatoarele dispozitive sunt, de asemenea, disponibile ambalate individual: canule de punctie, fire de ghidaj, dilatatoare, tuburi renax si catetere.\r\n\r\nSeturi punctie PCN 3-pasi contin:\r\nBranula de punctie in 2 parti cu marcaj prin ultrasunete la varf (3 inele de marcaj)\r\nFir de ghidaj rigid neinvelit cu varf curbat in forma de J in distribuitor, cu introductor, lungime 800 mm\r\nDilatator in 2 parti, deschidere centrala, aprox. 175 mm lungime, cu invelia al fantei, radio-opac\r\nCateter cu codita din poliuretan, radio-opac, aprox. 30 cm lungime, deschidere centrala, 6 ochiuri de drenaj, ancose pentru retinerea suturii pe coada, cu extensor codita crestat vertical si conector Luer-lock\r\nAdaptor pentru punga de colectare urina (combinatie cu palnie LL)",
     "extLink": "https://www.teleflex.com/la/en/product-areas/urology/endourology/nephrostomy/",
     "logoPic": "p-set-nefrostomie-3-pasi.webp",
-    "Thumbnail": "set-nefrostomie-3-pasi.webp"
+    "Thumbnail": "set-nefrostomie-3-pasi.webp",
+    "seoDescription": "Nefrostomie sigura cu seturile Teleflex potrivite tehnicilor cu 2 sau 3 pasi."
   },
   {
     "name": "Fire de ghidaj",
@@ -1512,7 +1635,8 @@
     "fullDescription": "Fire de ghidaj din otel inoxidabil\r\nVarf de siguranta drept, flexibil\r\nSteril, de unica folosinta\r\nNu contine latex\r\n\r\nDisponibile intr-o gama de modele si dimensiuni:\r\nFir de ghidaj, cu miez mobil\r\nFir de ghidaj din otel inoxidabil, cu invelis PTFE\r\nFir de ghidaj cu gradatie in cm pana la 50 cm ",
     "extLink": "https://www.teleflex.com/la/en/product-areas/urology/endourology/guidewires/",
     "logoPic": "p-fir-ghidaj-otel.webp",
-    "Thumbnail": "fir-ghidaj-otel.webp"
+    "Thumbnail": "fir-ghidaj-otel.webp",
+    "seoDescription": "Fir de ghidaj Rusch Teleflex din otel inoxidabil cu varf drept."
   },
   {
     "name": "Fire de ghidaj Nitrinol",
@@ -1523,7 +1647,8 @@
     "fullDescription": "Aplicare simpla datorita invelisului hidrofilic si manevrare precisa datorita mijlocului din Nitrinol\r\n\r\nMijlocul din Nitinol ofera rezistenta excelenta la indoire si stabilitate ridicata la rotatie\r\nVizibilitate ridicata in camera intunecata a endoscopiei datorita poliuretanului negru\r\nInvelisul hidrofilic ofera proprietati de alunecare excelente\r\nTranzitie neteda intre varful de siguranta si coada\r\nVarf de siguranta cu flexibilitate dreapta si angulata\r\nIn dispenser cu adaptor Luer-lock si introductor\r\n\r\nDisponibile intr-o gama de configuratii ale varfului si de marimi",
     "extLink": "https://www.teleflex.com/la/en/product-areas/urology/endourology/guidewires/",
     "logoPic": "p-fir-ghidaj-nitrinol.webp",
-    "Thumbnail": "fir-ghidaj-nitrinol.webp"
+    "Thumbnail": "fir-ghidaj-nitrinol.webp",
+    "seoDescription": "Fir de ghidaj din Nitriol cu rezistenta ridicata la indoire."
   },
   {
     "name": "Endoguide",
@@ -1531,10 +1656,11 @@
     "category": "Urologie",
     "subcategory": "Accesorii urologie",
     "smallDescription": "Fir de ghidaj din otel inoxidabil ",
-    "fullDescription": "Atraumatic si manipularea precisa\r\nTrecerea ușoară de la firul rigid la varful flexibil\r\nAcoperire PTFE\r\nCapatul proximal rigid\r\nVarful distal, drept sau in forma de J\r\nIn dozator, cu introductor\r\n\r\nDisponibile intr-o gama de configuratii ale varfului si de marimi",
+    "fullDescription": "Atraumatic si manipularea precisa\r\nTrecerea usoara de la firul rigid la varful flexibil\r\nAcoperire PTFE\r\nCapatul proximal rigid\r\nVarful distal, drept sau in forma de J\r\nIn dozator, cu introductor\r\n\r\nDisponibile intr-o gama de configuratii ale varfului si de marimi",
     "extLink": "https://www.teleflex.com/la/en/product-areas/urology/endourology/guidewires/",
     "logoPic": "p-fir-ghidaj-endoguide.webp",
-    "Thumbnail": "fir-ghidaj-endoguide.webp"
+    "Thumbnail": "fir-ghidaj-endoguide.webp",
+    "seoDescription": "Endoguide este un fir de ghidaj cu manevrare excelenta. Cel mai precis fir din gama Teleflex."
   },
   {
     "name": "Ace de punctie",
@@ -1544,7 +1670,8 @@
     "smallDescription": "Pentru proceduri in 2 pasi si 3 pasi",
     "fullDescription": "Ace de punctie din otel inoxidabil\r\nMarcaj ultrasunete la varf (3 inele de marcaj)\r\n2 parti sau 3 parti\r\nPentru proceduri in 2 pasi si 3 pasi\r\nSteril, de unica folosinta\r\nNu contine latex",
     "logoPic": "p-ace-punctie.webp",
-    "Thumbnail": "ace-punctie.webp"
+    "Thumbnail": "ace-punctie.webp",
+    "seoDescription": "Ac de punctie pentru proceduri de nefrostomie in 2 sau 3 pasi."
   },
   {
     "name": "Extractoare de calculi renali",
@@ -1555,7 +1682,8 @@
     "fullDescription": "Teleflex ofera diverse produse pentru tratarea pietrelor la ureter si la rinichi, cum ar fi extractoare de calculi si catetere de ocluzie. Datorita tehnicii precise de fabricatie a acestor dispozitive, chiar si procedurile complicate pot fi efectuate in siguranta, cu un risc minim de tratament, facand aplicarea lor mai comoda pentru pacient.\r\n\r\nCosuri din sarma plata Rüsch-StoneX cu forma externa simetrica, pentru manipularea precisa a pietrei chiar si in conditiile cele mai dificile\r\nCosuri din sarma plata Rotunda Rüsch-StoneX ofera o selectie larga de variante - adecvat pentru orice marime si forma a pietrei\r\n\r\nDisponibile intr-o gama de configuratii ale varfului si de marimi",
     "extLink": "https://www.teleflex.com/la/en/product-areas/urology/endourology/stone-extractors/",
     "logoPic": "p-extractoare-calculi-renali.webp",
-    "Thumbnail": "extractoare-calculi-renali.webp"
+    "Thumbnail": "extractoare-calculi-renali.webp",
+    "seoDescription": "Extractoare de calculi pentru tratamentul pietrlor de la ureter si richini."
   },
   {
     "name": "Dilatatori mecanici pentru ureter",
@@ -1566,7 +1694,8 @@
     "fullDescription": "Dilatatori mecanici pentru ureter pentru dilatare ureterala pas-cu-pas\r\nDilatatori din poliuretan\r\nExtrem de radio-opac\r\nGradatie in cm\r\n\r\nSet dilatator ureter model Vienna constand din dilatatori cu 9 marimi diferite si un fir de ghidaj cu varf de siguranta flexibil drept si gradatie in cm pana la 50 cm\r\n\r\nDisponibili individual cu diferite marimi sau ca set",
     "extLink": "https://www.teleflex.com/la/en/product-areas/urology/endourology/ureteral-dilators/",
     "logoPic": "p-dilatatori-mecanici.webp",
-    "Thumbnail": "dilatatori-mecanici.webp"
+    "Thumbnail": "dilatatori-mecanici.webp",
+    "seoDescription": "Dilatator mecanic cu 9 marimi diferite pentru dilatarea ureterala pas cu pas."
   },
   {
     "name": "Clip Horizon",
@@ -1577,7 +1706,8 @@
     "fullDescription": "Functionabilitate excelenta\r\nForma de galon a clipului Horizon asigura o inchidere sigura a tesutului margine-la-margine. \r\nForma de inima a conturului este destinata sa asigure o prindere ferma a clipului pe vase. \r\nSanturile transversale impiedica alunecarea clipului de-a lungul vasului. \r\nSanturile interne ale clipului Horizon clip sunt dimensionate astfel incat sa reduca forfecarea clipului. \r\nSectiunea triangulara a picioruselor clipului Horizon maximizeaza contactul suprafata-la-suprafata a clipului cu falcile aplicatorului, practice impiedicand caderea clipului din aplicator.\r\nClipurile sunt disponibile in cartuse de 6 si 24.\r\n\r\nDimensiuni disponibile: Microclip, S, M, ML si L",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/surgical/ligation-solutions/weck-metal-ligation/index.html",
     "logoPic": "p-clipuri-horizon.webp",
-    "Thumbnail": "clipuri-horizon.webp"
+    "Thumbnail": "clipuri-horizon.webp",
+    "seoDescription": "Clipuri metalice Horizon Teleflex "
   },
   {
     "name": "Clip Hemoclip",
@@ -1588,7 +1718,8 @@
     "fullDescription": "Ligaturarea clasica cu clip metalic pe care chirurgii se bazeaza de ani de zile\r\n\r\nSistem de incarcare prin friction fit\r\nDisponibile din titan si tantal\r\nBaza cartusului faciliteaza incarcarea\r\n\r\nDimensiuni disponibile: S, M, ML si L ",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/surgical/ligation-solutions/weck-metal-ligation/index.html",
     "logoPic": "p-clip-hemoclip.webp",
-    "Thumbnail": "clip-hemoclip.webp"
+    "Thumbnail": "clip-hemoclip.webp",
+    "seoDescription": "Ligaturare clasica marca Teleflex cu clip metalic cu sistem de incarcare friction fit."
   },
   {
     "name": "Clip Hem-o-lok",
@@ -1596,10 +1727,11 @@
     "category": "Chirurgie si laparoscopie",
     "subcategory": "Clipuri",
     "smallDescription": "Clipuri din Polimer",
-    "fullDescription": "Sistemul de ligaturare din polimer Weck Hem-o-lok ofera o siguranta neegalata a ligaturii in comparatie cu produsele concurentei, cu clipuri de ligaturare din polimer Weck Hem-o-lok integrate, crestate, si mecanismul distal de blocare, patentat.\r\n\r\nPolimerul neabsorbant din care este fabricat clipul Hem-o\u0002lok si balamaua flexibila permit trecerea printr-un orificiu de intrare mai mic si ofera o deschidere distala mai mare decat clipurile comparabile din metal. Astfel, clipurile Hem-o-lok pot ligatura structuri de pana la 10 mm printr-un orificiu de intrare de 5 mm, si structuri de pana la 16 mm printr-un orificiu de intrare de 10 mm.\r\n\r\nClipurile Hem-o-lok sunt disponibile in dimensiunile indicate pentru ligaturarea structurilor de la 2 mm pana la 16 mm.\r\nDimensiuni disponibile: M, ML, L si XL",
+    "fullDescription": "Sistemul de ligaturare din polimer Weck Hem-o-lok ofera o siguranta neegalata a ligaturii in comparatie cu produsele concurentei, cu clipuri de ligaturare din polimer Weck Hem-o-lok integrate, crestate, si mecanismul distal de blocare, patentat.\r\n\r\nPolimerul neabsorbant din care este fabricat clipul Hem-o-lok si balamaua flexibila permit trecerea printr-un orificiu de intrare mai mic si ofera o deschidere distala mai mare decat clipurile comparabile din metal. Astfel, clipurile Hem-o-lok pot ligatura structuri de pana la 10 mm printr-un orificiu de intrare de 5 mm, si structuri de pana la 16 mm printr-un orificiu de intrare de 10 mm.\r\n\r\nClipurile Hem-o-lok sunt disponibile in dimensiunile indicate pentru ligaturarea structurilor de la 2 mm pana la 16 mm.\r\nDimensiuni disponibile: M, ML, L si XL",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/surgical/ligation-solutions/weck-polymer-ligation/",
     "logoPic": "p-clip-hem-o-lok.webp",
-    "Thumbnail": "clip-hem-o-lok.webp"
+    "Thumbnail": "clip-hem-o-lok.webp",
+    "seoDescription": "Clip din polimer Weck Hem-o-lok cu mecanism de blocare patentat."
   },
   {
     "name": "Staple tesut Visistat",
@@ -1610,7 +1742,8 @@
     "fullDescription": "Dispozitivele de ligaturare de la Teleflex Weck Visistat indeplinesc atat nevoile chirurgului de a avea un instrument sigur si usor de manevrat, cat si pe cele ale pacientului pentru o recuperare rapida. Fiecare dispozitiv de ligaturare, de unica folosinta de la Visistat este echipat cu suturator de 35 sau mai mult de 35 de clipuri din otel inoxidabil pentru uz medical care pot fi utilizate intr-o gama larga de proceduri chirurgicale. \r\n\r\nAcest dispozitiv de precizie inglobeaza o fereastra pentru o mai buna vizibilitate si un mecanism de alimentare cu clipuri, patentat, pentru o eliberare rapida a acestora si pentru reducerea blocarii acestora. Datorita suturatoarelor mai ascutite, penetrarea tesutului este mult mai facila si mai putin traumatizanta. Drept urmare, chiar si scoaterea clipurilor se dovedeste a fi o procedura mai putin dureroasa datorita inaltimii clipurilor. ",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/surgical/skin-stapling-solutions/visistat-skin-stapler.html",
     "logoPic": "p-visistat-stapler-piele.webp",
-    "Thumbnail": "visistat-stapler-piele.webp"
+    "Thumbnail": "visistat-stapler-piele.webp",
+    "seoDescription": "Stampler de piele Visistat pentru clipuurile metalice si din polimer Teleflex."
   },
   {
     "name": "MemoBag",
@@ -1621,7 +1754,8 @@
     "fullDescription": "Dispozitivul MemoBag este o punga cu auto deschidere. Aceasta este livrat steril. Este un produs de unica folosinta.\r\nMemoBag proiectat pentru a fi introdus printr-un trocar standard cu diametrul de 10 mm. Imediat dupa introducerea pungii preincarcate prin trocar, un fir de nitinol care este intertesut prin deschiderea pungii, il deschide pe aceasta (datorita efectului de memorie) in interiorul corpului pacientului. Teaca introductorului cu canula impingatoare sunt apoi indepartate, lasand lumenul trocarului liber pentru alte instrumente. \r\nTesutul este pus in punga. Atunci cand procedura este incheiata, punga se inchide simplu doar prin tragerea buclei de sarma si se indeparteaza continutul acesteia printr-o incizie efectuata pacientului.\r\n\r\nMemoBag consta din mai multe componente: \r\nIntroductor cu teaca si punga de extractie preincarcata\r\nCanulă impingatoare \r\nAnsamblu fir nitinol\r\n\r\nDisponibila in volume de 200 ml, 800 ml si 1200 ml",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/surgical/percutaneous-laparoscopy/memobag-specimen-retrieval/index.html",
     "logoPic": "p-memobag.webp",
-    "Thumbnail": "memobag.webp"
+    "Thumbnail": "memobag.webp",
+    "seoDescription": "MemoBag este un dispozitiv pentru extractia de tesut sau organe in timpul procedurilor laparoscopice. "
   },
   {
     "name": "Traumastem",
@@ -1632,7 +1766,8 @@
     "fullDescription": "Traumastem este un reticul hemostatic resorbabil cu greutate si absorbtie mai mari. Este potrivit pentru o gama larga de operatii chirurgicale, in special pentru operatii ale organelor parenchimatice in chirurgia abdominala si toracica, proceduri endoscopice si chirurgia robotica. Traumastem este conceput pentru a opri sangerarile capilare difuze masive si sangerarile venoase mici. Traumastem are activitate antibacteriana semnificativa, contribuie la accelerarea proceselor biochimice si sporeste procesul de vindecare.\r\n\r\nIndicatii: Traumastem TAF este potrivit pentru utilizarea in chirurgie generala si digestiva, chirurgie plastica, chirurgie vasculara si toracica, neurochirurgie, ortopedie, ginecologie, urologie, stomatochirurgie si alte domenii.",
     "extLink": "https://www.bioster.eu/product/traumastem-taf",
     "logoPic": "p-traumastem-bioster.webp",
-    "Thumbnail": "traumastem-bioster.webp"
+    "Thumbnail": "traumastem-bioster.webp",
+    "seoDescription": "Traumastem este un dispozitiv hemostatic diin bumbac pur, steril si resorbabil care minimalizeaza pierderile de sange."
   },
   {
     "name": "Hemosep",
@@ -1643,7 +1778,8 @@
     "fullDescription": "Hemosep este creat pentru recuperarea sangelui pierdut in timpul operatiilor chirurgicale pe cord deschis si pentru traume majore si pentru concentrarea celulelor sanguine pentru transfuzie inapoi la pacient. Procesul reduce volumul de sange necesar de la un donator si problemele asociate cu reactia la transfuzie.\r\n\r\nDispozitivul consta intr-o punga de sange care foloseste tehnologia chimica a unui burete si un aparat de recuperare sange pentru a concentra sangele aspirat de la locul operatiei chirurgicale sau drenat din stimulatorul cardiopulmonar dupa operatia chirurgicala. Celulele separate sunt apoi returnate la pacient prin transfuzie intravenoasa. \r\n\r\nDispozitivul Hemosep este creat pentru a concentra sangele rezidual din timpul si dupa procedura operativa. Acest sange este foarte hemodiluat si, daca este retransmis pacientului in starea sa bruta, poate duce la sangerare excesiva si hemodiluarea pacientului in faza critica de recuperare post-chirurgicala. Concentrarea acestui produs sanguin la concentratii ale celuleor aproape normale (nivelul PCV 33-45%) il face potrivit pentru retransfuzie si reduce riscul de sangerare al sangelui neprocesat. Transfuzia sangelui autolog procesat reduce nevoia produselor sanguine de la donatori si reactiile asociate la transfuzie. Sub conditii clinice normale, dispozitivul Hemosep este menit sa concentreze sangele rezidual din PCV scazut (20% sau mai putin) la niveluri aproape normale (cel putin 33%) fara a fi nevoie de o tehnologie centrifuga.",
     "extLink": "https://www.advancissurgical.com/hemosep/",
     "logoPic": "p-hemosep-advancis.webp",
-    "Thumbnail": "hemosep-advancis.webp"
+    "Thumbnail": "hemosep-advancis.webp",
+    "seoDescription": "Hemosep de la Advancis este un dispozitiv pentru recuperarea, filtrarea si transfuzia sangelui in procedurile chirurgicale."
   },
   {
     "name": "AutoCat 2",
@@ -1654,7 +1790,8 @@
     "fullDescription": "Seria Arrow AutoCat 2 are doua modele, AutoCat 2 si AutoCat 2 WAVE. Fiecare model efectueaza aceleasi operatii si au aceleasi functii, cu exceptia uneia. Pompa AutoCat 2 WAVE poate accepta un senzor de presiune arteriala FiberOptix de la cateterele Arrow IAB cu aceasta caracteristica. Senzorul FiberOptix ofera un semnal PA de inalta fidelitate, practic in timp real, ce permite disponibilitatea unui algoritm de sincronizare fiziologic unic. Algoritmul WAVE monitorizeaza formele de unda ECG si PA, sau doar undele PA, doar ca sa determine setarile temporizarii inflatie, in timp real. Acest algoritm monitorizeaza semnalul PA a pacientilor pe baza ritmului si ajusteaza temporizarea inflatie specific acelei ritm.\r\nCand semnalul FiberOptix este disponibil, acesta este selectat si algoritmul de timp WAVE este utilizat automat. Toate celelalte functii ale pompelor sunt la fel pentru ambele modele.\r\n\r\nSistemul IABP din seria AutoCat 2 utilizeaza o tehnologie computerizata avansata pentru a selecta si mentine timpul si declansarea precisa a inflatiei si deflatiei IAB pe baza datelor fiziologice actuale ale pacientului. Sistemul ofera doua moduri de functionare, modul AutoPilot, unde majoritatea functiilor sunt selectate si controlate automat de IABP, si modul Operator, unde utilizatorul are control asupra majoritatii setarilor si selectiilor.\r\n\r\nSistemul este format din doua componente: modulul de comanda/afisare a pompei si modulul cu actionare pneumatica cu roti atasate, pentru transport usor. Un cablu de comunicatie de 3,6 m conecteaza modulul de comanda al pompei la modulul cu actionare pneumatica. Exteriorul seriei AutoCat 2 este conceput din spuma structurala pentru o greutate redusa si o durabilitate ridicata in timpul transportului. Pentru a va permite sa maximizati spatiul de lucru in timpul functionarii, modulul de control/afisare a pompei poate fi indepartat pentru confortul optim.\r\n\r\nAceasta serie de IABP reprezinta un sistem avansat bazat pe microprocesor conceput pentru aplicatii intraspitalicesti si in timpul transportului. Este compact, usor si poate functiona cu o capacitate operationala completa de minim 90/180 minute cu un acumulator.\r\n\r\nAvantaje\r\nSincronizarea contrapulsatiei IAB cu ritmul cardiac\r\nModuri de functionare automat sau manual\r\nRealizarea neintrerupta a contrapulsatiei, indiferent de cauzele dificile intampinate de pompa\r\nContrapulsatie continua pe parcursul schimbarii modului de lucru automat-manual, buteliei de Heliu, sursei de semnal a pacientului, triggerului contrapulsatiei, ratei de contrapulsatie\r\nMecanism de inflatie a balonului in volum, cu o admisie de gaz Heliu controlata volumetric precis\r\nControl al volumului de gaz heliu transmis balonului intra-aortic cu posibilitate de incrementare/decrementare 0,5cc\r\nLipsa nevoii de existenta a unui program/grafic de mentenanta privind inlocuirea oricarei piese de schimb sau consumabile\r\nDurata de viata nelimitata pentru componentele functionale principale ale consolei de contrapulsatie",
     "extLink": "https://www.teleflex.com/emea/en/product-areas/interventional/cardiac-assist/autocat-2-series-iabp/index.html",
     "logoPic": "p-autocat-2.webp",
-    "Thumbnail": "autocat-2.webp"
+    "Thumbnail": "autocat-2.webp",
+    "seoDescription": "Pompa de contrapulsatie intraaortica sau sistem IABP mentine temporar functia de pompare a inimii la pacientii cu insuficienta cardiaca."
   },
   {
     "name": "AutoCat 2 WAVE",
@@ -1673,10 +1810,11 @@
     "category": "Radiologie interventionala si contrapulsatie",
     "subcategory": "Contrapulsatie",
     "smallDescription": "Pompa cu balon intraaortic",
-    "fullDescription": "\r\nPompa cu balon intraaortic AC3 Optimus porneste prin apasarea unui buton. Setarea este rapida si facila, ghidata de indicatii vizuale pe ecranul tactil mare, de inalta definitie - incluzand confirmarea ca terapia poate fi initiata. In modul AutoPilot, the IABP AC3 Optimus ajusteaza automat parametrii de temporizare si declansare, permitand clinicianului sa se concentreze pe pacient, nu pe aparat. O simpla atingere a curbei grafice asigura accesul la comenzi, incluzand optiunea de a ajusta volumul.\r\n\r\nCu o platforma software extrem de avansata si o suita proprie de algoritmi, pompa cu balon intraaortic AC3 Optimus ofera suport hemodinamic exceptional intr-o gama larga de afectiuni ale pacientului. Un design usor de utilizat, o interfata intuitiva si un mod auto-pilot de ultima generatie o fac incredibil de simplu de utilizat. Cu aceasta combinatie imbatabila, Teleflex a modernizat terapia de contrapulsare, facand-o mai accesibila ca niciodata.\r\n\r\nStarea pacientului poate fi in continua schimbare - mentinerea terapiei optime necesita monitorizare si ajustare continua. Modul AutoPilot din a treia generatie a IABP AC3 Optimus faciliteaza urmarirea, sesizarea si adaptarea la schimbarea conditiilor, fara nicio interventie a medicului. \r\nModul Best Signal Analysis dentifica cel mai bun semnal pentru declansare si sincronizare, si implementeaza ajustarile cu o viteza si precizie mai mare decat a unui operator manual.",
+    "fullDescription": "\r\nPompa cu balon intraaortic AC3 Optimus porneste prin apasarea unui buton. Setarea este rapida si facila, ghidata de indicatii vizuale pe ecranul tactil mare, de inalta definitie - incluzand confirmarea ca terapia poate fi initiata. In modul AutoPilot, the IABP AC3 Optimus ajusteaza automat parametrii de temporizare si declansare, permitand clinicianului sa se concentreze pe pacient, nu pe aparat. O simpla atingere a curbei grafice asigura accesul la comenzi, incluzand optiunea de a ajusta volumul.\r\n\r\nCu o platforma software extrem de avansata si o suita proprie de algoritmi, pompa cu balon intraaortic AC3 Optimus ofera suport hemodinamic exceptional intr-o gama larga de afectiuni ale pacientului. Un design usor de utilizat, o interfata intuitiva si un mod auto-pilot de ultima generatie o fac incredibil de simplu de utilizat. Cu aceasta combinatie imbatabila, Teleflex a modernizat terapia de contrapulsare, facand-o mai accesibila ca niciodata.\r\n\r\nStarea pacientului poate fi in continua schimbare - mentinerea terapiei optime necesita monitorizare si ajustare continua. Modul AutoPilot din a treia generatie a IABP AC3 Optimus faciliteaza urmarirea, sesizarea si adaptarea la schimbarea conditiilor, fara nicio interventie a medicului. \r\nModul Best Signal Analysis identifica cel mai bun semnal pentru declansare si sincronizare, si implementeaza ajustarile cu o viteza si precizie mai mare decat a unui operator manual.",
     "extLink": "https://www.teleflex.com/emea/en/product-areas/interventional/cardiac-assist/ac3-intra-aortic-balloon-pump/index.html",
     "logoPic": "p-optimus-ac3.webp",
-    "Thumbnail": "optimus-ac3.webp"
+    "Thumbnail": "optimus-ac3.webp",
+    "seoDescription": "Pompa cu balon intraaortic AC3 Oprimus de la Teleflex este un sistem IABP de ultima generatie ce a moder"
   },
   {
     "name": "Ultra 8",
@@ -1687,7 +1825,8 @@
     "fullDescription": "Se potriveste perfect prin teaca introductoare de 8 Fr.\r\n0.025” diametru fir de ghidaj si lungime de 175 cm\r\nDiametru lumenului central de 0.027” - Conceput special pentru a minimaliza blocarea lichidului pe lumenul central\r\nVarf din otel inoxidabil\r\nCapteaza si trimite semnal AP de inalta definitie cu viteaza lumini - Colaboreaza cu componentele unice ale sistemelor AutoCat 2 Wave si AC3 Optimus pentru a livra Tehnologia ProActive CounterPulsation",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/interventional/cardiac-assist/intra-aortic-balloon-catheters/index.html",
     "logoPic": "p-ultra-8-arrow.webp",
-    "Thumbnail": "ultra-8-arrow.webp"
+    "Thumbnail": "ultra-8-arrow.webp",
+    "seoDescription": "Balon IAB pentru pompa de contrapulsatie"
   },
   {
     "name": "Ultra 8 umplut cu lichid",
@@ -1698,7 +1837,8 @@
     "fullDescription": "Se potriveste perfect cu teaca introductoare de 8 Fr.\r\nFid de ghidaj de 0.025”\r\nDiametru lumenului central de 0.027” - Conceput special pentru a minimaliza blocarea lichidului pe lumenul central\r\nVarf albastru moale si atraumatic",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/interventional/cardiac-assist/intra-aortic-balloon-catheters/index.html",
     "logoPic": "p-ultra-8-prefilled-arrow.webp",
-    "Thumbnail": "ultra-8-fluid-filled-arrow.webp"
+    "Thumbnail": "ultra-8-fluid-filled-arrow.webp",
+    "seoDescription": "Balonul de contrapulsatie intraaortica umplut cu lichid."
   },
   {
     "name": "UltraFlex 7.5",
@@ -1731,7 +1871,8 @@
     "fullDescription": "Fir de ghidaj de 0.030” - cel mai mare diametru disponibil pentru traking\r\nDiametru lumenului central de 0.032” pentru transmiterea excelenta a semnalului AP\r\nCorpul cateterului rezistent la indoire si flexibil, armat cu sarma - pentru evitarea cudarii in timpul insertiei si manipularii\r\nMentine forma circulara a lumenului pentru a asigura un sprijin constant pentru pacient\r\nSemnal de unde AP clare\r\nPerfect pentru firul de ghidare de 0.030”",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/interventional/cardiac-assist/intra-aortic-balloon-catheters/index.html",
     "logoPic": "p-rediguard-narrowflex.webp",
-    "Thumbnail": "rediguard-narrowflex.webp"
+    "Thumbnail": "rediguard-narrowflex.webp",
+    "seoDescription": "Cateter cu balon cu diametru mare a lumenului"
   },
   {
     "name": "Combo Plus",
@@ -1742,7 +1883,8 @@
     "fullDescription": "DES Pro-Healing - Proiectat pentru vindecarea rapida a vaselor si pentru o siguranta clinica superioara.\r\nCombo Plus cu tehnologia de captare EPC promoveaza vindecarea precoce a vaselor si a demonstrat in mod constant, prin mai multe studii clinice, siguranta si eficacitatea sa, atat la pacientii acuti, cat si la cei stabili, oferindu-le flexibilitatea optiunii DAPT scurte, daca este necesar.\r\n\r\nCombo Plus este mai mult decat un stent cu eliberare de medicamente (DES). Combo Plus ste o combinatie de componente traditionale DES cu adaugarea unui strat biologic.\r\nEliberarea de sirolimus dintr-un polimer bioabsorbabil. Polimerul bioabsorbabil brevetat este acoperit pe partea abluminala a stentului, permitand pentru eliberarea directionala a medicamentului in 30 de zile si absorbtia polimerului in 90 de zile.\r\n\r\nTip cateter: Rapid Exchange\r\nCompatibilitate ghid cateter: 5F\r\nCompatibilitate fir de ghidaj: 0.014”\r\nInvelis (corp / varf distal): invelis hidrofilic",
     "extLink": "https://orbusneich.com/product/combo-plus-dual-therapy-des/",
     "logoPic": "p-combo-plus.webp",
-    "Thumbnail": "combo-plus.webp"
+    "Thumbnail": "combo-plus.webp",
+    "seoDescription": "Stent cu terapie duala OrbusNeich cu eliberare de medicament "
   },
   {
     "name": "Sapphire 3",
@@ -1753,7 +1895,8 @@
     "fullDescription": "Cel mai competitiv profil de trecere si de intrare a varfului - Introducem marimea 0.85 mm\r\n\r\nVarf Sub-zero Flex conic cu „tranzitie zero cu firul de ghidaj”\r\nFlexibilitatea cateterului distal cu flexibilitate variabila pentru navigare exceptionala in interiorul anatomiilor complexe\r\nLivrabilitate imbunatatita cu lumenul firului de ghidaj extins la 30 cm pentru suport sporit si trackability \r\nHypotube taiat in spirala faciliteaza transmisia excelenta a fortei de la corpul proximal la varful distal, permitand in acelasi timp o flexibilitate generala echilibrata\r\n\r\nLungime de lucru cateter: 145 cm\r\nProfil de trecere: 0.0208”\r\nDiametrele baloanelor disponibile (mm): 0.85, 1.0, 1.25",
     "extLink": "https://orbusneich.com/product/sapphire-3-0-85-1-0mm/",
     "logoPic": "p-sapphire-3-orbus.webp",
-    "Thumbnail": "sapphire-3-orbus.webp"
+    "Thumbnail": "sapphire-3-orbus.webp",
+    "seoDescription": "Cateter de dilatare coronariana OrbusNeich permite navigarea in interiorul anatomiilor complexe sau torturoase."
   },
   {
     "name": "Sapphire II PRO",
@@ -1896,6 +2039,7 @@
     "fullDescription": "\r\nCalitatea invelisului balonului Legflow cu medicament este un pas major dincolo de invelisurile DCB contemporane de prima si a doua generatie. Legflow RX/OTW ofera o protectie 100% anti-proliferativa a peretilor vaselor si promoveaza vindecarea rapida dupa angioplastia cu balon.\r\n\r\nTratarea bolii arterelor periferice (PAD) in artera femurala superficiala (SFA) este o provocare dificila. Anatomia este foarte dinamica si contine leziuni complexe, dar si comorbiditatile pacientului precum diabetul necesita cea mai eficienta terapie clinic. Noul cateter de dilatare cu balon periferic cu eliberare de paclitaxel Legflow ofera cel mai de succes tratament clinic al bolii arterelor periferice si asigura o permeabilitate a vasului pe termen lung.\r\n\r\nRata stenozei recurente dupa PTA si stentarea sunt mai mari in zona de sub genunchi decat in ​​procedurile femoropoplitee. Absenta suporturilor metalice face ca balonul de dilatare Legflow sa fie adecvat pentru tratarea leziunilor lungi, in special in vasele cu diametru mic si in zonele in care pot aparea flexia si compresia stentului, ce pot duce la fracturi ale stentului. Datorita noii tehnologii stabile a invelisului „SAFEPAX” PTX, tratamentul pacientilor cu ischemie critica a membrelor pare la fel de sigur ca angioplastia POBA.\r\n\r\nLegflow OTW\r\nMaterial corp cateter: Poliamida\r\nMaterial balon: Poliamida\r\nLungime de lucru cateter: 150 cm\r\nFir de ghidaj max. recomandat: 0.0.14”\r\nMarime teaca introductoare: 4F\r\nInvelis Paclitaxel: 3.0μg/mm²\r\n\r\nLegflow OTW\r\nMaterial corp cateter: Otel inoxidabil\r\nMaterial balon: Poliamida\r\nLungime de lucru cateter: 140 cm\r\nFir de ghidaj max. recomandat: 0.0.14”\r\nMarime teaca introductoare: 5F ø 2.0 - 3.5 mm, 5F ø 4.0 mm\r\nInvelis Paclitaxel: 3.0 μg/mm²",
     "extLink": "https://cardionovum.de/legflow/",
     "logoPic": "p-legflow.webp",
-    "Thumbnail": "legflow.webp"
+    "Thumbnail": "legflow.webp",
+    "seoDescription": "Legflow este un balon acoperit cu medicament, mai eficeient ca cele cu invelis DCB, ce ajuta la vindecarea rapida dupa angioplastie."
   }
 ]

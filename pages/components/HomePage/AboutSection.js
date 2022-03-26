@@ -12,19 +12,19 @@ function AboutSection() {
       </div>
       <div className='flex flex-row space-x-5 py-10'>
         <div className='transform transition-all duration-700 hover:scale-105 h-[600px]'>
-          <img src='./images/1.png' alt='' className="mt-2"/>
+          <img src='./images/1.webp' alt='' className="mt-2"/>
         </div>
         <div className='transform transition-all duration-700 hover:scale-105 h-[600px]'>
-          <img src='./images/2.png' alt='' className="mt-6"/>
+          <img src='./images/2.webp' alt='' className="mt-6"/>
         </div>
         <div className='transform transition-all duration-700 hover:scale-105 h-[600px]'>
-          <img src='./images/3.png' alt='' className="mt-2"/>
+          <img src='./images/3.webp' alt='' className="mt-2"/>
         </div>
         <div className='transform transition-all duration-700 hover:scale-105 h-[600px]'>
-          <img src='./images/4.png' alt='' className="mt-6"/>
+          <img src='./images/4.webp' alt='' className="mt-6"/>
         </div>
         <div className='transform transition-all duration-700 hover:scale-105 h-[600px]'>
-          <img src='./images/5.png' alt='' className="mt-2"/>
+          <img src='./images/5.webp' alt='' className="mt-2"/>
         </div>
       </div>
       <h1 className='my-3 text-left w-full text-3xl'>Lorem ipsum dolor sit </h1>
