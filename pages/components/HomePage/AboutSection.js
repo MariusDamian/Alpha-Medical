@@ -18,7 +18,7 @@ function AboutSection() {
           <img src='./images/2.webp' alt='' className="mt-6"/>
         </div>
         <div className='transform transition-all duration-700 hover:scale-105 h-[600px]'>
-          <img src='./images/3.webp' alt='' className="mt-2"/>
+          <img src='./images/3.png' alt='' className="mt-2"/>
         </div>
         <div className='transform transition-all duration-700 hover:scale-105 h-[600px]'>
           <img src='./images/4.webp' alt='' className="mt-6"/>
