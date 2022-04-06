@@ -31,7 +31,7 @@ function SearchBar() {
         <div className='absolute inset-y-0 right-0 text-2xl mr-2 mt-1 text-blue-600'>{wordEntered.length === 0 ? <FcSearch /> : <AiFillCloseCircle onClick={clearInput} className='cursor-pointer' />}</div>
       </div>
       {filteredData.length != 0 && (
-        <div className='overflow-hidden h-96 overflow-y-auto absolute w-96 scrollbar-hidden bg-gray-200 p-2 rounded-l-2xl text-black mt-2'>
+        <div className='overflow-hidden h-96 overflow-y-auto absolute w-96 scrollbar-hidden bg-gray-200 p-2 rounded-l-2xl text-black mt-2 z-50'>
           {filteredData.map((produs, index) => (
             <Link key={index} href={`/${produs.category}/${produs.subcategory}/${produs.name}`.replaceAll(" ", "-").toLocaleLowerCase()}>
               <a href='' onClick={clearInput}>

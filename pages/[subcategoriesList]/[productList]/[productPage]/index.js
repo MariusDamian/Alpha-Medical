@@ -56,7 +56,7 @@ function ProductPage({ subcategoriesProps, categoriesProps, productsProps }) {
                 <img src={`/images/productImage/heroPic/${currentProduct[0].heroPic}`} alt='' className='' />
                 <div className='max-w-7xl h-auto flex flex-col lg:flex-row items-center justify-center mt-20'>
                   <img src={`/images/productImage/logoPic/${currentProduct[0].logoPic}`} alt='' className='lg:w-[50%] px-10' />
-                  <div className='lg:w-[50%] px-2 lg:px-10 h-[600px] overflow-hidden overflow-y-auto flex items-start flex-col'>
+                  <div className='lg:w-[50%] px-2 lg:px-10 h-[600px] overflow-hidden overflow-y-auto flex items-start justify-center flex-col'>
                     <p style={{ whiteSpace: "pre-line" }} className='tracking-tight leading-8 text-base text-gray-200'>
                       {currentProduct[0].fullDescription}
                     </p>

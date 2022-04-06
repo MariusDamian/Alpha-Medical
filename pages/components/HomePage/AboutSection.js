@@ -1,5 +1,6 @@
 import React from "react";
 import Typed from "react-typed";
+import Link from "next/dist/client/link";
 
 function AboutSection() {
   return (
@@ -11,26 +12,32 @@ function AboutSection() {
         </h2>
       </div>
       <div className='flex flex-row space-x-5 py-10'>
-        <div className='transform transition-all duration-700 hover:scale-105 h-[600px]'>
-          <img src='./images/1.webp' alt='' className="mt-2"/>
-        </div>
-        <div className='transform transition-all duration-700 hover:scale-105 h-[600px]'>
-          <img src='./images/2.webp' alt='' className="mt-6"/>
-        </div>
-        <div className='transform transition-all duration-700 hover:scale-105 h-[600px]'>
-          <img src='./images/3.png' alt='' className="mt-2"/>
-        </div>
-        <div className='transform transition-all duration-700 hover:scale-105 h-[600px]'>
-          <img src='./images/4.webp' alt='' className="mt-6"/>
-        </div>
-        <div className='transform transition-all duration-700 hover:scale-105 h-[600px]'>
-          <img src='./images/5.webp' alt='' className="mt-2"/>
-        </div>
+        <Link href='ati/acces-vascular'>
+          <div className='transform transition-all duration-700 hover:scale-105 h-[600px] cursor-pointer'>
+            <img src='./images/1.webp' alt='' className='mt-2' />
+          </div>
+        </Link>
+        <Link href='ati/managementul-cailor-respiratorii'>
+          <div className='transform transition-all duration-700 hover:scale-105 h-[600px] cursor-pointer'>
+            <img src='./images/2.webp' alt='' className='mt-6' />
+          </div>
+        </Link>
+        <Link href='ati/ventilatie-mecanica'>
+          <div className='transform transition-all duration-700 hover:scale-105 h-[600px] cursor-pointer'>
+            <img src='./images/3.webp' alt='' className='mt-2' />
+          </div>
+        </Link>
+        <Link href='protectie-impotriva-infectiilor/pansamente-chg'>
+          <div className='transform transition-all duration-700 hover:scale-105 h-[600px] cursor-pointer'>
+            <img src='./images/4.webp' alt='' className='mt-6' />
+          </div>
+        </Link>
+        <Link href='ati/monitorizare-functii-vitale'>
+          <div className='transform transition-all duration-700 hover:scale-105 h-[600px] cursor-pointer'>
+            <img src='./images/5.webp' alt='' className='mt-2' />
+          </div>
+        </Link>
       </div>
-      <h1 className='my-3 text-left w-full text-3xl'>Lorem ipsum dolor sit </h1>
-      <h2 className='text-base font-light w-full text-left'>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. <br></br> Alias et repellat blanditiis beatae quod quia eligendi, veritatis, necessitatibus itaque ut ex nulla, aliquam illum. <br></br> Magnam modi ut maxime officiis laboriosam!
-      </h2>
     </div>
   );
 }

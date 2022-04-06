@@ -309,7 +309,7 @@
     "seoDescription": "Paturi si halate incalzite de diferite forme si dimensiuni pentru sistemul de incalzire pacient 3M Bair Hugger."
   },
   {
-    "name": "Xprezzon ",
+    "name": "Xprezzon",
     "Producator": "SpaceLabs ",
     "category": "ATI",
     "subcategory": "Monitorizare functii vitale",
@@ -762,7 +762,7 @@
     "seoDescription": "Pansament cu gluconat de clorhexidina 3M Tegaderm CHG pentru fixarea cateterului, cu o parte adeziva transparenta si un pad cu gel 2% CHG."
   },
   {
-    "name": "Dispozitiv fixare CVP/CVC si CHG Tegaderm ",
+    "name": "Dispozitiv fixare CVC Tegaderm",
     "Producator": "3M",
     "category": "Protectie impotriva infectiilor",
     "subcategory": "Pansamente CHG",
@@ -846,7 +846,7 @@
     "seoDescription": "Manseta sau infuzorul de presiune Infuse Salter Labs este usor de utilizat pe toate tipurile de perfuzii."
   },
   {
-    "name": "Sistem oncologic Diana ACS ",
+    "name": "Sistem oncologic Diana ACS",
     "Producator": "ICU Medical",
     "category": "Oncologie",
     "subcategory": "Aparatura",
@@ -1126,7 +1126,7 @@
     "seoDescription": "Banda din poliester 3M Medipore H pentru securizarea pansamentelor, tuburi de drenaj, unde este necesara bandajarea repetata."
   },
   {
-    "name": "Tegaderm + Pad",
+    "name": "Tegaderm cu Pad",
     "Producator": "3M",
     "category": "Ingrijirea ranilor si a plagilor",
     "subcategory": "Pansamente",
@@ -1138,7 +1138,7 @@
     "seoDescription": "Bariera sterila, impermeabila si antibacteriana, 3M Tegaderm cu pad absorbant ofera protectie avansata pentru rani si incizii chirurgicale."
   },
   {
-    "name": "Tegaderm I.V.",
+    "name": "Tegaderm IV",
     "Producator": "3M",
     "category": "Ingrijirea ranilor si a plagilor",
     "subcategory": "Pansamente",
@@ -1233,7 +1233,7 @@
     "seoDescription": "Maca FFP3 pliabila si fara valva pentru protectia impotriva particulelor nevolatile."
   },
   {
-    "name": "Masca respiratorie 8710 ",
+    "name": "Masca respiratorie 8710",
     "Producator": "3M",
     "category": "Protectie impotriva infectiilor",
     "subcategory": "Masti de protectie",
@@ -1388,7 +1388,7 @@
     "seoDescription": "Detergent neutru concentrat Prolystica Steris pentru curatarea instrumentelor chirurgicale de resturi de grasimi."
   },
   {
-    "name": "Sterilant Vapox HC ",
+    "name": "Sterilant Vapox HC",
     "Producator": "Steris",
     "category": "Sterilizare",
     "subcategory": "Consumabile",
@@ -1412,7 +1412,7 @@
     "seoDescription": "Solutie apoasa de peroxid de hidrogen Bioquell pentru a asigura cicluri de sterilizare eficiente."
   },
   {
-    "name": "Celerity 20 Steam ",
+    "name": "Celerity 20 Steam",
     "Producator": "Steris",
     "category": "Sterilizare",
     "subcategory": "Consumabile",
@@ -1574,8 +1574,8 @@
     "smallDescription": "Catetere cu 2 sau 3 cai pentru drenaj",
     "fullDescription": "Cateter pentru drenaj postoperator cu 2 cai\r\nRüsch Brillant Foley, fabricat din silicon, transparent\r\nSoftSimplastic Foley, fabricat din PVC, transparent\r\nRüsch GOLD Foley, fabricat din latex, galben\r\n\r\nCateter pentru drenaj postoperator cu 3 cai\r\nRüsch Brillant Foley, fabricat din silicon, transparent\r\nFoley catheter, fabricat din silicon, transparent\r\nSoftSimplastic Foley, fabricat din PVC, transparent\r\nRüsch GOLD Foley, fabricat din latex, galben\r\n\r\nCateter disponibil intr-o gama intreaga de marimi",
     "extLink": "https://www.teleflex.com/usa/en/product-areas/urology/indwelling-catheters/",
-    "logoPic": "p-catater-drenaj-postoperator.webp",
-    "Thumbnail": "catater-drenaj-postoperator.webp",
+    "logoPic": "p-cateter-drenaj-postoperator.webp",
+    "Thumbnail": "cateter-drenaj-postoperator.webp",
     "seoDescription": "Sonde pentru drenajul postoperator cu 2 sau 3 cai."
   },
   {
@@ -1782,29 +1782,6 @@
     "seoDescription": "Hemosep de la Advancis este un dispozitiv pentru recuperarea, filtrarea si transfuzia sangelui in procedurile chirurgicale."
   },
   {
-    "name": "AutoCat 2",
-    "Producator": "Arrow",
-    "category": "Radiologie interventionala si contrapulsatie",
-    "subcategory": "Contrapulsatie",
-    "smallDescription": "Sistem IABP",
-    "fullDescription": "Seria Arrow AutoCat 2 are doua modele, AutoCat 2 si AutoCat 2 WAVE. Fiecare model efectueaza aceleasi operatii si au aceleasi functii, cu exceptia uneia. Pompa AutoCat 2 WAVE poate accepta un senzor de presiune arteriala FiberOptix de la cateterele Arrow IAB cu aceasta caracteristica. Senzorul FiberOptix ofera un semnal PA de inalta fidelitate, practic in timp real, ce permite disponibilitatea unui algoritm de sincronizare fiziologic unic. Algoritmul WAVE monitorizeaza formele de unda ECG si PA, sau doar undele PA, doar ca sa determine setarile temporizarii inflatie, in timp real. Acest algoritm monitorizeaza semnalul PA a pacientilor pe baza ritmului si ajusteaza temporizarea inflatie specific acelei ritm.\r\nCand semnalul FiberOptix este disponibil, acesta este selectat si algoritmul de timp WAVE este utilizat automat. Toate celelalte functii ale pompelor sunt la fel pentru ambele modele.\r\n\r\nSistemul IABP din seria AutoCat 2 utilizeaza o tehnologie computerizata avansata pentru a selecta si mentine timpul si declansarea precisa a inflatiei si deflatiei IAB pe baza datelor fiziologice actuale ale pacientului. Sistemul ofera doua moduri de functionare, modul AutoPilot, unde majoritatea functiilor sunt selectate si controlate automat de IABP, si modul Operator, unde utilizatorul are control asupra majoritatii setarilor si selectiilor.\r\n\r\nSistemul este format din doua componente: modulul de comanda/afisare a pompei si modulul cu actionare pneumatica cu roti atasate, pentru transport usor. Un cablu de comunicatie de 3,6 m conecteaza modulul de comanda al pompei la modulul cu actionare pneumatica. Exteriorul seriei AutoCat 2 este conceput din spuma structurala pentru o greutate redusa si o durabilitate ridicata in timpul transportului. Pentru a va permite sa maximizati spatiul de lucru in timpul functionarii, modulul de control/afisare a pompei poate fi indepartat pentru confortul optim.\r\n\r\nAceasta serie de IABP reprezinta un sistem avansat bazat pe microprocesor conceput pentru aplicatii intraspitalicesti si in timpul transportului. Este compact, usor si poate functiona cu o capacitate operationala completa de minim 90/180 minute cu un acumulator.\r\n\r\nAvantaje\r\nSincronizarea contrapulsatiei IAB cu ritmul cardiac\r\nModuri de functionare automat sau manual\r\nRealizarea neintrerupta a contrapulsatiei, indiferent de cauzele dificile intampinate de pompa\r\nContrapulsatie continua pe parcursul schimbarii modului de lucru automat-manual, buteliei de Heliu, sursei de semnal a pacientului, triggerului contrapulsatiei, ratei de contrapulsatie\r\nMecanism de inflatie a balonului in volum, cu o admisie de gaz Heliu controlata volumetric precis\r\nControl al volumului de gaz heliu transmis balonului intra-aortic cu posibilitate de incrementare/decrementare 0,5cc\r\nLipsa nevoii de existenta a unui program/grafic de mentenanta privind inlocuirea oricarei piese de schimb sau consumabile\r\nDurata de viata nelimitata pentru componentele functionale principale ale consolei de contrapulsatie",
-    "extLink": "https://www.teleflex.com/emea/en/product-areas/interventional/cardiac-assist/autocat-2-series-iabp/index.html",
-    "logoPic": "p-autocat-2.webp",
-    "Thumbnail": "autocat-2.webp",
-    "seoDescription": "Pompa de contrapulsatie intraaortica sau sistem IABP mentine temporar functia de pompare a inimii la pacientii cu insuficienta cardiaca."
-  },
-  {
-    "name": "AutoCat 2 WAVE",
-    "Producator": "Arrow",
-    "category": "Radiologie interventionala si contrapulsatie",
-    "subcategory": "Contrapulsatie",
-    "smallDescription": "Sistem IABP",
-    "fullDescription": "Seria Arrow AutoCat 2 are doua modele, AutoCat 2 si AutoCat 2 WAVE. Fiecare model efectueaza aceleasi operatii si au aceleasi functii, cu exceptia uneia. Pompa AutoCat 2 WAVE poate accepta un senzor de presiune arteriala FiberOptix de la cateterele Arrow IAB cu aceasta caracteristica. Senzorul FiberOptix ofera un semnal PA de inalta fidelitate, practic in timp real, ce permite disponibilitatea unui algoritm de sincronizare fiziologic unic. Algoritmul WAVE monitorizeaza formele de unda ECG si PA, sau doar undele PA, doar ca sa determine setarile temporizarii inflatie, in timp real. Acest algoritm monitorizeaza semnalul PA a pacientilor pe baza ritmului si ajusteaza temporizarea inflatie specific acelei ritm.\r\nCand semnalul FiberOptix este disponibil, acesta este selectat si algoritmul de timp WAVE este utilizat automat. Toate celelalte functii ale pompelor sunt la fel pentru ambele modele.\r\n\r\nSistemul IABP din seria AutoCat 2 utilizeaza o tehnologie computerizata avansata pentru a selecta si mentine timpul si declansarea precisa a inflatiei si deflatiei IAB pe baza datelor fiziologice actuale ale pacientului. Sistemul ofera doua moduri de functionare, modul AutoPilot, unde majoritatea functiilor sunt selectate si controlate automat de IABP, si modul Operator, unde utilizatorul are control asupra majoritatii setarilor si selectiilor.\r\n\r\nSistemul este format din doua componente: modulul de comanda/afisare a pompei si modulul cu actionare pneumatica cu roti atasate, pentru transport usor. Un cablu de comunicatie de 3,6 m conecteaza modulul de comanda al pompei la modulul cu actionare pneumatica. Exteriorul seriei AutoCat 2 este conceput din spuma structurala pentru o greutate redusa si o durabilitate ridicata in timpul transportului. Pentru a va permite sa maximizati spatiul de lucru in timpul functionarii, modulul de control/afisare a pompei poate fi indepartat pentru confortul optim.\r\n\r\nAceasta serie de IABP reprezinta un sistem avansat bazat pe microprocesor conceput pentru aplicatii intraspitalicesti si in timpul transportului. Este compact, usor si poate functiona cu o capacitate operationala completa de minim 90/180 minute cu un acumulator.\r\n\r\nAvantaje in plus fata de AutoCat 2\r\nProcesul de sincronizare tip Windkessel Aortic Valve Equation\r\nSincronizarea contrapulsatiei IAB cu fluxul aortic\r\nPort de conectare cu cateter ce transmite PA prin Fibra Optica\r\nCalibrare automata si permanenta la „zero” ale semnalelor de intrare fata de PA prin fibra optica, pentru eliminarea intarzierilor de timp dintre acestea\r\nLipsa valorilor minime sau constante ale PA transmise prin fibra optica\r\nSemnal continuu, neintrerupt al PA prin fibra optica\r\nSemnal PA fara necesitate de recalibrare sau repornire\r\nSemnal PA prin fibra optica fara artefacte senzoriale\r\nSemnal PA fara interferente electrice sau magnetice externe prin fibra optica",
-    "extLink": "https://www.teleflex.com/emea/en/product-areas/interventional/cardiac-assist/autocat-2-series-iabp/index.html",
-    "logoPic": "p-autocat-2.webp",
-    "Thumbnail": "autocat-2.webp"
-  },
-  {
     "name": "Optimus AC3",
     "Producator": "Arrow",
     "category": "Radiologie interventionala si contrapulsatie",
@@ -1852,7 +1829,7 @@
     "Thumbnail": "ultraflex-arrow.webp"
   },
   {
-    "name": "RediGuard ",
+    "name": "RediGuard",
     "Producator": "Arrow",
     "category": "Radiologie interventionala si contrapulsatie",
     "subcategory": "Contrapulsatie",
@@ -1910,7 +1887,7 @@
     "Thumbnail": "sapphire-ii-pro.webp"
   },
   {
-    "name": "Sapphire II PRO 1.0 mm",
+    "name": "Sapphire II PRO 1 mm",
     "Producator": "Orbus Neich",
     "category": "Radiologie interventionala si contrapulsatie",
     "subcategory": "Cardiologie",
@@ -2031,12 +2008,12 @@
     "Thumbnail": "scoreflex-av-fistula.webp"
   },
   {
-    "name": "Legflow OTW/RX",
+    "name": "Legflow OTW si RX",
     "Producator": "Cardionovum",
     "category": "Radiologie interventionala si contrapulsatie",
     "subcategory": "Periferic",
     "smallDescription": "Balon acoperit cu medicament Safepax PTX",
-    "fullDescription": "\r\nCalitatea invelisului balonului Legflow cu medicament este un pas major dincolo de invelisurile DCB contemporane de prima si a doua generatie. Legflow RX/OTW ofera o protectie 100% anti-proliferativa a peretilor vaselor si promoveaza vindecarea rapida dupa angioplastia cu balon.\r\n\r\nTratarea bolii arterelor periferice (PAD) in artera femurala superficiala (SFA) este o provocare dificila. Anatomia este foarte dinamica si contine leziuni complexe, dar si comorbiditatile pacientului precum diabetul necesita cea mai eficienta terapie clinic. Noul cateter de dilatare cu balon periferic cu eliberare de paclitaxel Legflow ofera cel mai de succes tratament clinic al bolii arterelor periferice si asigura o permeabilitate a vasului pe termen lung.\r\n\r\nRata stenozei recurente dupa PTA si stentarea sunt mai mari in zona de sub genunchi decat in ​​procedurile femoropoplitee. Absenta suporturilor metalice face ca balonul de dilatare Legflow sa fie adecvat pentru tratarea leziunilor lungi, in special in vasele cu diametru mic si in zonele in care pot aparea flexia si compresia stentului, ce pot duce la fracturi ale stentului. Datorita noii tehnologii stabile a invelisului „SAFEPAX” PTX, tratamentul pacientilor cu ischemie critica a membrelor pare la fel de sigur ca angioplastia POBA.\r\n\r\nLegflow OTW\r\nMaterial corp cateter: Poliamida\r\nMaterial balon: Poliamida\r\nLungime de lucru cateter: 150 cm\r\nFir de ghidaj max. recomandat: 0.0.14”\r\nMarime teaca introductoare: 4F\r\nInvelis Paclitaxel: 3.0μg/mm²\r\n\r\nLegflow OTW\r\nMaterial corp cateter: Otel inoxidabil\r\nMaterial balon: Poliamida\r\nLungime de lucru cateter: 140 cm\r\nFir de ghidaj max. recomandat: 0.0.14”\r\nMarime teaca introductoare: 5F ø 2.0 - 3.5 mm, 5F ø 4.0 mm\r\nInvelis Paclitaxel: 3.0 μg/mm²",
+    "fullDescription": "\r\nCalitatea invelisului balonului Legflow cu medicament este un pas major dincolo de invelisurile DCB contemporane de prima si a doua generatie. Legflow RX/OTW ofera o protectie 100% anti-proliferativa a peretilor vaselor si promoveaza vindecarea rapida dupa angioplastia cu balon.\r\n\r\nTratarea bolii arterelor periferice (PAD) in artera femurala superficiala (SFA) este o provocare dificila. Anatomia este foarte dinamica si contine leziuni complexe, dar si comorbiditatile pacientului precum diabetul necesita cea mai eficienta terapie clinic. Noul cateter de dilatare cu balon periferic cu eliberare de paclitaxel Legflow ofera cel mai de succes tratament clinic al bolii arterelor periferice si asigura o permeabilitate a vasului pe termen lung.\r\n\r\nRata stenozei recurente dupa PTA si stentarea sunt mai mari in zona de sub genunchi decat in ​​procedurile femoropoplitee. Absenta suporturilor metalice face ca balonul de dilatare Legflow sa fie adecvat pentru tratarea leziunilor lungi, in special in vasele cu diametru mic si in zonele in care pot aparea flexia si compresia stentului, ce pot duce la fracturi ale stentului. Datorita noii tehnologii stabile a invelisului „SAFEPAX” PTX, tratamentul pacientilor cu ischemie critica a membrelor pare la fel de sigur ca angioplastia POBA.\r\n\r\nLegflow OTW\r\nMaterial corp cateter: Poliamida\r\nMaterial balon: Poliamida\r\nLungime de lucru cateter: 150 cm\r\nFir de ghidaj max. recomandat: 0.0.14”\r\nMarime teaca introductoare: 4F\r\nInvelis Paclitaxel: 3.0μg/mm²\r\n\r\nLegflow RX\r\nMaterial corp cateter: Otel inoxidabil\r\nMaterial balon: Poliamida\r\nLungime de lucru cateter: 140 cm\r\nFir de ghidaj max. recomandat: 0.0.14”\r\nMarime teaca introductoare: 5F ø 2.0 - 3.5 mm, 5F ø 4.0 mm\r\nInvelis Paclitaxel: 3.0 μg/mm²",
     "extLink": "https://cardionovum.de/legflow/",
     "logoPic": "p-legflow.webp",
     "Thumbnail": "legflow.webp",
