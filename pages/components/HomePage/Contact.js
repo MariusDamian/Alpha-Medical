@@ -10,17 +10,17 @@ function Contact() {
       <div className='h-full mt-12 flex flex-col items-center justify-start rounded-3xl px-64 py-20'>
         <p className='text-3xl'>Ne puteti contacta aici</p>
         <div className='flex flex-row my-5 space-x-8 w-full'>
-          <div className='w-1/3 h-48 px-10 p-6 rounded-2xl flex flex-col space-y-3 bg-gray-900'>
+          <div className='w-1/3 h-48 px-5 p-6 rounded-2xl flex flex-col space-y-3 bg-gray-900'>
             <AiFillPhone className='text-3xl text-blue-500' />
             <p>Numar telefon</p>
             <p className='text-sm'>+40 21 323 14 23</p>
           </div>
-          <div className='w-1/3 h-48 px-10 p-6 rounded-2xl flex flex-col space-y-3 bg-gray-900'>
+          <div className='w-1/3 h-48 px-5 p-6 rounded-2xl flex flex-col space-y-3 bg-gray-900'>
             <HiOutlineMail className='text-3xl text-blue-500' />
             <p>Adresa email</p>
             <p className='text-sm'>office@alphamedical.ro</p>
           </div>
-          <div className='w-1/3 h-48 px-10 p-6 rounded-2xl flex flex-col space-y-3 bg-gray-900'>
+          <div className='w-1/3 h-48 px-5 p-6 rounded-2xl flex flex-col space-y-3 bg-gray-900'>
             <ImLocation className='text-3xl text-blue-500' />
             <p>Locatie</p>
             <p className='text-sm'>Str. Sandu-Aldea Constantin nr.22, Sector 1, Bucureşti</p>

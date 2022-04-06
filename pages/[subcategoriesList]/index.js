@@ -27,7 +27,7 @@ function SubcategoriesSelect({ subcategoriesProps, categoriesProps }) {
       <Navbar />
       <div className='h-20 pb-20 w-full'></div>
       <div className='pb-40'>
-        <div className={scrolled ? "w-full  backdrop-blur-md h-16 z-50 flex flex-row items-center justify-center fixed   bg-[#00001a]/80" : "w-full h-40 absolute flex flex-row items-center justify-center "}>
+        <div className={scrolled ? "w-full  backdrop-blur-md h-16 z-10 flex flex-row items-center justify-center fixed   bg-[#00001a]/80" : "w-full h-40 absolute flex flex-row items-center justify-center "}>
           <div className='flex flex-row items-center justify-center text-2xl max-w-7xl w-full mx-auto relative'>
             <div className='absolute left-0 hover:text-blue-400 w-full'>
               <Link href={"/#produse"}>
