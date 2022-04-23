@@ -17,18 +17,18 @@ function ProductPage({ subcategoriesProps, categoriesProps, productsProps }) {
   const { scrolled } = useContext(dataContext);
   const router = useRouter();
   const { subcategoriesList, productList, productPage } = router.query;
-  let currentCategory = categoriesProps?.filter((category) => category.catName.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList);
-  let currentSubCategory = subcategoriesProps?.filter((subCategory) => subCategory.subCatName.replace(/ /g, "-").toLocaleLowerCase() === productList);
-  let currentProduct = productsProps?.filter((produs) => produs.name.replace(/ /g, "-").toLowerCase() === productPage);
+  let currentCategory = categoriesProps?.find((category) => category.catName.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList);
+  let currentSubCategory = subcategoriesProps?.find((subCategory) => subCategory.subCatName.replace(/ /g, "-").toLocaleLowerCase() === productList);
+  let currentProduct = productsProps?.find((produs) => produs.name.replace(/ /g, "-").toLowerCase() === productPage);
   console.log(currentProduct);
   return (
     <>
       <Head>
         <title>
-          {currentProduct[0]?.name} | {currentProduct[0]?.Producator} | Alpha Medical
+          {currentProduct?.name} | {currentProduct?.Producator} | Alpha Medical
         </title>
-        <meta name='description' content={currentProduct[0]?.seoDescription ?? currentProduct[0]?.smallDescription} />
-        <meta name='keywords' content={currentProduct[0]?.seoKeywords} />
+        <meta name='description' content={currentProduct?.seoDescription ?? currentProduct?.smallDescription} />
+        <meta name='keywords' content={currentProduct?.seoKeywords} />
       </Head>
       <Navbar />
       <div className='h-20 pb-20 w-full'></div>
@@ -39,13 +39,13 @@ function ProductPage({ subcategoriesProps, categoriesProps, productsProps }) {
               <Link href={`/${subcategoriesList}/${productList}`}>
                 <button className='text-base'>
                   <BsFillArrowLeftSquareFill className='inline-block mr-3' />
-                  {currentSubCategory[0]?.subCatName}
+                  {currentSubCategory?.subCatName}
                 </button>
               </Link>
             </div>
             <div className='text-center flex flex-col items-center justify-center'>
-              <h1 className='lg:text-3xl text-2xl text-center text-gray-200 font-medium max-w-lg'>{currentProduct[0]?.name}</h1>
-              {!scrolled ? <h2 className='lg:text-lg text-center text-gray-200 max-w-xl mt-2'>{currentProduct[0]?.smallDescription}</h2> : null}
+              <h1 className='lg:text-3xl text-2xl text-center text-gray-200 font-medium max-w-lg'>{currentProduct?.name}</h1>
+              {!scrolled ? <h2 className='lg:text-lg text-center text-gray-200 max-w-xl mt-2'>{currentProduct?.smallDescription}</h2> : null}
             </div>
           </div>
         </div>
@@ -53,17 +53,17 @@ function ProductPage({ subcategoriesProps, categoriesProps, productsProps }) {
           <div className='h-auto flex flex-col items-center justify-center '>
             <div className='flex flex-col lg:flex-row items-center justify-center'>
               <div className='flex flex-col items-center justify-center'>
-                <img src={`/images/productImage/heroPic/${currentProduct[0].heroPic}`} alt='' className='' />
+                <img src={`/images/productImage/heroPic/${currentProduct.heroPic}`} alt='' className='' />
                 <div className='max-w-7xl h-auto flex flex-col lg:flex-row items-center justify-center mt-20'>
-                  <img src={`/images/productImage/logoPic/${currentProduct[0].logoPic}`} alt='' className='lg:w-[50%] px-10' />
+                  <img src={`/images/productImage/logoPic/${currentProduct.logoPic}`} alt='' className='lg:w-[50%] px-10' />
                   <div className='lg:w-[50%] px-2 lg:px-10 h-[600px] overflow-hidden overflow-y-auto flex items-start justify-center flex-col'>
                     <p style={{ whiteSpace: "pre-line" }} className='tracking-tight leading-8 text-base text-gray-200'>
-                      {currentProduct[0].fullDescription}
+                      {currentProduct.fullDescription}
                     </p>
                     <br />
                     <div className='w-56'>
-                      <a href={currentProduct[0].extLink} target='_blank' rel='noreferrer'>
-                        <img src={`/images/partnerLogo/${currentProduct[0].Producator}.svg`} className='w-56' alt='' />
+                      <a href={currentProduct.extLink} target='_blank' rel='noreferrer'>
+                        <img src={`/images/partnerLogo/${currentProduct.Producator}.svg`} className='w-56' alt='' />
                       </a>
                     </div>
                   </div>

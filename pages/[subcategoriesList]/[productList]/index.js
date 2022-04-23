@@ -17,13 +17,13 @@ function ProductList({ subcategoriesProps, categoriesProps, productsProps }) {
   const { scrolled } = useContext(dataContext);
   const router = useRouter();
   const { subcategoriesList, productList } = router.query;
-  let currentCategory = categoriesProps?.filter((category) => category.catName.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList);
-  let currentSubCategory = subcategoriesProps?.filter((subCategory) => subCategory.subCatName.replace(/ /g, "-").toLocaleLowerCase() === productList);
+  let currentCategory = categoriesProps?.find((category) => category.catName.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList);
+  let currentSubCategory = subcategoriesProps?.find((subCategory) => subCategory.subCatName.replace(/ /g, "-").toLocaleLowerCase() === productList);
   return (
     <>
       <Head>
         <title>
-          Produse {currentSubCategory[0]?.subCatName} | {currentCategory[0]?.catName} | Alpha Medical
+          Produse {currentSubCategory?.subCatName} | {currentCategory?.catName} | Alpha Medical
         </title>
         <meta name='description' content='Aparatura si echipamente medicale' />
       </Head>
@@ -36,13 +36,13 @@ function ProductList({ subcategoriesProps, categoriesProps, productsProps }) {
               <Link href={`/${subcategoriesList}`}>
                 <button className='text-base max-w-xs flex items-center text-left justify-center'>
                   <BsFillArrowLeftSquareFill className='inline-block mr-3' />
-                  {`Subcategorii ${currentCategory[0]?.catName}`}
+                  {`Subcategorii ${currentCategory?.catName}`}
                 </button>
               </Link>
             </div>
             <div className='text-center flex flex-col items-center justify-center'>
-              <h1 className='lg:text-3xl text-2xl text-gray-200 font-medium max-w-lg'>{`Produse ${currentCategory[0]?.catName} | ${currentSubCategory[0]?.subCatName}`}</h1>
-              {!scrolled ? <h2 className='lg:text-lg text-gray-200 max-w-xl mt-2'>{currentSubCategory[0]?.subCatDescription}</h2> : null}
+              <h1 className='lg:text-3xl text-2xl text-gray-200 font-medium max-w-lg'>{`Produse ${currentCategory?.catName} | ${currentSubCategory?.subCatName}`}</h1>
+              {!scrolled ? <h2 className='lg:text-lg text-gray-200 max-w-xl mt-2'>{currentSubCategory?.subCatDescription}</h2> : null}
             </div>
           </div>
         </div>
