@@ -18,8 +18,8 @@ function Navbar() {
   }, []);
 
   return (
-    <div className={scrolled ? "fixed w-full lg:flex items-center justify-center z-20 h-20 backdrop-blur-2xl" : "fixed w-full lg:flex items-center justify-center z-20 h-20  border-gray-500/0 hover:backdrop-blur-2xl transform backdrop-blur-none"}>
-      <div className='max-w-7xl mx-auto h-full w-full bg-opacity-30 flex flex-row'>
+    <div className={scrolled ? "fixed w-full lg:flex items-center justify-center z-20 h-36 backdrop-blur-2xl border-b-2 border-[#DEDEDE]" : "fixed w-full lg:flex items-center justify-center z-20 h-36 hover:backdrop-blur-2xl transform backdrop-blur-none border-b-2  border-[#DEDEDE]"}>
+      <div className='max-w-[1440px] mx-auto h-full w-full bg-opacity-30 flex flex-row'>
         <div className='flex items-center flex-row h-full w-1/2'>
           <a href='https://alphamedical.netlify.app/'>
             <img src='./images/logo.png' alt='logo' />

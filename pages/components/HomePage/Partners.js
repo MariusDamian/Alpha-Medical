@@ -1,11 +1,15 @@
 import React from "react";
 import partners from "../JSON/partners.json";
+import AlphaTitle from "../Reutils/AlphaTitle";
 
 function Partners() {
   return (
     <div className='bg-[#f0f0f0]'>
-      <div className='min-h-screen flex flex-col items-center justify-center max-w-[1440px] mx-auto' id='service'>
-        <h1 className='mt-20 pt-10 text-[70px] font-medium text-alpha-blue'>Parteneri</h1>
+      <div className='min-h-screen flex flex-col items-center justify-center max-w-[1440px] mx-auto'>
+        <div className='flex flex-row'>
+          <AlphaTitle title='Parteneri' />
+          <img src='./images/smallGrayTile.svg' alt='' className='ml-16' />
+        </div>
         <div className='lg:py-24 flex flex-col items-center justify-center'>
           <div className='flex flex-wrap'>
             {partners.map((partner, index) => (
