@@ -1,6 +1,6 @@
 import React, { useState } from "react";
-import { AiFillCloseCircle } from "react-icons/ai";
-import { FcSearch } from "react-icons/fc";
+import { IoMdClose } from "react-icons/io";
+import { BiSearch } from "react-icons/bi";
 import products from "../JSON/products.json";
 import Link from "next/link";
 
@@ -27,11 +27,11 @@ function SearchBar() {
   return (
     <div className='h-full'>
       <div className='relative'>
-        <input type='text' className={`rounded-2xl h-8 bg-gray-200 px-5 text-black font-normal w-44 focus:w-96 transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-blue-700 focus:border-transparent shadow-2xl ${wordEntered.length != 0 ? "w-96" : ""}`} placeholder='Caută produs...' onChange={handleFilter} value={wordEntered} />
-        <div className='absolute inset-y-0 right-0 text-2xl mr-2 mt-1 text-blue-600'>{wordEntered.length === 0 ? <FcSearch /> : <AiFillCloseCircle onClick={clearInput} className='cursor-pointer' />}</div>
+        <input type='text' className={`rounded-2xl h-8 bg-white px-5 text-black font-normal w-60 focus:w-96 transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-black/10 focus:border-transparent shadow-inner shadow-black/50 ${wordEntered.length != 0 ? "w-96" : ""}`} placeholder='Caută produs...' onChange={handleFilter} value={wordEntered} />
+        <div className='absolute inset-y-0 right-0 text-2xl mr-2 mt-1 text-gray-400'>{wordEntered.length === 0 ? <BiSearch /> : <IoMdClose onClick={clearInput} className='cursor-pointer' />}</div>
       </div>
       {filteredData.length != 0 && (
-        <div className='overflow-hidden h-96 overflow-y-auto absolute w-96 scrollbar-hidden bg-gray-200 p-2 rounded-l-2xl text-black mt-2 z-50'>
+        <div className='overflow-hidden h-96 overflow-y-auto absolute w-96 scrollbar-hidden bg-white p-2 rounded-l-2xl text-black mt-2 z-50'>
           {filteredData.map((produs, index) => (
             <Link key={index} href={`/${produs.category}/${produs.subcategory}/${produs.name}`.replaceAll(" ", "-").toLocaleLowerCase()}>
               <a href='' onClick={clearInput}>

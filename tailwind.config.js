@@ -5,6 +5,7 @@ module.exports = {
       colors: {
         "alpha-green": "#17A78A",
         "alpha-blue": "#2D485C",
+        "alpha-bg": "#F0F0F0",
       },
     },
   },
