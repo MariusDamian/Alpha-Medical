@@ -16,12 +16,12 @@ function SubcategoriesSelect({ subcategoriesProps, categoriesProps }) {
   const { scrolled } = useContext(dataContext);
   const router = useRouter();
   const { subcategoriesList } = router.query;
-  let currentCategory = categoriesProps?.filter((category) => category.catName.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList);
+  let currentCategory = categoriesProps?.find((category) => category.catName.replace(/ /g, "-").toLocaleLowerCase() === subcategoriesList);
 
   return (
     <>
       <Head>
-        <title>{currentCategory[0]?.catName} | Alpha Medical</title>
+        <title>{currentCategory?.catName} | Alpha Medical</title>
         <meta name='description' content='Aparatura si echipamente medicale' />
       </Head>
       <Navbar />
@@ -38,8 +38,8 @@ function SubcategoriesSelect({ subcategoriesProps, categoriesProps }) {
               </Link>
             </div>
             <div className='text-center flex flex-col items-center justify-center'>
-              <h1 className='lg:text-3xl text-2xl text-center text-gray-200 font-medium max-w-lg'>{`Subcategorii ${currentCategory[0]?.catName}`}</h1>
-              {!scrolled ? <h2 className='lg:text-lg text-center text-gray-200 max-w-xl mt-2'>{currentCategory[0]?.catDescription}</h2> : null}
+              <h1 className='lg:text-3xl text-2xl text-center text-gray-200 font-medium max-w-lg'>{`Subcategorii ${currentCategory?.catName}`}</h1>
+              {!scrolled ? <h2 className='lg:text-lg text-center text-gray-200 max-w-xl mt-2'>{currentCategory?.catDescription}</h2> : null}
             </div>
           </div>
         </div>
