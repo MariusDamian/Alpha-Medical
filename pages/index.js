@@ -7,6 +7,7 @@ import Partners from "./components/HomePage/Partners";
 import Navbar from "./components/Navbar/Navbar";
 import Footer from "./components/Footer/Footer";
 import Subhero from "./components/HomePage/Subhero";
+import Menu from "./components/Navbar/Menu";
 
 export default function Home() {
   return (
@@ -15,6 +16,7 @@ export default function Home() {
         <title>Alpha Medical | Aparatura si echipamente medicale</title>
         <meta name='description' content='Aparatura si echipamente medicale' />
       </Head>
+      <Menu/>
       <div className='hidden lg:flex'>
         <Navbar />
       </div>

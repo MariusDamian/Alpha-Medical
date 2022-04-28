@@ -10,7 +10,7 @@ function Hero() {
           <div className='flex flex-col items-start justify-center'>
             <AlphaTitle title='HAMILTON-C6' />
             <div className='max-w-xs my-11'>
-              <AlphaSubtitle title='Generatia noua de ventilatoare performante'/>
+              <AlphaSubtitle title='Generatia noua de ventilatoare performante' />
             </div>
             <button className='css-button-sliding-to-left--green'>DESCOPERA</button>
           </div>
