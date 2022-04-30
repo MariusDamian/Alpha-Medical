@@ -15,8 +15,8 @@ function Footer() {
         </div>
         <div className='w-1/4 flex flex-col items-start justify-start h-full'>
           <p className='text-xl mb-3 underline-offset-4 underline decoration-1'>Categorii</p>
-          {categories.map((categorie) => (
-            <Link href='/#home'>
+          {categories.map((categorie, key) => (
+            <Link key={key} href='/#home'>
               <button className='hover:text-alpha-green transform transition-all duration-300'>{categorie.catName}</button>
             </Link>
           ))}
