@@ -35,7 +35,7 @@ function SearchBar() {
           {filteredData.map(
             (produs, index) =>
               index < 15 && (
-                <Link key={index} href={`/${produs.category}/${produs.subcategory}/${produs.name}`.replaceAll(" ", "-").toLocaleLowerCase()}>
+                <Link key={index} href={`/produse/${produs.name}`.replaceAll(" ", "-").toLocaleLowerCase()}>
                   <a href='' onClick={clearInput}>
                     <div className='flex flex-row items-center mb-3'>
                       <img src={`/images/productImage/thumbnail/${produs.Thumbnail}`} alt='' className='w-20 p-1 mr-3 rounded-xl' />

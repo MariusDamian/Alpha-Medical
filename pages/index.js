@@ -1,7 +1,5 @@
 import Head from "next/head";
-import Image from "next/image";
 import AboutSection from "./components/HomePage/AboutSection";
-import Contact from "./components/HomePage/Contact";
 import Hero from "./components/HomePage/Hero";
 import Partners from "./components/HomePage/Partners";
 import Navbar from "./components/Navbar/Navbar";
@@ -24,7 +22,6 @@ export default function Home() {
       <Subhero/>
       <AboutSection />
       <Partners />
-      <Contact />
       <Footer />
     </div>
   );
