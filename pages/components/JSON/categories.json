@@ -2,27 +2,27 @@
   {
     "catName": "ATI",
     "catDescription": "Dispozitive medicale necesare sectiei de Anestezie si Terapie Intensiva",
-    "catImage": "categorie-ati.webp"
+    "catImage": "categorie-ati.png"
   },
   {
     "catName": "Chirurgie si laparoscopie",
     "catDescription": "Clipuri si dispozitive speciale utilizate in Chirurgie",
-    "catImage": "categorie-si-laparoscopie.webp"
+    "catImage": "categorie-si-laparoscopie.png"
   },
   {
     "catName": "Ingrijirea ranilor si a plagilor",
     "catDescription": "Pansamente speciale si creme",
-    "catImage": "categorie-ingrijirea-plagilor-ranilor.webp"
+    "catImage": "categorie-ingrijirea-plagilor-ranilor.png"
   },
   {
     "catName": "Protectie impotriva infectiilor",
     "catDescription": "Dispozitive necesare pentru a preveni infectarea",
-    "catImage": "categorie-protectie-imporiva-infectiilor.webp"
+    "catImage": "categorie-protectie-imporiva-infectiilor.png"
   },
   {
     "catName": "Oncologie",
     "catDescription": "Consumabile pentru administrarea medicamentelor in siguranta",
-    "catImage": "categorie-oncologie.webp"
+    "catImage": "categorie-oncologie.png"
   },
   {
     "catName": "Urologie",
@@ -32,11 +32,11 @@
   {
     "catName": "Sterilizare",
     "catDescription": "Pungi, role si sisteme pentru sterilizare",
-    "catImage": "categorie-sterilizare.webp"
+    "catImage": "categorie-sterilizare.png"
   },
   {
     "catName": "Radiologie interventionala si contrapulsatie",
     "catDescription": "Sisteme IABP si microcatetere",
-    "catImage": "categorie-radiologie-interventionala-contrapulsatie.webp"
+    "catImage": "categorie-radiologie-interventionala-contrapulsatie.png"
   }
 ]
