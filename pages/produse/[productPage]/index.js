@@ -30,18 +30,18 @@ function ProductPage({ productsProps }) {
       <div className='bg-alpha-bg pb-20'>
         <div className='h-full pt-36 flex flex-row max-w-[1440px] mx-auto'>
           <div className='w-1/2 flex flex-col'>
-            <div className='flex flex-row justify-between'>
+            <div className='flex flex-row justify-between mt-5'>
               <Link href={"/produse"}>
                 <button className='text-xl text-[#8D8D8D] hover:text-alpha-blue'>&lt; back</button>
               </Link>
-              <div className='flex flex-row space-x-2 p-2'>
+              {/* <div className='flex flex-row space-x-2 p-2'>
                 <button>
                   <img src='../../images/left-arrow.svg' alt='' />
                 </button>
                 <button>
                   <img src='../../images/right-arrow.svg' alt='' />
                 </button>
-              </div>
+              </div> */}
             </div>
 
             <h1 className='p-2 bg-[#7a9399] text-white w-fit my-8'>{currentProduct?.category}</h1>

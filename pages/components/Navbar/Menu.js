@@ -22,7 +22,7 @@ function Menu() {
               Produse
             </button>
           </Link>
-          <Link href={"/"}>
+          <Link href={"/parteneri"}>
             <button onClick={() => setMenu(false)} className='hover:text-alpha-green font-semibold transition-all duration-300'>
               <BsPlus className='inline-block mb-1 text-3xl' />
               Parteneri

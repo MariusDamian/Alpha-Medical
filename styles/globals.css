@@ -103,3 +103,8 @@
   height: 100%;
   background: #F0F0F0;
 }
+
+.max-left {
+  margin-left: max(0px, (100% - 1440px)/2);
+
+}
