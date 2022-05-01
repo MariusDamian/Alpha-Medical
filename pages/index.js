@@ -5,7 +5,6 @@ import Partners from "./components/HomePage/Partners";
 import Navbar from "./components/Navbar/Navbar";
 import Footer from "./components/Footer/Footer";
 import Menu from "./components/Navbar/Menu";
-import Subhero from "./components/HomePage/Subhero";
 import Products from "./components/HomePage/Products";
 
 export default function Home() {
@@ -20,7 +19,6 @@ export default function Home() {
         <Navbar />
       </div>
       <Hero />
-      <Subhero />
       <AboutSection />
       <Products/>
       <Partners />
