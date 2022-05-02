@@ -9,7 +9,7 @@ function Navbar() {
   const { menu, setMenu } = useContext(dataContext);
 
   const changeBackground = () => {
-    if (window.scrollY >= 100) {
+    if (window.scrollY >= 1) {
       setScrolled(true);
     } else {
       setScrolled(false);
