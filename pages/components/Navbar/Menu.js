@@ -8,7 +8,7 @@ function Menu() {
   const { menu, setMenu } = useContext(dataContext);
   return (
     <Slide direction='right' in={menu} style={{ zIndex: 10 }} transition={{ exit: { duration: 1 } }}>
-      <div className='w-[550px] bg-black/80 h-full fixed top-0 right-0 z-20 flex flex-col items-start justify-center space-y-5 text-white px-10 backdrop-blur-xl'>
+      <div className='lg:w-[550px] w-screen bg-black/80 h-full fixed top-0 right-0 z-20 flex flex-col items-start justify-center space-y-5 text-white px-10 backdrop-blur-xl'>
         <div className='text-2xl space-y-4 flex flex-col items-start mt-10'>
           <Link href={"/"}>
             <button onClick={() => setMenu(false)} className='hover:text-alpha-green font-semibold transition-all duration-300'>

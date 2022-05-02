@@ -8,6 +8,7 @@ import Menu from "../../components/Navbar/Menu";
 import AlphaTitle from "../../components/Reutils/AlphaTitle";
 import AlphaSubtitle from "../../components/Reutils/AlphaSubtitle";
 import Link from "next/link";
+import Products from "../../components/HomePage/Products";
 
 // Product Page
 
@@ -44,7 +45,7 @@ function ProductPage({ productsProps }) {
               </div> */}
             </div>
 
-            <h1 className='p-2 bg-[#7a9399] text-white w-fit my-8'>{currentProduct?.category}</h1>
+            <h1 className='p-2 px-4 bg-[#7a9399] text-white w-fit my-8'>{currentProduct?.category}</h1>
 
             <AlphaTitle title={currentProduct?.name} />
 
@@ -61,6 +62,7 @@ function ProductPage({ productsProps }) {
           <img src={`/images/productImage/logoPic/${currentProduct.logoPic}`} alt='' className='w-1/2' />
         </div>
       </div>
+      <Products />
       <Footer />
     </>
   );

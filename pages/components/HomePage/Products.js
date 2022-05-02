@@ -12,7 +12,7 @@ function Products() {
     <div className='flex flex-col items-end max-left mb-10'>
       <div className='flex flex-row w-full'>
         <div className='w-1/3 aspect-square'>
-          <img src={`./images/categoryImage/${categories[currentCategory].catImage}`} className='w-full' alt='' />
+          <img src={`../../images/categoryImage/${categories[currentCategory].catImage}`} className='w-full' alt='' />
         </div>
         <div className='w-1/3 aspect-square bg-black flex flex-col text-white px-20 pt-[15%] space-y-5 relative'>
           <div className='flex flex-row space-x-2 p-2 absolute top-0 right-0'>

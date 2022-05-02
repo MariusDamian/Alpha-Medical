@@ -23,13 +23,18 @@ function Navbar() {
   return (
     <div className={scrolled ? "fixed w-full lg:flex items-center justify-center z-20 h-36 backdrop-blur-lg border-b-2 bg-white/80 border-[#DEDEDE]" : "fixed w-full lg:flex items-center justify-center z-20 h-36 transform backdrop-blur-none border-b-2 border-[#DEDEDE]"}>
       <div className='max-w-[1440px] mx-auto h-full w-full bg-opacity-30 flex flex-row'>
-        <div className='flex items-center flex-row h-full w-1/2'>
+        <div className='hidden items-center flex-row h-full w-1/2 md:flex'>
           <Link href={"/"}>
-            <img src='../../images/logo.png' alt='logo' className="cursor-pointer" />
+            <img src='../../images/logo.png' alt='logo' className='cursor-pointer' />
+          </Link>
+        </div>
+        <div className='flex items-center flex-row h-full w-1/2 md:hidden ml-5'>
+          <Link href={"/"}>
+            <img src='../../images/mobileLogo.png' alt='logo' className='cursor-pointer' />
           </Link>
         </div>
         <div className='flex items-center justify-end flex-row h-full absolute right-0 mr-10'>
-          <div className='mr-16'>
+          <div className='mr-16 md:flex hidden'>
             <SearchBar />
           </div>
           <div className='h-10 w-10 flex items-center justify-center'>
