@@ -36,7 +36,7 @@ function Products() {
           </ul>
         </div>
       </div>
-      <div className='h-20 w-full bg-alpha-green flex flex-row items-center text-white'>
+      <div className='h-20 w-full bg-alpha-green lg:flex hidden flex-row items-center text-white'>
         {categories.map((categorie, key) => (
           <button className='px-8 h-full w-fit flex items-center border-t border-r text-left' key={key}>
             {categorie.catName}

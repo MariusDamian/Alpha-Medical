@@ -40,7 +40,7 @@ function Hero() {
               <button className='css-button-sliding-to-left--green'>DESCOPERA</button>
             </div>
           </div>
-          <div className='w-[55%] bg-cover' style={{ backgroundImage: `url(/images/crsImage/${carousel[crsNumber].crsImg})` }}></div>
+          <div className='w-[55%] bg-cover transition-all duration-300' style={{ backgroundImage: `url(/images/crsImage/${carousel[crsNumber].crsImg})` }}></div>
         </div>
         <div>
           <Subhero />
