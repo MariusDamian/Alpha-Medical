@@ -1,32 +1,32 @@
 ﻿[
   {
-    "crsTitle": "First product",
-    "crsDesc": "Generatia noua de ventilatoare performante",
-    "crsLink": "",
+    "crsTitle": "HAMILTON-MR1",
+    "crsDesc": "Ventilator inteligent pentru ATI si RMN",
+    "crsLink": "/produse/hamilton-mr1",
     "crsImg": "carusel-1.webp"
   },
   {
-    "crsTitle": "Second product",
-    "crsDesc": "Generatia noua de ventilatoare performante",
-    "crsLink": "",
+    "crsTitle": "HAMILTON-T1",
+    "crsDesc": "Ventilator de transport - Certificat pentru toate tipurile de transport",
+    "crsLink": "/produse/hamilton-t1",
     "crsImg": "carusel-2.webp"
   },
   {
-    "crsTitle": "Third product",
-    "crsDesc": "Generatia noua de ventilatoare performante",
-    "crsLink": "",
+    "crsTitle": "HAMILTON-C1",
+    "crsDesc": "Ventilator ATI Dimensiunea minima - performanta maxima",
+    "crsLink": "/produse/hamilton-c1",
     "crsImg": "carusel-3.webp"
   },
   {
-    "crsTitle": "HAMILTON-C4",
+    "crsTitle": "SonoSite X-Porte",
     "crsDesc": "Generatia noua de ventilatoare performante",
-    "crsLink": "",
+    "crsLink": "/produse/sonosite-x-porte",
     "crsImg": "carusel-4.webp"
   },
   {
-    "crsTitle": "HAMILTON-etc",
-    "crsDesc": "Generatia noua de ventilatoare performante",
-    "crsLink": "",
+    "crsTitle": "Alpha Medical",
+    "crsDesc": "Calitate pentru viata",
+    "crsLink": "/produse",
     "crsImg": "carusel-5.webp"
   }
 ]

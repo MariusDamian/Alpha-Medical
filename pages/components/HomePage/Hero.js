@@ -3,6 +3,7 @@ import AlphaSubtitle from "../Reutils/AlphaSubtitle";
 import { React, useState, useEffect, useContext } from "react";
 import carousel from "../JSON/carousel.json";
 import Subhero from "../HomePage/Subhero";
+import Link from "next/link";
 
 function Hero() {
   const [crsNumber, setCrsNumber] = useState(0);
@@ -37,7 +38,9 @@ function Hero() {
               <div className='max-w-xs my-11'>
                 <AlphaSubtitle title={carousel[crsNumber].crsDesc} />
               </div>
-              <button className='css-button-sliding-to-left--green'>DESCOPERA</button>
+              <Link href={carousel[crsNumber].crsLink}>
+                <button className='css-button-sliding-to-left--green'>DESCOPERA</button>
+              </Link>
             </div>
           </div>
           <div className='w-[55%] bg-cover transition-all duration-300' style={{ backgroundImage: `url(/images/crsImage/${carousel[crsNumber].crsImg})` }}></div>
