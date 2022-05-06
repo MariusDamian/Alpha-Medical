@@ -27,10 +27,10 @@ function Hero() {
           <div className='w-[45%] flex flex-col items-start justify-center h-full relative'>
             <div className='space-x-2 absolute right-0 top-0 p-2'>
               <button onClick={() => (crsNumber === 0 ? setCrsNumber(carousel.length - 1) : setCrsNumber(crsNumber - 1))}>
-                <img src='./images/left-arrow.svg' alt='' />
+                <img src='./images/left-arrow.svg' alt='' className='hover:scale-90 transform transition-all duration-500' />
               </button>
               <button onClick={() => (crsNumber < carousel.length - 1 ? setCrsNumber(crsNumber + 1) : setCrsNumber(0))}>
-                <img src='./images/right-arrow.svg' alt='' />
+                <img src='./images/right-arrow.svg' alt='' className='hover:scale-90 transform transition-all duration-500' />
               </button>
             </div>
             <div className='flex flex-col items-start justify-center w-full max-w-2xl'>

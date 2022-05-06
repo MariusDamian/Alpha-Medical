@@ -17,10 +17,10 @@ function Products() {
         </div>
         <div className='w-1/3 aspect-square bg-black flex flex-col text-white px-20 pt-[10%] space-y-5 relative'>
           <div className='flex flex-row space-x-2 p-2 absolute top-0 right-0'>
-            <button onClick={() => (currentCategory === 0 ? setCurrentCategory(categories.length - 1) : setCurrentCategory(currentCategory - 1))}>
+            <button onClick={() => (currentCategory === 0 ? setCurrentCategory(categories.length - 1) : setCurrentCategory(currentCategory - 1))} className='hover:scale-90 transform transition-all duration-500'>
               <img src='../../images/left-arrow.svg' alt='' />
             </button>
-            <button onClick={() => (currentCategory < categories.length - 1 ? setCurrentCategory(currentCategory + 1) : setCurrentCategory(0))}>
+            <button onClick={() => (currentCategory < categories.length - 1 ? setCurrentCategory(currentCategory + 1) : setCurrentCategory(0))} className='hover:scale-90 transform transition-all duration-500'>
               <img src='../../images/right-arrow.svg' alt='' />
             </button>
           </div>
@@ -30,7 +30,7 @@ function Products() {
             <button className='css-button-sliding-to-left--green !border-white !text-white hover:!border-alpha-green !w-12 !text-lg'>DESCOPERA</button>
           </Link>
         </div>
-        <div className={`w-1/3 aspect-square ${currentCategory % 2 == 0 ? "bg-[#A2DBFA]" : "bg-[#B3AAFF]"} flex flex-col p-20 py-28`}>
+        <div className={`w-1/3 aspect-square bg-[#73B6E7] flex flex-col p-20 py-28`}>
           <h1 className='text-4xl font-semibold'>Categorii</h1>
           <ul className='list-disc mt-10 space-y-2'>
             {currentSub.map((cat, key) => (
