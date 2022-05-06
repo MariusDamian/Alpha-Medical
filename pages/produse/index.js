@@ -50,8 +50,8 @@ function Produse() {
 
           <div className='grid grid-cols-4 gap-1'>
             {prodArray.map((product, key) => (
-              <Link href={`/produse/${product?.name.replace(/ /g, "-").toLowerCase()}`}>
-                <div className='bg-white cursor-pointer relative group' key={key}>
+              <Link href={`/produse/${product?.name.replace(/ /g, "-").toLowerCase()}`} key={key}>
+                <div className='bg-white cursor-pointer relative group'>
                   <img src={`images/productImage/logoPic/${product?.logoPic}`} alt='' className='scale-90' />
                   <div className='min-h-24 w-full bg-[#A2DBFA75]/50 backdrop-blur absolute bottom-0 z-50 group-hover:opacity-100 opacity-0 transition-all transform duration-500 p-4'>
                     <h1 className='text-2xl'>{product?.name}</h1>
