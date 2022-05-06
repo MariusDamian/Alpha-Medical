@@ -1,12 +1,14 @@
 import categories from "../JSON/categories.json";
 import subcategories from "../JSON/subcategories.json";
-import { useState, useEffect } from "react";
+import { React, useState, useEffect, useContext } from "react";
+import Link from "next/link";
+import { dataContext } from "../../../Util/ContextData";
 
 function Products() {
-  const [currentCategory, setCurrentCategory] = useState(0);
+  const { currentCategory, setCurrentCategory } = useContext(dataContext);
+  console.log(currentCategory);
 
   let currentSub = subcategories?.filter((subcat) => subcat.subCatPar.replace(/ /g, "-").toLowerCase() === categories[currentCategory].catName.replace(/ /g, "-").toLowerCase());
-  console.log(currentSub);
 
   return (
     <div className='flex flex-col items-end max-left mb-10'>
@@ -25,7 +27,9 @@ function Products() {
           </div>
           <h1 className='text-5xl font-semibold'>{categories[currentCategory].catName}</h1>
           <h1 className='text-xl'>{categories[currentCategory].catDescription}</h1>
-          {/* <button className='css-button-sliding-to-left--black'>DESCARCA BROSURA</button> */}
+          <Link href={"produse"}>
+            <button className='css-button-sliding-to-left--black'>Descopera</button>
+          </Link>
         </div>
         <div className={`w-1/3 aspect-square ${currentCategory % 2 == 0 ? "bg-[#A2DBFA]" : "bg-[#B3AAFF]"} flex flex-col p-20 py-28`}>
           <h1 className='text-4xl font-semibold'>Categorii</h1>

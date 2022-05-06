@@ -5,6 +5,7 @@ import { useState, useEffect } from "react";
 function MyApp({ Component, pageProps }) {
   const [scrolled, setScrolled] = useState(false);
   const [menu, setMenu] = useState(false);
+  const [currentCategory, setCurrentCategory] = useState(0);
 
   const changeBackground = () => {
     if (window.scrollY >= 55) {
@@ -19,7 +20,7 @@ function MyApp({ Component, pageProps }) {
   }, []);
 
   return (
-    <dataContext.Provider value={{ scrolled, menu, setMenu }}>
+    <dataContext.Provider value={{ scrolled, menu, setMenu, currentCategory, setCurrentCategory }}>
       <Component {...pageProps} />
     </dataContext.Provider>
   );
