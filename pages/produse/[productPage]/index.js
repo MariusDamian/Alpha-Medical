@@ -29,20 +29,12 @@ function ProductPage({ productsProps }) {
       <Menu />
       <Navbar />
       <div className='bg-alpha-bg pb-20'>
-        <div className='h-full pt-36 flex flex-row max-w-[1440px] mx-auto'>
-          <div className='w-1/2 flex flex-col'>
+        <div className='h-full pt-36 flex lg:flex-row flex-col max-w-[1440px] mx-auto px-5 lg:px-0'>
+          <div className='lg:w-1/2 flex flex-col'>
             <div className='flex flex-row justify-between mt-5'>
               <Link href={"/produse"}>
                 <button className='text-xl text-[#8D8D8D] hover:text-alpha-blue'>&lt; back</button>
               </Link>
-              {/* <div className='flex flex-row space-x-2 p-2'>
-                <button>
-                  <img src='../../images/left-arrow.svg' alt='' />
-                </button>
-                <button>
-                  <img src='../../images/right-arrow.svg' alt='' />
-                </button>
-              </div> */}
             </div>
 
             <h1 className='p-2 px-4 bg-[#7a9399] text-white w-fit my-8'>{currentProduct?.category}</h1>
@@ -59,10 +51,12 @@ function ProductPage({ productsProps }) {
               </a>
             </div>
           </div>
-          <img src={`/images/productImage/logoPic/${currentProduct.logoPic}`} alt='' className='w-1/2' />
+          <img src={`/images/productImage/logoPic/${currentProduct.logoPic}`} alt='' className='lg:w-1/2' />
         </div>
       </div>
-      <Products />
+      <div className='hidden lg:flex'>
+        <Products />
+      </div>
       <Footer />
     </>
   );

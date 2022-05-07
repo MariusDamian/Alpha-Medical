@@ -15,12 +15,10 @@ export default function Home() {
         <meta name='description' content='Aparatura si echipamente medicale' />
       </Head>
       <Menu />
-      <div className='hidden lg:flex'>
-        <Navbar />
-      </div>
+      <Navbar />
       <Hero />
       <AboutSection />
-      <Products/>
+      <Products />
       <Partners />
       <Footer />
     </div>

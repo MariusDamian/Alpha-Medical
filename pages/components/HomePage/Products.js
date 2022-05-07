@@ -10,7 +10,7 @@ function Products() {
   let currentSub = subcategories?.filter((subcat) => subcat.subCatPar.replace(/ /g, "-").toLowerCase() === categories[currentCategory].catName.replace(/ /g, "-").toLowerCase());
 
   return (
-    <div className='flex flex-col items-end max-left mb-10'>
+    <div className='lg:flex hidden flex-col items-end max-left mb-10'>
       <div className='flex flex-row w-full'>
         <div className='w-1/3 aspect-square'>
           <img src={`../../images/categoryImage/${categories[currentCategory]?.catImage}`} className='w-full' alt='' />
@@ -41,7 +41,7 @@ function Products() {
       </div>
       <div className='h-20 w-full bg-alpha-green lg:flex hidden flex-row items-center text-white'>
         {categories.map((categorie, key) => (
-          <button onClick={() => setCurrentCategory(key)} className='px-8 hover:bg-[#73B6E7] transition-all duration-500 h-full w-fit flex items-center border-t border-r text-left' key={key}>
+          <button onClick={() => setCurrentCategory(key)} className={`px-8 hover:bg-[#73B6E7] transition-all duration-500 h-full w-fit flex items-center border-t border-r text-left ${currentCategory === key ? "bg-[#73B6E7]" : ""}`} key={key}>
             {categorie?.catName}
           </button>
         ))}
