@@ -35,7 +35,7 @@ function Menu() {
             </button>
           </Link>
         </div>
-        <div>Dark mode</div>
+        {/* <div>Dark mode</div> */}
         <div className='max-w-[300px]'>
           <h1 className='text-2xl'>Adresa</h1>
           <p className='my-3'>Adresa Str. Sandu-Aldea Constantin nr.22, Sector 1, Bucureşti Romania</p>

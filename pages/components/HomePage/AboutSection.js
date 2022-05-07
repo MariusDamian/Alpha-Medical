@@ -13,8 +13,10 @@ function AboutSection() {
           </div>
           <div className='max-w-3xl text-justify my-12'>
             <AlphaSubtitle
-              title='Distribuitor autorizat de aparatură și echipamente medicale.
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin sed tellus non eleifend. Donec vulputate, urna non sodales imperdiet, turpis tortor volutpat neque, a congue arcu velit in tellus. Vestibulum egestas scelerisque dictum. Suspendisse in mollis ante. Integer molestie sit amet tortor sed fringilla.'
+              title={
+                `Activam in domeniul importului si distributiei de dispozitive medicale si asiguram servicii si produse de inalta calitate, precum si suport calificat pentru intretinerea si service-ul lor.              ` +
+                `Suntem adeptii satisfacerii celor mai exigente cerinte ale clientilor, drept pentru care colaboram cu numeroase companii de prestigiu Europa, Asia si Statele Unite, pentru a furniza pietei medicale din Romania o gama variata de produse la cele mai inalte standarde de calitate.`
+              }
               color='text-white'
             />
           </div>
