@@ -16,15 +16,15 @@ function Contact() {
           <div className='flex flex-row items-center justify-center w-full'>
             <div className='h-[450px] bg-[#E3E3E3] w-full py-10 px-5'>
               <form action='' className=''>
-                <label for='name'>
+                <label htmlFor='name'>
                   Nume si Prenume<em className='text-red-500'>*</em>
                 </label>
                 <input type='text' className='w-full h-10 mb-3 focus:outline-gray-400 px-2' />
-                <label for='email'>
+                <label htmlFor='email'>
                   Email<em className='text-red-500'>*</em>
                 </label>
                 <input type='text' className='w-full h-10 mb-3 focus:outline-gray-400 px-2' />
-                <label for='message'>
+                <label htmlFor='message'>
                   Mesaj<em className='text-red-500'>*</em>
                 </label>
                 <textarea type='text' className='w-full h-32 min-h-[128px] mb-5 focus:outline-gray-400 p-2' />
