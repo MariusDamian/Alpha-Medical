@@ -7,9 +7,9 @@ function AboutSection() {
     <>
       <div className='h-[600px] bg-[#0F0E0E]'>
         <div className='max-w-[1440px] flex flex-col items-start justify-center h-full mx-auto'>
-          <div className='flex flex-row'>
+          <div className='flex flex-row justify-between w-full px-3'>
             <AlphaTitle title='Servicii Alpha Medical' color='text-alpha-green' />
-            <img src='./images/greenTile.svg' alt='' className='ml-40' />
+            <img src='./images/greenTile.svg' alt='' className='lg:ml-40 scale-75 lg:scale-100' />
           </div>
           <div className='max-w-3xl text-justify my-12'>
             <AlphaSubtitle
@@ -20,7 +20,7 @@ function AboutSection() {
               color='text-white'
             />
           </div>
-          <button className='css-button-sliding-to-left--black'>DESCARCA BROSURA</button>
+          <button className='css-button-sliding-to-left--black scale-75 lg:scale-100'>DESCARCA BROSURA</button>
         </div>
       </div>
       <div className='h-[600px]'>
