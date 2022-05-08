@@ -7,10 +7,13 @@ import { React, useState, useEffect, useContext } from "react";
 import { dataContext } from "../../Util/ContextData";
 import Link from "next/link";
 import Footer from "../components/Footer/Footer";
+import { TiArrowSortedDown, TiArrowSortedUp } from "react-icons/ti";
 
 function Produse() {
   const { currentCategory, setCurrentCategory } = useContext(dataContext);
   const [currentSubCat, setCurrentSubCat] = useState(0);
+  const [catTab, setCatTab] = useState(null);
+  const [subCatTab, setSubCatTab] = useState(null);
 
   let currentSub = subcategories?.filter((subcat) => subcat.subCatPar.replace(/ /g, "-").toLowerCase() === categories[currentCategory].catName.replace(/ /g, "-").toLowerCase());
 
@@ -21,12 +24,32 @@ function Produse() {
     setCurrentSubCat(0);
   }
 
+  function mobileCatSelect(catSel) {
+    if (catSel === catTab) {
+      setCatTab(null);
+    } else {
+      setCatTab(catSel);
+      setCurrentCategory(catSel);
+    }
+  }
+
+  function mobileSubbCatSelect(subCatSel) {
+    if (subCatSel === subCatTab) {
+      setSubCatTab(null);
+    } else {
+      setSubCatTab(subCatSel);
+      setCurrentSubCat(subCatSel);
+    }
+  }
+
+  console.log(currentSub);
+
   return (
     <div>
       <Menu />
       <Navbar />
       <div className='bg-alpha-bg pb-20'>
-        <div className='h-full pt-36 flex flex-col max-w-[1440px] mx-auto'>
+        <div className='h-full pt-36 lg:flex hidden flex-col max-w-[1440px] mx-auto'>
           <h1 className='mt-10 mb-20 text-4xl'>Produsele noastre</h1>
 
           <div className='w-full h-[250px] flex flex-row text-white'>
@@ -63,8 +86,46 @@ function Produse() {
             ))}
           </div>
         </div>
+
+        {/* Mobile version */}
+
+        <div className='min-h-screen pt-36 flex lg:hidden'>
+          <div className='w-full'>
+            {categories.map((cat, key) => (
+              <div key={key}>
+                <div className='flex flex-row justify-between items-center' onClick={() => mobileCatSelect(key)}>
+                  <p className='bg-[#476072] text-white px-5 py-2 border border-white text-sm w-full'>{cat.catName}</p>
+                  {catTab === key ? <TiArrowSortedUp className='absolute right-0 text-white mr-2' /> : <TiArrowSortedDown className='absolute right-0 text-white mr-2' />}
+                </div>
+                {catTab === key
+                  ? currentSub.map((subCat, key) => (
+                      <div key={key}>
+                        <div className='flex flex-row justify-between items-center' onClick={() => mobileSubbCatSelect(key)}>
+                          <p className='bg-[#D2E2E7] border border-gray-200 w-full px-6 py-1'>{subCat.subCatName}</p>
+                          {subCatTab === key ? <TiArrowSortedUp className='absolute right-0 text-[#476072] mr-2' /> : <TiArrowSortedDown className='absolute right-0 text-[#476072] mr-2' />}
+                        </div>
+                        {subCatTab === key ? (
+                          <div className='grid lg:grid-cols-4 grid-cols-2 gap-1'>
+                            {prodArray.map((product, key) => (
+                              <Link href={`/produse/${product?.name.replace(/ /g, "-").toLowerCase()}`} key={key}>
+                                <div className='bg-white cursor-pointer relative group'>
+                                  <img src={`images/productImage/logoPic/${product?.logoPic}`} alt='' className='scale-90' />
+                                </div>
+                              </Link>
+                            ))}
+                          </div>
+                        ) : (
+                          ""
+                        )}
+                      </div>
+                    ))
+                  : ""}
+              </div>
+            ))}
+          </div>
+        </div>
       </div>
-      <Footer/>
+      <Footer />
     </div>
   );
 }

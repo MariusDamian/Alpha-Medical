@@ -1,6 +1,7 @@
 import React from "react";
 import AlphaTitle from "../Reutils/AlphaTitle";
 import AlphaSubtitle from "../Reutils/AlphaSubtitle";
+import Link from "next/link";
 
 function AboutSection() {
   return (
@@ -24,7 +25,7 @@ function AboutSection() {
         </div>
       </div>
       <div className='h-[600px]'>
-        <div className='max-w-[1440px] flex flex-col items-start justify-center h-full mx-auto'>
+        <div className='max-w-[1440px] flex flex-col items-start justify-center h-full mx-auto px-2 lg:px-0'>
           <AlphaTitle title='Produsele Noastre' />
           <div className='flex flex-row items-end'>
             <div className='max-w-3xl text-justify mt-12'>
@@ -33,8 +34,11 @@ function AboutSection() {
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin sed tellus non eleifend. Donec vulputate, urna non sodales imperdiet, turpis tortor volutpat neque, a congue arcu velit in tellus. Vestibulum egestas scelerisque dictum. Suspendisse in mollis ante. Integer molestie sit amet tortor sed fringilla.'
               />
             </div>
-            <img src='./images/grayTile.svg' alt='' className='ml-20' />
+            <img src='./images/grayTile.svg' alt='' className='ml-20 lg:block hidden' />
           </div>
+          <Link href={'/produse'}>
+            <button className='css-button-sliding-to-left--green scale-75 lg:scale-100'>DESCOPERA</button>
+          </Link>
         </div>
       </div>
     </>
