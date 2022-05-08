@@ -42,15 +42,13 @@ function Produse() {
     }
   }
 
-  console.log(currentSub);
-
   return (
     <div>
       <Menu />
       <Navbar />
-      <div className='bg-alpha-bg pb-20'>
+      <div className='bg-alpha-bg dark:bg-alpha-bg-dark pb-20'>
         <div className='h-full pt-36 lg:flex hidden flex-col max-w-[1440px] mx-auto'>
-          <h1 className='mt-10 mb-20 text-4xl'>Produsele noastre</h1>
+          <h1 className='mt-10 mb-20 text-4xl dark:text-white'>Produsele noastre</h1>
 
           <div className='w-full h-[250px] flex flex-row text-white'>
             <div className='bg-[#334257] w-[20%] border flex items-center justify-center text-center text-3xl px-3'>{categories[currentCategory]?.catName}</div>
@@ -110,6 +108,9 @@ function Produse() {
                               <Link href={`/produse/${product?.name.replace(/ /g, "-").toLowerCase()}`} key={key}>
                                 <div className='bg-white cursor-pointer relative group'>
                                   <img src={`images/productImage/logoPic/${product?.logoPic}`} alt='' className='scale-90' />
+                                  <div className='min-h-16 w-full bg-[#A2DBFA75]/50 backdrop-blur absolute bottom-0 transition-all transform duration-500 p-2'>
+                                    <h1 className=''>{product?.name}</h1>
+                                  </div>
                                 </div>
                               </Link>
                             ))}

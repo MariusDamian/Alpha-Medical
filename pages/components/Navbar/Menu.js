@@ -6,6 +6,11 @@ import Link from "next/link";
 
 function Menu() {
   const { menu, setMenu } = useContext(dataContext);
+  const { dark, setDark } = useContext(dataContext);
+  function toggleDark() {
+    document.body.classList.toggle("dark");
+    setDark(!dark);
+  }
   return (
     <Slide direction='right' in={menu} style={{ zIndex: 10 }} transition={{ exit: { duration: 1 } }}>
       <div className='lg:w-[550px] w-screen bg-black/80 h-full fixed top-0 right-0 z-20 flex flex-col items-start justify-center space-y-5 text-white px-10 backdrop-blur-xl'>
@@ -35,7 +40,11 @@ function Menu() {
             </button>
           </Link>
         </div>
-        {/* <div>Dark mode</div> */}
+        <div className='border-t-2 border-b-2 border-alpha-green'>
+          <button onClick={toggleDark} className='py-4 w-32'>
+            {dark ? <img src='./images/darkbtn.svg' alt='' /> : <img src='./images/lightbtn.svg' alt='' />}
+          </button>
+        </div>
         <div className='max-w-[300px]'>
           <h1 className='text-2xl'>Adresa</h1>
           <p className='my-3'>Adresa Str. Sandu-Aldea Constantin nr.22, Sector 1, Bucureşti Romania</p>

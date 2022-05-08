@@ -9,7 +9,7 @@ function Contact() {
     <div>
       <Menu />
       <Navbar />
-      <div className='pt-40'>
+      <div className='pt-40 dark:bg-alpha-bg-dark'>
         <Partners />
       </div>
       <Footer />

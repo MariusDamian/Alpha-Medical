@@ -21,7 +21,7 @@ function Hero() {
   }, [crsNumber]);
 
   return (
-    <div className='bg-alpha-bg h-screen'>
+    <div className='bg-alpha-bg dark:bg-alpha-bg-dark h-screen'>
       <div className='flex flex-col h-full'>
         <div className='pt-36 flex lg:flex-row flex-col-reverse max-left h-full'>
           <div className='lg:w-[45%] flex flex-col items-start justify-center lg:h-full h-auto relative'>
@@ -39,7 +39,7 @@ function Hero() {
                 <AlphaSubtitle title={carousel[crsNumber].crsDesc} />
               </div>
               <Link href={carousel[crsNumber].crsLink}>
-                <button className='css-button-sliding-to-left--green scale-75 lg:scale-100'>DESCOPERA</button>
+                <button className='css-button-sliding-to-left--green scale-75 lg:scale-100 dark:text-white dark:border-white'>DESCOPERA</button>
               </Link>
             </div>
           </div>

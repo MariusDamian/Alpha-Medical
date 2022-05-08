@@ -4,7 +4,7 @@ import AlphaTitle from "../Reutils/AlphaTitle";
 
 function Partners() {
   return (
-    <div className='bg-[#f0f0f0]'>
+    <div className='bg-[#f0f0f0] dark:bg-alpha-bg-dark pt-20'>
       <div className='min-h-screen flex flex-col items-center justify-center max-w-[1440px] mx-auto'>
         <div className='flex flex-row'>
           <AlphaTitle title='Parteneri' />

@@ -9,7 +9,7 @@ import Products from "./components/HomePage/Products";
 
 export default function Home() {
   return (
-    <div>
+    <div className='dark:bg-[#244259]'>
       <Head>
         <title>Alpha Medical | Aparatura si echipamente medicale</title>
         <meta name='description' content='Aparatura si echipamente medicale' />

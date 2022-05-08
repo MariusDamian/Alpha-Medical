@@ -10,9 +10,9 @@ function Contact() {
     <div>
       <Menu />
       <Navbar />
-      <div className='bg-alpha-bg pb-20'>
+      <div className='bg-alpha-bg dark:bg-alpha-bg-dark pb-20'>
         <div className='h-full pt-36 lg:flex hidden flex-col max-w-[1440px] mx-auto'>
-          <h1 className='mt-10 mb-20 text-4xl'>Produsele noastre</h1>
+          <h1 className='mt-10 mb-20 text-4xl dark:text-white'>Contact</h1>
           <div className='flex flex-row items-center justify-center w-full space-x-2'>
             <div className='h-[450px] w-[340px] bg-[#E3E3E3] py-10 px-5'>
               <form action='' className=''>

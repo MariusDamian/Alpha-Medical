@@ -28,7 +28,7 @@ function ProductPage({ productsProps }) {
       </Head>
       <Menu />
       <Navbar />
-      <div className='bg-alpha-bg pb-20'>
+      <div className='bg-alpha-bg dark:bg-alpha-bg-dark pb-20'>
         <div className='h-full pt-36 flex lg:flex-row flex-col max-w-[1440px] mx-auto px-5 lg:px-0'>
           <div className='lg:w-1/2 flex flex-col'>
             <div className='flex flex-row justify-between mt-5'>

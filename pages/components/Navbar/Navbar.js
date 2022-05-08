@@ -7,6 +7,7 @@ import Link from "next/link";
 function Navbar() {
   const [scrolled, setScrolled] = useState(false);
   const { menu, setMenu } = useContext(dataContext);
+  const { dark, setDark } = useContext(dataContext);
 
   const changeBackground = () => {
     if (window.scrollY >= 1) {
@@ -21,17 +22,13 @@ function Navbar() {
   }, []);
 
   return (
-    <div className={scrolled ? "fixed w-full lg:flex items-center justify-center z-20 h-36 backdrop-blur-lg border-b-2 bg-white/80 border-[#DEDEDE]" : "fixed w-full lg:flex items-center justify-center z-20 h-36 transform backdrop-blur-none border-b-2 border-[#DEDEDE]"}>
+    <div className={scrolled ? "fixed w-full lg:flex items-center justify-center z-20 h-36 backdrop-blur-lg border-b-2 bg-white/80 dark:bg-alpha-bg-dark/70 border-[#DEDEDE]" : "fixed w-full lg:flex items-center justify-center z-20 h-36 transform backdrop-blur-none border-b-2 border-[#DEDEDE]"}>
       <div className='max-w-[1440px] mx-auto h-full w-full bg-opacity-30 flex flex-row'>
         <div className='hidden items-center flex-row h-full w-1/2 md:flex cursor-pointer'>
-          <Link href={"/"}>
-            <img src='../../images/logo.png' alt='logo' />
-          </Link>
+          <Link href={"/"}>{dark ? <img src='../../images/logoDark.png' alt='logo' /> : <img src='../../images/logo.png' alt='logo' />}</Link>
         </div>
         <div className='flex items-center flex-row h-full w-1/2 md:hidden ml-5'>
-          <Link href={"/"}>
-            <img src='../../images/mobileLogo.png' alt='logo' className='cursor-pointer' />
-          </Link>
+          <Link href={"/"}>{dark ? <img src='../../images/mobileLogo.png' alt='logo' className='cursor-pointer' /> : <img src='../../images/mobileLogo.png' alt='logo' className='cursor-pointer' />}</Link>
         </div>
         <div className='flex items-center justify-end flex-row h-full absolute right-0 mr-10'>
           <div className='mr-16 md:flex hidden'>

@@ -10,7 +10,7 @@ function Products() {
   let currentSub = subcategories?.filter((subcat) => subcat.subCatPar.replace(/ /g, "-").toLowerCase() === categories[currentCategory].catName.replace(/ /g, "-").toLowerCase());
 
   return (
-    <div className='lg:flex hidden flex-col items-end max-left mb-10'>
+    <div className='lg:flex hidden flex-col items-end max-left'>
       <div className='flex flex-row w-full'>
         <div className='w-1/3 aspect-square'>
           <img src={`../../images/categoryImage/${categories[currentCategory]?.catImage}`} className='w-full' alt='' />
