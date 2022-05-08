@@ -24,7 +24,7 @@ function Hero() {
     <div className='bg-alpha-bg dark:bg-alpha-bg-dark h-screen'>
       <div className='flex flex-col h-full'>
         <div className='pt-36 flex lg:flex-row flex-col-reverse max-left h-full'>
-          <div className='lg:w-[45%] flex flex-col items-start justify-center lg:h-full h-auto relative'>
+          <div className='lg:w-[45%] flex flex-col items-start justify-center lg:h-full h-auto relative px-10'>
             <div className='space-x-2 absolute right-0 top-0 p-2 lg:block hidden'>
               <button onClick={() => (crsNumber === 0 ? setCrsNumber(carousel.length - 1) : setCrsNumber(crsNumber - 1))}>
                 <img src='./images/left-arrow.svg' alt='' className='hover:scale-90 transform transition-all duration-500' />

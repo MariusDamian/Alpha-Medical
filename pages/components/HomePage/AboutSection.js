@@ -7,7 +7,7 @@ function AboutSection() {
   return (
     <>
       <div className='h-[600px] bg-[#0F0E0E] dark:bg-[#244259]'>
-        <div className='max-w-[1440px] flex flex-col items-start justify-center h-full mx-auto'>
+        <div className='max-w-[1440px] flex flex-col items-start justify-center h-full mx-auto px-10'>
           <div className='flex flex-row justify-between w-full px-3'>
             <AlphaTitle title='Servicii Alpha Medical' color='text-alpha-green' />
             <img src='./images/greenTile.svg' alt='' className='lg:ml-40 scale-75 lg:scale-100' />
@@ -25,7 +25,7 @@ function AboutSection() {
         </div>
       </div>
       <div className='h-[600px] dark:bg-alpha-bg-dark'>
-        <div className='max-w-[1440px] flex flex-col items-start justify-center h-full mx-auto px-2 lg:px-0'>
+        <div className='max-w-[1440px] flex flex-col items-start justify-center h-full mx-auto px-10'>
           <AlphaTitle title='Produsele Noastre' />
           <div className='flex flex-row items-end mb-12'>
             <div className='max-w-3xl text-justify mt-12'>

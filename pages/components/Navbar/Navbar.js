@@ -23,7 +23,7 @@ function Navbar() {
 
   return (
     <div className={scrolled ? "fixed w-full lg:flex items-center justify-center z-20 h-36 backdrop-blur-lg border-b-2 bg-white/80 dark:bg-alpha-bg-dark/70 border-[#DEDEDE]" : "fixed w-full lg:flex items-center justify-center z-20 h-36 transform backdrop-blur-none border-b-2 border-[#DEDEDE]"}>
-      <div className='max-w-[1440px] mx-auto h-full w-full bg-opacity-30 flex flex-row'>
+      <div className='max-w-[1440px] mx-auto h-full w-full bg-opacity-30 flex flex-row px-10'>
         <div className='hidden items-center flex-row h-full w-1/2 md:flex cursor-pointer'>
           <Link href={"/"}>{dark ? <img src='../../images/logoDark.png' alt='logo' /> : <img src='../../images/logo.png' alt='logo' />}</Link>
         </div>
