@@ -41,9 +41,9 @@ function Menu() {
           </Link>
         </div>
         <div className='border-t-2 border-b-2 border-alpha-green'>
-          <button onClick={toggleDark} className='py-4 w-32'>
+          <div onClick={toggleDark} className='py-4 w-32'>
             {dark ? <img src='./images/darkbtn.svg' alt='' /> : <img src='./images/lightbtn.svg' alt='' />}
-          </button>
+          </div>
         </div>
         <div className='max-w-[300px]'>
           <h1 className='text-2xl'>Adresa</h1>
