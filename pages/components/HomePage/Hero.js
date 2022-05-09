@@ -24,7 +24,7 @@ function Hero() {
     <div className='bg-alpha-bg dark:bg-alpha-bg-dark h-screen'>
       <div className='flex flex-col h-full'>
         <div className='pt-36 flex lg:flex-row flex-col-reverse max-left h-full'>
-          <div className='lg:w-[45%] flex flex-col items-start justify-center lg:h-full h-auto relative px-10'>
+          <div className='lg:w-[45%] w-full flex flex-col items-start justify-center lg:h-full h-auto relative lg:px-10'>
             <div className='space-x-2 absolute right-0 top-0 p-2 lg:block hidden'>
               <button onClick={() => (crsNumber === 0 ? setCrsNumber(carousel.length - 1) : setCrsNumber(crsNumber - 1))}>
                 <img src='./images/left-arrow.svg' alt='' className='hover:scale-90 transform transition-all duration-500' />
@@ -33,7 +33,7 @@ function Hero() {
                 <img src='./images/right-arrow.svg' alt='' className='hover:scale-90 transform transition-all duration-500' />
               </button>
             </div>
-            <div className='flex flex-col items-start justify-center w-full max-w-2xl py-5 px-3 lg:px-0'>
+            <div className='flex flex-col items-start justify-center w-full lg:max-w-2xl py-5 px-3 lg:px-0'>
               <AlphaTitle title={carousel[crsNumber].crsTitle} />
               <div className='max-w-xs lg:my-11'>
                 <AlphaSubtitle title={carousel[crsNumber].crsDesc} />
@@ -43,7 +43,7 @@ function Hero() {
               </Link>
             </div>
           </div>
-          <div className='lg:w-[55%] h-2/3 lg:h-auto bg-cover transition-all duration-300' style={{ backgroundImage: `url(/images/crsImage/${carousel[crsNumber].crsImg})` }}></div>
+          <div className='lg:w-[55%] lg:h-auto h-full bg-cover transition-all duration-300' style={{ backgroundImage: `url(/images/crsImage/${carousel[crsNumber].crsImg})` }}></div>
         </div>
         <div>
           <Subhero />
