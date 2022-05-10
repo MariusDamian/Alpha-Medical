@@ -29,7 +29,7 @@ function AboutSection() {
                   ? "Suntem adeptii satisfacerii celor mai exigente cerinte ale clientilor, drept pentru care colaboram cu numeroase companii de prestigiu Europa, Asia si Statele Unite, pentru a furniza pietei medicale din Romania o gama variata de produse la cele mai inalte standarde de calitate."
                   : "We are keen on satisfying the most demanding customer requirements, which is why we collaborate with numerous prestigious companies in Europe, Asia and the United States, in order to supply the Romanian medical market with a wide range of products at the highest quality standards."
               }
-              color='text-white'
+              color='text-white' 
             />
           </div>
           {/* <button className='css-button-sliding-to-left--black scale-75 lg:scale-100 dark:bg-transparent'>DESCARCA BROSURA</button> */}
