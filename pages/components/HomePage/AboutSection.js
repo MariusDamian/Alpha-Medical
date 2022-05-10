@@ -35,7 +35,7 @@ function AboutSection() {
           {/* <button className='css-button-sliding-to-left--black scale-75 lg:scale-100 dark:bg-transparent'>DESCARCA BROSURA</button> */}
         </div>
       </div>
-      <div className='min-h-[600px] dark:bg-alpha-bg-dark py-20'>
+      <div className='lg:min-h-[600px] dark:bg-alpha-bg-dark lg:py-20'>
         <div className='max-w-[1440px] flex flex-col items-start justify-center h-full mx-auto px-10'>
           <AlphaTitle title={eng ? "Produsele Noastre" : "Our Products"} />
           <div className='flex flex-row items-end mb-12'>{eng ? <img src='./images/graficRo.png' alt='' className='mt-10' /> : <img src='./images/graficEn.png' alt='' className='mt-10' />}</div>
