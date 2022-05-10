@@ -6,6 +6,7 @@ function MyApp({ Component, pageProps }) {
   const [scrolled, setScrolled] = useState(false);
   const [menu, setMenu] = useState(false);
   const [dark, setDark] = useState(false);
+  const [eng, setEng] = useState(true);
   const [currentCategory, setCurrentCategory] = useState(0);
 
   const changeBackground = () => {
@@ -21,7 +22,7 @@ function MyApp({ Component, pageProps }) {
   }, []);
 
   return (
-    <dataContext.Provider value={{ scrolled, menu, setMenu, currentCategory, setCurrentCategory, dark, setDark }}>
+    <dataContext.Provider value={{ scrolled, menu, setMenu, currentCategory, setCurrentCategory, dark, setDark, eng, setEng }}>
       <Component {...pageProps} />
     </dataContext.Provider>
   );

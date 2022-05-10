@@ -24,7 +24,6 @@ function ProductPage({ productsProps }) {
           {currentProduct?.name} | {currentProduct?.Producator} | Alpha Medical
         </title>
         <meta name='description' content={currentProduct?.seoDescription ?? currentProduct?.smallDescription} />
-        <meta name='keywords' content={currentProduct?.seoKeywords} />
       </Head>
       <Menu />
       <Navbar />

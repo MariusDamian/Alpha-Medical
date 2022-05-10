@@ -11,6 +11,7 @@ import { TiArrowSortedDown, TiArrowSortedUp } from "react-icons/ti";
 
 function Produse() {
   const { currentCategory, setCurrentCategory } = useContext(dataContext);
+  const { eng, setEng } = useContext(dataContext);
   const [currentSubCat, setCurrentSubCat] = useState(0);
   const [catTab, setCatTab] = useState(null);
   const [subCatTab, setSubCatTab] = useState(null);
@@ -48,15 +49,15 @@ function Produse() {
       <Navbar />
       <div className='bg-alpha-bg dark:bg-alpha-bg-dark pb-20'>
         <div className='h-full pt-36 lg:flex hidden flex-col max-w-[1440px] mx-auto'>
-          <h1 className='mt-10 mb-20 text-4xl dark:text-white'>Produsele noastre</h1>
+          <h1 className='mt-10 mb-20 text-4xl dark:text-white'>{eng ? "Produsele noastre" : "Our products"}</h1>
 
           <div className='w-full h-[250px] flex flex-row text-white'>
-            <div className='bg-[#334257] w-[20%] border flex items-center justify-center text-center text-3xl px-3'>{categories[currentCategory]?.catName}</div>
-            <div className='bg-[#398AB9] w-[30%] border flex items-center justify-center text-center text-lg px-5'>{categories[currentCategory]?.catDescription}</div>
+            <div className='bg-[#334257] w-[20%] border flex items-center justify-center text-center text-3xl px-3'>{eng ? categories[currentCategory]?.catName : categories[currentCategory]?.enCatName}</div>
+            <div className='bg-[#398AB9] w-[30%] border flex items-center justify-center text-center text-lg px-5'>{eng ? categories[currentCategory]?.catDescription : categories[currentCategory]?.enCatDescription}</div>
             <div className='w-[50%] grid lg:grid-cols-4'>
               {categories.map((cat, key) => (
                 <div onClick={() => changeCat(key)} key={key} className={`flex hover:bg-[#398AB9] items-center cursor-pointer justify-center border min-h-[125px] text-center ${cat?.catName === categories[currentCategory]?.catName ? "bg-[#398AB9]" : "bg-[#476072]"}`}>
-                  {cat?.catName}
+                  {eng ? cat?.catName : cat?.enCatName}
                 </div>
               ))}
             </div>
@@ -65,7 +66,7 @@ function Produse() {
           <div className='bg-[#D2E3E7] lg:flex flex-row h-12 hidden'>
             {currentSub.map((cat, key) => (
               <div onClick={() => setCurrentSubCat(key)} className={`flex items-center hover:bg-alpha-green hover:text-white justify-center text-center h-full cursor-pointer ${currentSubCat === key ? "bg-alpha-green text-white" : ""}`} key={key}>
-                <p className='px-5 w-full'>{cat?.subCatName}</p>
+                <p className='px-5 w-full'>{eng ? cat?.subCatName : cat?.enSubCatName}</p>
               </div>
             ))}
           </div>

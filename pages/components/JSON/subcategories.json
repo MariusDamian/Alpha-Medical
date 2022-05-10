@@ -1,146 +1,170 @@
 [
   {
     "subCatPar": "ATI",
+    "enSubCatPar": "ICU",
     "subCatName": "Ventilatie mecanica",
-    "subCatDescription": "Ventilatoare mecanice, concentratoare de oxigen si circuite respiratorii",
+    "enSubCatName": "Mechanical ventilation",
     "subCatImage": "subcategorie-ventilatie-mecanica.webp"
   },
   {
     "subCatPar": "ATI",
+    "enSubCatPar": "ICU",
     "subCatName": "Ecografe POC",
-    "subCatDescription": "Imagistica cu rezolutie ridicata marca SonoSite",
+    "enSubCatName": "Ultrasound systems",
     "subCatImage": "subcategorie-ecografe-poc.webp"
   },
   {
     "subCatPar": "ATI",
+    "enSubCatPar": "ICU",
     "subCatName": "Eliminarea secretiilor",
-    "subCatDescription": "Terapie de curatare a cailor respiratorii",
+    "enSubCatName": "Airway clearance",
     "subCatImage": "subcategorie-eliminarea-secretiilor.webp"
   },
   {
     "subCatPar": "ATI",
+    "enSubCatPar": "ICU",
     "subCatName": "Sisteme de incalzire",
-    "subCatDescription": "Sisteme 3M pentru incalzirea sangelui si a pacientilor",
+    "enSubCatName": "Warming systems",
     "subCatImage": "subcategorie-sisteme-incalzire.webp"
   },
   {
     "subCatPar": "ATI",
+    "enSubCatPar": "ICU",
     "subCatName": "Monitorizare functii vitale",
-    "subCatDescription": "Monitoare pentru supravegherea functiilor vitale",
+    "enSubCatName": "Monitoring vital functions",
     "subCatImage": "subcategorie-monitorizare-functii-vitale.webp"
   },
   {
     "subCatPar": "ATI",
+    "enSubCatPar": "ICU",
     "subCatName": "Pompe pentru seringa si perfuzie",
-    "subCatDescription": "Sisteme de perfuzie marca Terumo",
+    "enSubCatName": "Syringe and Infusion pumps",
     "subCatImage": "subcategorie-pompe-seringa-perfuzie.webp"
   },
   {
     "subCatPar": "ATI",
+    "enSubCatPar": "ICU",
     "subCatName": "Acces vascular",
-    "subCatDescription": "Catetere pentru accesul la sistemul arterial",
+    "enSubCatName": "Vascular access",
     "subCatImage": "subcategorie-acces-vascular.webp"
   },
   {
     "subCatPar": "ATI",
+    "enSubCatPar": "ICU",
     "subCatName": "Managementul cailor respiratorii",
-    "subCatDescription": "Solutia completa pentru managementul cailor respiratorii",
+    "enSubCatName": "Airway management",
     "subCatImage": "subcategorie-managmentul-cailor-respiratorii.webp"
   },
   {
     "subCatPar": "Protectie-impotriva-infectiilor",
+    "enSubCatPar": "Protection against infection",
     "subCatName": "Conectori si capacele",
-    "subCatDescription": "Preventia infectiilor cu ajutorul consumabilelor",
+    "enSubCatName": "Connectors and caps",
     "subCatImage": "subcategorie-conectori-capacele.webp"
   },
   {
     "subCatPar": "Protectie-impotriva-infectiilor",
+    "enSubCatPar": "Protection against infection",
     "subCatName": "Pansamente CHG",
-    "subCatDescription": "Panamente cu pad de gluconat de clorhexidina",
+    "enSubCatName": "CHG dressings",
     "subCatImage": "subcategorie-pansamente-chg.webp"
   },
   {
     "subCatPar": "Protectie-impotriva-infectiilor",
+    "enSubCatPar": "Protection against infection",
     "subCatName": "Masti de protectie",
-    "subCatDescription": "Masti chirurgicale, FFP2 si FFP3",
+    "enSubCatName": "Masks",
     "subCatImage": "subcategorie-masti-protectie.webp"
   },
   {
     "subCatPar": "Oncologie",
+    "enSubCatPar": "Oncology",
     "subCatName": "Conectori",
-    "subCatDescription": "Reducerea riscului de infectare",
+    "enSubCatName": "Connectors",
     "subCatImage": "subcategorie-oncologie-conectori.webp"
   },
   {
     "subCatPar": "Oncologie",
+    "enSubCatPar": "Oncology",
     "subCatName": "Aparatura",
-    "subCatDescription": "Sisteme pentru fluxul de lucru cu perfuzii oncologice",
+    "enSubCatName": "Devices",
     "subCatImage": "subcategorie-oncologie-aparatura.webp"
   },
   {
     "subCatPar": "Ingrijirea-ranilor-si-a-plagilor",
+    "enSubCatPar": "Wounds Management",
     "subCatName": "Pansamente",
-    "subCatDescription": "Pansamente cu miere de Manuka si benzi adezive",
+    "enSubCatName": "Dressings",
     "subCatImage": "subcategorie-pansamente.webp"
   },
   {
     "subCatPar": "Ingrijirea-ranilor-si-a-plagilor",
+    "enSubCatPar": "Wounds Management",
     "subCatName": "Creme",
-    "subCatDescription": "Creme medicinale",
+    "enSubCatName": "Creams",
     "subCatImage": "subcategorie-creme.webp"
   },
   {
     "subCatPar": "Sterilizare",
+    "enSubCatPar": "Sterilisation",
     "subCatName": "Aparatura",
-    "subCatDescription": "Masini de sigilat si sisteme de sterilizare",
+    "enSubCatName": "Devices",
     "subCatImage": "subcategorie-sterilizare-aparatura.webp"
   },
   {
     "subCatPar": "Sterilizare",
+    "enSubCatPar": "Sterilisation",
     "subCatName": "Consumabile",
-    "subCatDescription": "Role, pungi, teste si indicatori",
+    "enSubCatName": "Supplies",
     "subCatImage": "subcategorie-sterilizare-consumabile.webp"
   },
   {
     "subCatPar": "Urologie",
+    "enSubCatPar": "Urology",
     "subCatName": "Catetere urinare",
-    "subCatDescription": "Gama intreaga de catetere Rüsch si Bactiguard",
+    "enSubCatName": "Urinary catheter",
     "subCatImage": "subcategorie-catetere-urinare.webp"
   },
   {
     "subCatPar": "Urologie",
+    "enSubCatPar": "Urology",
     "subCatName": "Accesorii urologie",
-    "subCatDescription": "Solutii standard sau speciale pentru urologie",
+    "enSubCatName": "Urology accessories",
     "subCatImage": "subcategorie-accesorii-urologie.webp"
   },
   {
     "subCatPar": "Chirurgie-si-laparoscopie",
+    "enSubCatPar": "Surgery and laparoscopy",
     "subCatName": "Clipuri",
-    "subCatDescription": "Sisteme de ligaturare",
+    "enSubCatName": "Clips",
     "subCatImage": "subcategorie-clipuri.webp"
   },
   {
     "subCatPar": "Chirurgie-si-laparoscopie",
+    "enSubCatPar": "Surgery and laparoscopy",
     "subCatName": "Dispozitive diverse",
-    "subCatDescription": "Dispozitive de extractie, de drenaj toracic si recuperare sange",
+    "enSubCatName": "Devices",
     "subCatImage": "subcategorie-dispozitive-diverse.webp"
   },
   {
     "subCatPar": "Radiologie-interventionala-si-contrapulsatie",
+    "enSubCatPar": "Interventional radiology and counterpulsation",
     "subCatName": "Contrapulsatie",
-    "subCatDescription": "Sisteme IABP si catetere specifice",
+    "enSubCatName": "Contrapulsation",
     "subCatImage": "subcategorie-contrapulsatie.webp"
   },
   {
     "subCatPar": "Radiologie-interventionala-si-contrapulsatie",
+    "enSubCatPar": "Interventional radiology and counterpulsation",
     "subCatName": "Cardiologie",
-    "subCatDescription": "Catetere de dilatare coronariana",
+    "enSubCatName": "Contrapulsation",
     "subCatImage": "subcategorie-cardiologie.webp"
   },
   {
     "subCatPar": "Radiologie-interventionala-si-contrapulsatie",
+    "enSubCatPar": "Interventional radiology and counterpulsation",
     "subCatName": "Periferic",
-    "subCatDescription": "Catetere cu balon PTA si cu eliberare medicament ",
+    "enSubCatName": "Contrapulsation",
     "subCatImage": "subcategorie-periferic.webp"
   }
 ]

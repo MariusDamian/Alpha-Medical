@@ -1,10 +1,12 @@
-import React, { useState } from "react";
+import { React, useState, useEffect, useContext } from "react";
 import { IoMdClose } from "react-icons/io";
 import { BiSearch } from "react-icons/bi";
 import products from "../JSON/products.json";
 import Link from "next/link";
+import { dataContext } from "../../../Util/ContextData";
 
 function SearchBar() {
+  const { eng, setEng } = useContext(dataContext);
   const [filteredData, setFilteredData] = useState([]);
   const [wordEntered, setWordEntered] = useState("");
   const handleFilter = (event) => {
@@ -27,7 +29,7 @@ function SearchBar() {
   return (
     <div className='h-full'>
       <div className='relative'>
-        <input type='text' className={`rounded-2xl h-8 bg-white px-5 text-black font-normal w-60 focus:w-96 transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-black/10 focus:border-transparent shadow-inner shadow-black/50 ${wordEntered.length != 0 ? "w-96" : ""}`} placeholder='Caută produs...' onChange={handleFilter} value={wordEntered} />
+        <input type='text' className={`rounded-2xl h-8 bg-white px-5 text-black font-normal w-60 focus:w-96 transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-black/10 focus:border-transparent shadow-inner shadow-black/50 ${wordEntered.length != 0 ? "w-96" : ""}`} placeholder={eng ? "Caută produs..." : "Search..."} onChange={handleFilter} value={wordEntered} />
         <div className='absolute inset-y-0 right-0 text-2xl mr-2 mt-1 text-gray-400'>{wordEntered.length === 0 ? <BiSearch /> : <IoMdClose onClick={clearInput} className='cursor-pointer' />}</div>
       </div>
       {filteredData.length != 0 && (

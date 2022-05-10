@@ -1,42 +1,58 @@
 ﻿[
   {
     "catName": "ATI",
+    "enCatName": "ICU",
     "catDescription": "Dispozitive medicale necesare sectiei de Anestezie si Terapie Intensiva",
+    "enCatDescription": "Medical devices required for the Anesthesia and Intensive Care Unit",
     "catImage": "categorie-ati.png"
   },
   {
     "catName": "Chirurgie si laparoscopie",
+    "enCatName": "Surgery",
     "catDescription": "Clipuri si dispozitive speciale utilizate in Chirurgie",
+    "enCatDescription": "Clips and special devices used in surgery",
     "catImage": "categorie-si-laparoscopie.png"
   },
   {
     "catName": "Ingrijirea ranilor si a plagilor",
+    "enCatName": "Wounds Management",
     "catDescription": "Pansamente speciale si creme",
+    "enCatDescription": "Special types of dressings and creams",
     "catImage": "categorie-ingrijirea-plagilor-ranilor.png"
   },
   {
     "catName": "Protectie impotriva infectiilor",
+    "enCatName": "Protection against infection",
     "catDescription": "Dispozitive necesare pentru a preveni infectarea",
+    "enCatDescription": "Necessary devices to prevent infection",
     "catImage": "categorie-protectie-imporiva-infectiilor.png"
   },
   {
     "catName": "Oncologie",
+    "enCatName": "Oncology",
     "catDescription": "Consumabile pentru administrarea medicamentelor in siguranta",
+    "enCatDescription": "Disposable devices for safe administration of drugs",
     "catImage": "categorie-oncologie.png"
   },
   {
     "catName": "Urologie",
+    "enCatName": "Urology",
     "catDescription": "Sonde urinare si dispozitive special concepute pentru cazuri complexe",
+    "enCatDescription": "Urine catheters and devices specially designed for complex cases",
     "catImage": "categorie-urologie.png"
   },
   {
     "catName": "Sterilizare",
+    "enCatName": "Sterilisation",
     "catDescription": "Pungi, role si sisteme pentru sterilizare",
+    "enCatDescription": "Pouches, rollers and sterilization systems",
     "catImage": "categorie-sterilizare.png"
   },
   {
     "catName": "Radiologie interventionala si contrapulsatie",
+    "enCatName": "Interventional radiology and contrapulsation",
     "catDescription": "Sisteme IABP si microcatetere",
+    "enCatDescription": "IABP systems and microcatheters",
     "catImage": "categorie-radiologie-interventionala-contrapulsatie.png"
   }
 ]

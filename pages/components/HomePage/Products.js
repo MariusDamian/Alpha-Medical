@@ -6,6 +6,7 @@ import { dataContext } from "../../../Util/ContextData";
 
 function Products() {
   const { currentCategory, setCurrentCategory } = useContext(dataContext);
+  const { eng, setEng } = useContext(dataContext);
 
   let currentSub = subcategories?.filter((subcat) => subcat.subCatPar.replace(/ /g, "-").toLowerCase() === categories[currentCategory].catName.replace(/ /g, "-").toLowerCase());
 
@@ -24,17 +25,17 @@ function Products() {
               <img src='../../images/right-arrow.svg' alt='' />
             </button>
           </div>
-          <h1 className='text-5xl font-semibold'>{categories[currentCategory]?.catName}</h1>
-          <h1 className='text-xl'>{categories[currentCategory]?.catDescription}</h1>
+          <h1 className='text-5xl font-semibold'>{eng ? categories[currentCategory]?.catName : categories[currentCategory]?.enCatName}</h1>
+          <h1 className='text-xl'>{eng ? categories[currentCategory]?.catDescription : categories[currentCategory]?.enCatDescription}</h1>
           <Link href={"/produse"}>
-            <button className='css-button-sliding-to-left--green !border-white !text-white hover:!border-alpha-green !w-12 !text-lg'>DESCOPERA</button>
+            <button className='css-button-sliding-to-left--green !border-white !text-white hover:!border-alpha-green !w-12 !text-lg'>{eng ? "DESCOPERA" : "DISCOVER"}</button>
           </Link>
         </div>
         <div className={`w-1/3 aspect-square bg-[#73B6E7] flex flex-col p-20 py-28`}>
-          <h1 className='text-4xl font-semibold'>Categorii</h1>
+          <h1 className='text-4xl font-semibold'>{eng ? "Categorii" : "Categories"}</h1>
           <ul className='list-disc mt-10 space-y-2'>
             {currentSub.map((cat, key) => (
-              <li key={key}>{cat?.subCatName}</li>
+              <li key={key}>{eng ? cat?.subCatName : cat?.enSubCatName}</li>
             ))}
           </ul>
         </div>
@@ -42,7 +43,7 @@ function Products() {
       <div className='h-20 w-full bg-alpha-green lg:flex hidden flex-row items-center text-white'>
         {categories.map((categorie, key) => (
           <button onClick={() => setCurrentCategory(key)} className={`px-8 hover:bg-[#73B6E7] transition-all duration-500 h-full w-fit flex items-center border-t border-r text-left ${currentCategory === key ? "bg-[#73B6E7]" : ""}`} key={key}>
-            {categorie?.catName}
+            {eng ? categorie?.catName : categorie?.enCatName}
           </button>
         ))}
       </div>
