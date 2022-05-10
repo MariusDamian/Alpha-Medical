@@ -38,7 +38,7 @@ function Hero() {
             <div className='flex flex-col items-start justify-center w-full lg:max-w-2xl py-5 px-3 lg:px-0'>
               <AlphaTitle title={carousel[crsNumber].crsTitle} />
               <div className='max-w-xs lg:my-11'>
-                <AlphaSubtitle title={carousel[crsNumber].crsDesc} />
+                <AlphaSubtitle title={eng ? carousel[crsNumber].crsDesc : carousel[crsNumber].enCrsDesc} />
               </div>
               <Link href={carousel[crsNumber].crsLink}>
                 <button className='css-button-sliding-to-left--green scale-75 lg:scale-100 dark:text-white dark:border-white'>{eng ? "DESCOPERA" : "DISCOVER"}</button>

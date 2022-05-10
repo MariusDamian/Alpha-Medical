@@ -2,30 +2,35 @@
   {
     "crsTitle": "HAMILTON-MR1",
     "crsDesc": "Ventilator inteligent pentru ATI si RMN",
+    "enCrsDesc": "Intelligent ventilator for ICU and MRI",
     "crsLink": "/produse/hamilton-mr1",
     "crsImg": "carusel-1.webp"
   },
   {
     "crsTitle": "HAMILTON-T1",
-    "crsDesc": "Ventilator de transport - Certificat pentru toate tipurile de transport",
+    "crsDesc": "Transport ventilator – Certified for all medical transport types",
+    "enCrsDesc": "Intelligent ventilator for ICU and MRI",
     "crsLink": "/produse/hamilton-t1",
     "crsImg": "carusel-2.webp"
   },
   {
     "crsTitle": "HAMILTON-C1",
     "crsDesc": "Ventilator ATI Dimensiunea minima - performanta maxima",
+    "enCrsDesc": "ICU Ventilator- Minimum size for maximum performance",
     "crsLink": "/produse/hamilton-c1",
     "crsImg": "carusel-3.webp"
   },
   {
     "crsTitle": "SonoSite X-Porte",
     "crsDesc": "O abordare complet noua a ecografiei",
+    "enCrsDesc": "A new approach to ultrasound systems",
     "crsLink": "/produse/sonosite-x-porte",
     "crsImg": "carusel-4.webp"
   },
   {
     "crsTitle": "Alpha Medical",
     "crsDesc": "Calitate pentru viata",
+    "enCrsDesc": "Quality for life",
     "crsLink": "/produse",
     "crsImg": "carusel-5.webp"
   }

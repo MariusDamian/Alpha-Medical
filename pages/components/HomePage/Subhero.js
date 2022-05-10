@@ -9,7 +9,7 @@ function Subhero() {
       <div className='max-w-[1440px] mx-auto flex flex-row items-center lg:justify-start justify-center h-full lg:space-x-20 px-10'>
         <AlphaSubtitle title={eng ? "SERVICE AUTORIZAT" : "AUTHORISED SERVICE"} />
         <AlphaSubtitle title={eng ? "DISTRIBUTIE EXCLUSIVA" : "EXCLUSIVE DISTRIBUTION"} />
-        <AlphaSubtitle title={eng ? "SOLUTII PERFORMANTE" : "PERFORMANT SOLUTIONS"} />
+        <AlphaSubtitle title={eng ? "SOLUTII PERFORMANTE" : "HIGH PERFORMANCE SOLUTIONS"} />
       </div>
     </div>
   );
