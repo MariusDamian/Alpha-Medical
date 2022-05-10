@@ -10,7 +10,7 @@
     "subCatPar": "ATI",
     "enSubCatPar": "ICU",
     "subCatName": "Ecografe POC",
-    "enSubCatName": "Ultrasound systems",
+    "enSubCatName": "POC Ultrasound",
     "subCatImage": "subcategorie-ecografe-poc.webp"
   },
   {
@@ -31,7 +31,7 @@
     "subCatPar": "ATI",
     "enSubCatPar": "ICU",
     "subCatName": "Monitorizare functii vitale",
-    "enSubCatName": "Monitoring vital functions",
+    "enSubCatName": "Vital signs monitoring",
     "subCatImage": "subcategorie-monitorizare-functii-vitale.webp"
   },
   {
@@ -115,7 +115,7 @@
     "subCatPar": "Sterilizare",
     "enSubCatPar": "Sterilisation",
     "subCatName": "Consumabile",
-    "enSubCatName": "Supplies",
+    "enSubCatName": "Consumables",
     "subCatImage": "subcategorie-sterilizare-consumabile.webp"
   },
   {
@@ -150,21 +150,21 @@
     "subCatPar": "Radiologie-interventionala-si-contrapulsatie",
     "enSubCatPar": "Interventional radiology and counterpulsation",
     "subCatName": "Contrapulsatie",
-    "enSubCatName": "Contrapulsation",
+    "enSubCatName": "Counterpulsation",
     "subCatImage": "subcategorie-contrapulsatie.webp"
   },
   {
     "subCatPar": "Radiologie-interventionala-si-contrapulsatie",
     "enSubCatPar": "Interventional radiology and counterpulsation",
     "subCatName": "Cardiologie",
-    "enSubCatName": "Contrapulsation",
+    "enSubCatName": "Cardiology",
     "subCatImage": "subcategorie-cardiologie.webp"
   },
   {
     "subCatPar": "Radiologie-interventionala-si-contrapulsatie",
     "enSubCatPar": "Interventional radiology and counterpulsation",
     "subCatName": "Periferic",
-    "enSubCatName": "Contrapulsation",
+    "enSubCatName": "Perifery",
     "subCatImage": "subcategorie-periferic.webp"
   }
 ]

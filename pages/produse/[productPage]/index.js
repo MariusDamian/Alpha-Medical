@@ -1,4 +1,4 @@
-import { React } from "react";
+import { React, useState, useEffect, useContext } from "react";
 import products from "../../components/JSON/products.json";
 import { useRouter } from "next/router";
 import Navbar from "../../components/Navbar/Navbar";
@@ -9,6 +9,7 @@ import AlphaTitle from "../../components/Reutils/AlphaTitle";
 import AlphaSubtitle from "../../components/Reutils/AlphaSubtitle";
 import Link from "next/link";
 import Products from "../../components/HomePage/Products";
+import { dataContext } from "../../../Util/ContextData";
 
 // Product Page
 
@@ -16,14 +17,15 @@ function ProductPage({ productsProps }) {
   const router = useRouter();
   const { productPage } = router.query;
   let currentProduct = productsProps?.find((produs) => produs.name.replace(/ /g, "-").toLowerCase() === productPage);
+  const { eng, setEng } = useContext(dataContext);
 
   return (
     <>
       <Head>
         <title>
-          {currentProduct?.name} | {currentProduct?.Producator} | Alpha Medical
+          {eng ? currentProduct?.name : currentProduct?.enName} | {currentProduct?.Producator} | Alpha Medical
         </title>
-        <meta name='description' content={currentProduct?.seoDescription ?? currentProduct?.smallDescription} />
+        <meta name='description' content={currentProduct?.seoDescription ?? eng ? currentProduct?.smallDescription : currentProduct?.enSmallDescription} />
       </Head>
       <Menu />
       <Navbar />
@@ -36,12 +38,12 @@ function ProductPage({ productsProps }) {
               </Link>
             </div>
 
-            <h1 className='p-2 px-4 bg-[#7a9399] text-white w-fit my-8'>{currentProduct?.category}</h1>
+            <h1 className='p-2 px-4 bg-[#7a9399] text-white w-fit my-8'>{eng ? currentProduct?.category : currentProduct?.enCategory}</h1>
 
-            <AlphaTitle title={currentProduct?.name} />
+            <AlphaTitle title={eng ? currentProduct?.name : currentProduct?.enName} />
 
             <div className='text-justify my-5 max-w-xl'>
-              <AlphaSubtitle title={currentProduct?.fullDescription} />
+              <AlphaSubtitle title={eng ? currentProduct?.fullDescription : currentProduct?.enfullDescription} />
             </div>
 
             <div className='max-w-xl flex justify-end mt-10'>

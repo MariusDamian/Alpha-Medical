@@ -77,8 +77,8 @@ function Produse() {
                 <div className='bg-white cursor-pointer relative group'>
                   <img src={`images/productImage/logoPic/${product?.logoPic}`} alt='' className='scale-90' />
                   <div className='min-h-24 w-full bg-[#A2DBFA75]/50 backdrop-blur absolute bottom-0 group-hover:opacity-100 opacity-0 transition-all transform duration-500 p-4'>
-                    <h1 className='text-2xl'>{product?.name}</h1>
-                    <p className='text-lg'>{product?.smallDescription}</p>
+                    <h1 className='text-2xl'>{eng ? product?.name : product?.enName}</h1>
+                    <p className='text-lg'>{eng ? product?.smallDescription: product?.enSmallDescription}</p>
                   </div>
                 </div>
               </Link>
@@ -93,14 +93,14 @@ function Produse() {
             {categories.map((cat, key) => (
               <div key={key}>
                 <div className='flex flex-row justify-between items-center' onClick={() => mobileCatSelect(key)}>
-                  <p className='bg-[#476072] text-white px-5 py-2 border border-white text-sm w-full'>{cat.catName}</p>
+                  <p className='bg-[#476072] text-white px-5 py-2 border border-white text-sm w-full'>{eng ? cat?.catName : cat?.enCatName}</p>
                   {catTab === key ? <TiArrowSortedUp className='absolute right-0 text-white mr-2' /> : <TiArrowSortedDown className='absolute right-0 text-white mr-2' />}
                 </div>
                 {catTab === key
                   ? currentSub.map((subCat, key) => (
                       <div key={key}>
                         <div className='flex flex-row justify-between items-center' onClick={() => mobileSubbCatSelect(key)}>
-                          <p className='bg-[#D2E2E7] border border-gray-200 w-full px-6 py-1'>{subCat.subCatName}</p>
+                          <p className='bg-[#D2E2E7] border border-gray-200 w-full px-6 py-1'>{eng ? subCat?.subCatName : subCat?.enSubCatName}</p>
                           {subCatTab === key ? <TiArrowSortedUp className='absolute right-0 text-[#476072] mr-2' /> : <TiArrowSortedDown className='absolute right-0 text-[#476072] mr-2' />}
                         </div>
                         {subCatTab === key ? (
@@ -110,7 +110,7 @@ function Produse() {
                                 <div className='bg-white cursor-pointer relative group'>
                                   <img src={`images/productImage/logoPic/${product?.logoPic}`} alt='' className='scale-90' />
                                   <div className='min-h-16 w-full bg-[#A2DBFA75]/50 backdrop-blur absolute bottom-0 transition-all transform duration-500 p-2'>
-                                    <h1 className=''>{product?.name}</h1>
+                                    <h1 className=''>{eng ? product?.name : product?.enName}</h1>
                                   </div>
                                 </div>
                               </Link>

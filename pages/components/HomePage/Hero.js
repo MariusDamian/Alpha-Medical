@@ -4,9 +4,11 @@ import { React, useState, useEffect, useContext } from "react";
 import carousel from "../JSON/carousel.json";
 import Subhero from "../HomePage/Subhero";
 import Link from "next/link";
+import { dataContext } from "../../../Util/ContextData";
 
 function Hero() {
   const [crsNumber, setCrsNumber] = useState(0);
+  const { eng, setEng } = useContext(dataContext);
 
   useEffect(() => {
     const intervalId = setInterval(() => {
@@ -39,7 +41,7 @@ function Hero() {
                 <AlphaSubtitle title={carousel[crsNumber].crsDesc} />
               </div>
               <Link href={carousel[crsNumber].crsLink}>
-                <button className='css-button-sliding-to-left--green scale-75 lg:scale-100 dark:text-white dark:border-white'>DESCOPERA</button>
+                <button className='css-button-sliding-to-left--green scale-75 lg:scale-100 dark:text-white dark:border-white'>{eng ? "DESCOPERA" : "DISCOVER"}</button>
               </Link>
             </div>
           </div>
