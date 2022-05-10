@@ -40,11 +40,11 @@ function SearchBar() {
                 <Link key={index} href={`/produse/${produs.name}`.replaceAll(" ", "-").toLocaleLowerCase()}>
                   <a href='' onClick={clearInput}>
                     <div className='flex flex-row items-center mb-3'>
-                      <img src={`/images/productImage/thumbnail/${produs.Thumbnail}`} alt='' className='w-20 p-1 mr-3 rounded-xl' />
+                      <img src={`/images/productImage/logoPic/${produs.logoPic}`} alt='' className='w-20 p-1 mr-3 rounded-xl' />
                       <div className='flex flex-col hover:text-blue-900'>
-                        <p>{produs.name}</p>
-                        <p className='text-xs text-gray-800 hover:text-blue-900'>{produs.smallDescription}</p>
-                        <p className='text-[10px] mt-1'>{`${produs.category} > ${produs.subcategory}`}</p>
+                        <p>{eng ? produs.name : produs.enName}</p>
+                        <p className='text-xs text-gray-800 hover:text-blue-900'>{eng ? produs.smallDescription : produs.enSmallDescription}</p>
+                        <p className='text-[10px] mt-1'>{`${eng ? produs.category : produs.enCategory} > ${eng ? produs.subcategory : produs.enSubcategory}`}</p>
                       </div>
                     </div>
                   </a>
