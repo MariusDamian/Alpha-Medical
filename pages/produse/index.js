@@ -18,7 +18,7 @@ function Produse() {
 
   let currentSub = subcategories?.filter((subcat) => subcat.subCatPar.replace(/ /g, "-").toLowerCase() === categories[currentCategory].catName.replace(/ /g, "-").toLowerCase());
 
-  let prodArray = products?.filter((prod) => prod.subcategory === currentSub[currentSubCat].subCatName);
+  let prodArray = products?.filter((prod) => prod?.subcategory === currentSub[currentSubCat]?.subCatName);
 
   function changeCat(crr) {
     setCurrentCategory(crr);
@@ -78,7 +78,7 @@ function Produse() {
                   <img src={`images/productImage/logoPic/${product?.logoPic}`} alt='' className='scale-90' />
                   <div className='min-h-24 w-full bg-[#A2DBFA75]/50 backdrop-blur absolute bottom-0 group-hover:opacity-100 opacity-0 transition-all transform duration-500 p-4'>
                     <h1 className='text-2xl'>{eng ? product?.name : product?.enName}</h1>
-                    <p className='text-lg'>{eng ? product?.smallDescription: product?.enSmallDescription}</p>
+                    <p className='text-lg'>{eng ? product?.smallDescription : product?.enSmallDescription}</p>
                   </div>
                 </div>
               </Link>
@@ -97,7 +97,7 @@ function Produse() {
                   {catTab === key ? <TiArrowSortedUp className='absolute right-0 text-white mr-2' /> : <TiArrowSortedDown className='absolute right-0 text-white mr-2' />}
                 </div>
                 {catTab === key
-                  ? currentSub.map((subCat, key) => (
+                  ? currentSub?.map((subCat, key) => (
                       <div key={key}>
                         <div className='flex flex-row justify-between items-center' onClick={() => mobileSubbCatSelect(key)}>
                           <p className='bg-[#D2E2E7] border border-gray-200 w-full px-6 py-1'>{eng ? subCat?.subCatName : subCat?.enSubCatName}</p>
@@ -105,7 +105,7 @@ function Produse() {
                         </div>
                         {subCatTab === key ? (
                           <div className='grid lg:grid-cols-4 grid-cols-2 gap-1'>
-                            {prodArray.map((product, key) => (
+                            {prodArray?.map((product, key) => (
                               <Link href={`/produse/${product?.name.replace(/ /g, "-").toLowerCase()}`} key={key}>
                                 <div className='bg-white cursor-pointer relative group'>
                                   <img src={`images/productImage/logoPic/${product?.logoPic}`} alt='' className='scale-90' />
