@@ -86,7 +86,7 @@
   {
     "subCatPar": "Oncologie",
     "enSubCatPar": "Oncology",
-    "subCatName": "Aparatura",
+    "subCatName": "Aparatura Oncologie",
     "enSubCatName": "Devices",
     "subCatImage": "subcategorie-oncologie-aparatura.webp"
   },
@@ -107,7 +107,7 @@
   {
     "subCatPar": "Sterilizare",
     "enSubCatPar": "Sterilisation",
-    "subCatName": "Aparatura",
+    "subCatName": "Aparatura Sterilizare",
     "enSubCatName": "Devices",
     "subCatImage": "subcategorie-sterilizare-aparatura.webp"
   },
