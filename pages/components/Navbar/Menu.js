@@ -15,7 +15,7 @@ function Menu() {
   return (
     <Slide direction='right' in={menu} style={{ zIndex: 10 }} transition={{ exit: { duration: 1 } }}>
       <div className='lg:w-[550px] w-screen bg-black/80 h-full fixed top-0 right-0 z-20 flex flex-col items-start justify-center space-y-5 text-white px-10 backdrop-blur-xl'>
-        <div className='text-2xl space-y-4 flex flex-col items-start mt-10'>
+        <div className='text-2xl lg:space-y-4 space-y-1 flex flex-col items-start lg:mt-10 mt-16'>
           <Link href={"/"}>
             <button onClick={() => setMenu(false)} className='hover:text-alpha-green font-semibold transition-all duration-300'>
               <BsPlus className='inline-block mb-1 text-3xl' />
@@ -54,8 +54,8 @@ function Menu() {
             </button>
           </div>
         </div>
-        <div className='max-w-[300px]'>
-          <h1 className='text-2xl'>{eng ? "Adresa" : "Adress"}</h1>
+        <div className='max-w-[300px] text-sm'>
+          <h1 className='lg:text-2xl'>{eng ? "Adresa" : "Adress"}</h1>
           <p className='my-3'>Str. Sandu-Aldea Constantin nr.22, Sector 1, Bucureşti Romania</p>
           <p>Phone: +40 21 323 14 23 </p>
           <p>Mail: office@alphamedical.ro</p>
